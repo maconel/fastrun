@@ -3,8 +3,10 @@ from __future__ import with_statement
 import os
 import sys
 
+import pinyinlib
+
 #name  |path                  |cmd0  :cmd1    :cmd2
-#记事本|c:\windows\notepad.exe|记事本:jishiben:notepad.exe
+#记事本|c:\windows\notepad.exe|记事本:notepad.ex:jishibene
 class Item(object):
     def __init__(self, name, path, cmd):
         self.name = name
@@ -26,8 +28,14 @@ class Storage(object):
                     continue
                 self.items.append(Item(fields[0], fields[1], fields[2].split(':')))
 
-    def save(self):
-        pass
+    def add(self, name, path):
+        pinyinlist = pinyinlib.wordlist_to_pinyin(name)
+        item = Item(name, path, ':'.join((name, os.path.basename(path), ':'.join(pinyinlist))))
+
+        self.items.append(item)
+        with file(os.path.join(curfilepath(), '..\data\data.txt'), 'at') as f:
+            f.write('\n')
+            f.write('|'.join((item.name, item.path, item.cmd)))
 
 def curfilepath():
     return os.path.dirname(os.path.abspath(os.path.join(os.getcwd(), __file__)))

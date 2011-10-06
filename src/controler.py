@@ -43,7 +43,8 @@ class Controler(object):
         return False
 
     def run(self, item):
-        os.spawnv(os.P_NOWAIT, item.path, ())
+        #os.spawnv(os.P_NOWAIT, item.path, ())
+        os.system('start /B %s' % item.path)
 
     def on_run(self, item):
         self.run(item)

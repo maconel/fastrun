@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import sys
+import os
 
 import ui
 import storage
@@ -13,11 +14,12 @@ class Controler(object):
         self._mainform = ui.MainForm(self)
         self._storage = storage.Storage()
         self._storage.load()
+        self.on_search('')
 
     def uninit(self):
         self._storage.save()
 
-    def show(self):
+    def showmainform(self):
         self._mainform.show()
 
     def search(self, cmd):
@@ -28,9 +30,9 @@ class Controler(object):
             return True
 
         for subcmd in allcmd:
-            start = 0
+            start = -1
             for c in cmd:
-                start = subcmd.find(c, start)
+                start = subcmd.find(c, start + 1)
                 if start == -1:
                     #Not match.
                     break
@@ -40,14 +42,17 @@ class Controler(object):
 
         return False
 
-    def on_run(self):
-        pass
+    def run(self, item):
+        os.spawnv(os.P_NOWAIT, item.path, ())
 
-    def on_cmd_edit_textchanged(self, text):
+    def on_run(self, item):
+        self.run(item)
+
+    def on_search(self, text):
         self._mainform.showresult(self.search(text))
 
 def main():
     app = ui.QtGui.QApplication(sys.argv)
     controler = Controler()
-    controler.show()
+    controler.showmainform()
     sys.exit(app.exec_())

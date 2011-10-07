@@ -12,6 +12,7 @@ class Controler(object):
 
     def init(self):
         self._mainform = ui.MainForm(self)
+        self._addform = ui.AddForm(self)
         self._storage = storage.Storage()
         self._storage.load()
         self.on_search('')
@@ -23,6 +24,7 @@ class Controler(object):
         self._mainform.show()
 
     def search(self, cmd):
+        cmd = cmd.lower()
         return [item for item in self._storage.items if self.match(cmd, item.cmd)]
 
     def match(self, cmd, allcmd):
@@ -47,10 +49,18 @@ class Controler(object):
         os.system('start /B %s' % item.path)
 
     def on_run(self, item):
-        self.run(item)
+        if item:
+            self.run(item)
+        else:
+            #Not fount.
+            #TODO:MessageBox
+            self._addform.show(self._mainform.getcmd())
 
     def on_search(self, text):
         self._mainform.showresult(self.search(text))
+
+    def on_add(self, name, path):
+        self._storage.add(name, path)
 
 def main():
     app = ui.QtGui.QApplication(sys.argv)

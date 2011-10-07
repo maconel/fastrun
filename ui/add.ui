@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>addForm</class>
+ <widget class="QWidget" name="addForm">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>321</width>
+    <height>115</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="layoutDirection">
+   <enum>Qt::LeftToRight</enum>
+  </property>
+  <layout class="QFormLayout" name="formLayout">
+   <property name="fieldGrowthPolicy">
+    <enum>QFormLayout::AllNonFixedFieldsGrow</enum>
+   </property>
+   <item row="2" column="0">
+    <widget class="QLabel" name="name_label">
+     <property name="text">
+      <string>Name:</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="1">
+    <widget class="QLineEdit" name="name_edit"/>
+   </item>
+   <item row="5" column="1">
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <spacer name="horizontalSpacer">
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>40</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+     <item>
+      <widget class="QPushButton" name="ok_button">
+       <property name="text">
+        <string>&amp;Ok</string>
+       </property>
+       <property name="autoDefault">
+        <bool>true</bool>
+       </property>
+       <property name="default">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="cancel_button">
+       <property name="text">
+        <string>&amp;Cancel</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item row="0" column="1">
+    <layout class="QHBoxLayout" name="horizontalLayout_2">
+     <item>
+      <widget class="QLineEdit" name="path_edit"/>
+     </item>
+     <item>
+      <widget class="QToolButton" name="browse_button">
+       <property name="text">
+        <string>...</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item row="0" column="0">
+    <widget class="QLabel" name="path_label">
+     <property name="text">
+      <string>Path:</string>
+     </property>
+     <property name="buddy">
+      <cstring></cstring>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <tabstops>
+  <tabstop>path_edit</tabstop>
+  <tabstop>browse_button</tabstop>
+  <tabstop>name_edit</tabstop>
+  <tabstop>ok_button</tabstop>
+  <tabstop>cancel_button</tabstop>
+ </tabstops>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>cancel_button</sender>
+   <signal>clicked()</signal>
+   <receiver>addForm</receiver>
+   <slot>close()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>269</x>
+     <y>87</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>324</x>
+     <y>63</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>

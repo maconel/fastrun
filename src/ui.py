@@ -1,10 +1,12 @@
 # -*- coding: utf-8 -*-
 import sys
+import os
 
 from PyQt4 import QtGui
 from PyQt4 import QtCore
 
 from ui_main import Ui_mainForm
+from ui_add import Ui_addForm
 import storage
 
 class MainForm(QtGui.QWidget):
@@ -19,7 +21,7 @@ class MainForm(QtGui.QWidget):
 
         QtCore.QObject.connect(self.ui.run_button, QtCore.SIGNAL("clicked()"), self._on_run_button_clicked)
         QtCore.QObject.connect(self.ui.cmd_edit, QtCore.SIGNAL("textChanged(QString)"), self._on_cmd_edit_textchanged)
-        QtCore.QObject.connect(self.ui.result_listview, QtCore.SIGNAL("doubleClicked(QModelIndex)"), self._on_cmd_edit_textchanged)
+        QtCore.QObject.connect(self.ui.result_listview, QtCore.SIGNAL("doubleClicked(QModelIndex)"), self._on_result_listview_doubleclicked)
 
     def getcmd(self):
         return unicode(self.ui.cmd_edit.text()).encode('utf-8')
@@ -31,14 +33,19 @@ class MainForm(QtGui.QWidget):
             standardItem.setEditable(False)
             standardItem.setData(item)
             self._result_model.appendRow(standardItem)
+        if len(itemlist) > 0:
+            #TODO:选中第一个。
+            pass
 
     def _on_run_button_clicked(self):
+        item = None
         indexs = self.ui.result_listview.selectedIndexes()
         if len(indexs) == 0:
             #Not found.
             pass
         else:
-            self._event_handler.on_run(self._result_model.itemFromIndex(indexs[0]).data().toPyObject())
+            item = self._result_model.itemFromIndex(indexs[0]).data().toPyObject()
+        self._event_handler.on_run(item)
 
         self.ui.cmd_edit.selectAll()
         self.ui.cmd_edit.setFocus()
@@ -46,8 +53,43 @@ class MainForm(QtGui.QWidget):
     def _on_cmd_edit_textchanged(self, text):
         self._event_handler.on_search(unicode(text).encode('utf-8'))
 
-    def _on_cmd_edit_textchanged(self, index):
+    def _on_result_listview_doubleclicked(self, index):
         self._event_handler.on_run(self._result_model.itemFromIndex(index).data().toPyObject())
 
         self.ui.cmd_edit.selectAll()
         self.ui.cmd_edit.setFocus()
+
+
+class AddForm(QtGui.QWidget):
+    def __init__(self, event_handler):
+        super(AddForm, self).__init__(None)
+        self.ui = Ui_addForm()
+        self.ui.setupUi(self)
+        self._event_handler = event_handler
+        self._is_name_modified = False
+
+        QtCore.QObject.connect(self.ui.ok_button, QtCore.SIGNAL("clicked()"), self._on_ok_button_clicked)
+        QtCore.QObject.connect(self.ui.browse_button, QtCore.SIGNAL("clicked()"), self._on_browse_button_clicked)
+        QtCore.QObject.connect(self.ui.name_edit, QtCore.SIGNAL("textChanged(QString)"), self._on_name_edit_textchanged)
+
+    def show(self, name=''):
+        self._is_name_modified = False if len(name)==0 else True
+        self.ui.path_edit.clear()
+        self.ui.name_edit.setText(name.decode('utf-8'))
+        super(AddForm, self).show()
+
+    def _on_ok_button_clicked(self):
+        self._event_handler.on_add(unicode(self.ui.name_edit.text()).encode('utf-8'), unicode(self.ui.path_edit.text()).encode('utf-8'))
+        self.close()
+
+    def _on_browse_button_clicked(self):
+        file_dialog = QtGui.QFileDialog()
+        filepath = unicode(file_dialog.getOpenFileName())
+        if len(filepath) != 0:
+            filename = os.path.splitext(os.path.basename(filepath))[0]
+            self.ui.path_edit.setText(filepath)
+            if not self._is_name_modified:
+                self.ui.name_edit.setText(filename)
+
+    def _on_name_edit_textchanged(self):
+        self._is_name_modified = True

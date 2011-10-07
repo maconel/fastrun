@@ -19,6 +19,10 @@ class Item(object):
 class Storage(object):
     def __init__(self):
         self.items = []
+        #dddddddddddddddddddddddddddddddddddddddddddddddd
+        l = pinyinlib.wordlist_to_pinyin_unique('QQ旋风')
+        print l
+        #dddddddddddddddddddddddddddddddddddddddddddddddd
 
     def load(self):
         with file(os.path.join(curfilepath(), '..\data\data.txt'), 'rt') as f:
@@ -26,7 +30,7 @@ class Storage(object):
                 fields = line.rstrip('\r\n').split('|')
                 if len(fields) != 3:
                     continue
-                self.items.append(Item(fields[0], fields[1], fields[2].split(':')))
+                self.items.append(Item(fields[0], fields[1], fields[2].lower().split(':')))
 
     def add(self, name, path):
         pinyinlist = pinyinlib.wordlist_to_pinyin(name)

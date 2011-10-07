@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file 'ui/main.ui'
 #
-# Created: Fri Oct 07 22:09:39 2011
+# Created: Fri Oct 07 22:50:57 2011
 #      by: PyQt4 UI code generator 4.8.5
 #
 # WARNING! All changes made in this file will be lost!
@@ -18,7 +18,7 @@ class Ui_mainForm(object):
     def setupUi(self, mainForm):
         mainForm.setObjectName(_fromUtf8("mainForm"))
         mainForm.resize(400, 300)
-        mainForm.setWindowTitle(QtGui.QApplication.translate("mainForm", "Form", None, QtGui.QApplication.UnicodeUTF8))
+        mainForm.setWindowTitle(QtGui.QApplication.translate("mainForm", "fastrun", None, QtGui.QApplication.UnicodeUTF8))
         self.verticalLayout = QtGui.QVBoxLayout(mainForm)
         self.verticalLayout.setObjectName(_fromUtf8("verticalLayout"))
         self.horizontalLayout = QtGui.QHBoxLayout()
@@ -48,6 +48,9 @@ class Ui_mainForm(object):
         self.result_listview = QtGui.QListView(mainForm)
         self.result_listview.setObjectName(_fromUtf8("result_listview"))
         self.verticalLayout.addWidget(self.result_listview)
+        self.action_delete = QtGui.QAction(mainForm)
+        self.action_delete.setText(QtGui.QApplication.translate("mainForm", "&Delete", None, QtGui.QApplication.UnicodeUTF8))
+        self.action_delete.setObjectName(_fromUtf8("action_delete"))
 
         self.retranslateUi(mainForm)
         QtCore.QMetaObject.connectSlotsByName(mainForm)

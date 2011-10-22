@@ -34,18 +34,21 @@ class MainForm(QtGui.QWidget):
             standardItem.setData(item)
             self._result_model.appendRow(standardItem)
         if len(itemlist) > 0:
-            #TODO:选中第一个。
-            pass
+            self.ui.result_listview.selectionModel().select(self._result_model.index(0, 0), QtGui.QItemSelectionModel.Select)
+
+    def getselectitems(self):
+        return [self._result_model.itemFromIndex(i).data().toPyObject()
+                for i in self.ui.result_listview.selectedIndexes()]
+
+    def getallitems(self):
+        return [self._result_model.itemFromIndex(self._result_model.index(i, 0)).data().toPyObject()
+                for i in xrange(0, self._result_model.rowCount())]
+
+    def messagebox_notfound(self):
+        return QtGui.QMessageBox.Yes == QtGui.QMessageBox.question(self, u'提示', u'没找到，是否添加?', QtGui.QMessageBox.Yes, QtGui.QMessageBox.No)
 
     def _on_run_button_clicked(self):
-        item = None
-        indexs = self.ui.result_listview.selectedIndexes()
-        if len(indexs) == 0:
-            #Not found.
-            pass
-        else:
-            item = self._result_model.itemFromIndex(indexs[0]).data().toPyObject()
-        self._event_handler.on_run(item)
+        self._event_handler.on_run()
 
         self.ui.cmd_edit.selectAll()
         self.ui.cmd_edit.setFocus()
@@ -54,7 +57,7 @@ class MainForm(QtGui.QWidget):
         self._event_handler.on_search(unicode(text).encode('utf-8'))
 
     def _on_result_listview_doubleclicked(self, index):
-        self._event_handler.on_run(self._result_model.itemFromIndex(index).data().toPyObject())
+        self._event_handler.on_run_item(self._result_model.itemFromIndex(index).data().toPyObject())
 
         self.ui.cmd_edit.selectAll()
         self.ui.cmd_edit.setFocus()
@@ -86,7 +89,7 @@ class AddForm(QtGui.QWidget):
         file_dialog = QtGui.QFileDialog()
         filepath = unicode(file_dialog.getOpenFileName())
         if len(filepath) != 0:
-            filename = os.path.splitext(os.path.basename(filepath))[0]
+            filename = os.path.basename(filepath)
             self.ui.path_edit.setText(filepath)
             if not self._is_name_modified:
                 self.ui.name_edit.setText(filename)

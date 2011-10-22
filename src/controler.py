@@ -24,8 +24,7 @@ class Controler(object):
         self._mainform.show()
 
     def search(self, cmd):
-        cmd = cmd.lower()
-        return [item for item in self._storage.items if self.match(cmd, item.cmd)]
+        return [item for item in self._storage.items if self.match(cmd.lower(), item.cmd)]
 
     def match(self, cmd, allcmd):
         if len(cmd) == 0:
@@ -47,14 +46,19 @@ class Controler(object):
     def run(self, item):
         #os.spawnv(os.P_NOWAIT, item.path, ())
         os.system('start /B %s' % item.path)
+        self._storage.raise_priority(item)
 
-    def on_run(self, item):
+    def on_run(self):
+        items = self._mainform.getselectitems()
+        if len(items) > 0:
+            self.run(items[0])
+        else:
+            if self._mainform.messagebox_notfound():
+                self._addform.show(self._mainform.getcmd())
+
+    def on_run_item(self, item):
         if item:
             self.run(item)
-        else:
-            #Not fount.
-            #TODO:MessageBox
-            self._addform.show(self._mainform.getcmd())
 
     def on_search(self, text):
         self._mainform.showresult(self.search(text))

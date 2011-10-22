@@ -1,3 +1,1624 @@
-记事本|c:\windows\notepad.exe|记事本:notepad.exe:jishiben
-计算器|c:\windows\system32\calc.exe|计算器:calc.exe:jisuanqi
-QQ旋风|D:/Tencent/QQDownload/QQDownload.exe|QQ旋风:QQDownload.exe:xuanfeng:xuanfeng
+notepad.exe|C:\Windows\system32\notepad.exe|notepad.exe:notepad.exe:notepad.exe|0001
+notepad.exe|C:\Windows\notepad.exe|notepad.exe:notepad.exe:notepad.exe|0001
+calc.exe|C:\Windows\system32\calc.exe|calc.exe:calc.exe:calc.exe|0001
+scan.py|.\src\scan.py|scan.py|0000
+lrelease.exe|d:\\python25\Lib\site-packages\PyQt4\lrelease.exe|lrelease.exe:lrelease.exe:lrelease.exe|0000
+regsvr32.exe|C:\Windows\system32\regsvr32.exe|regsvr32.exe:regsvr32.exe:regsvr32.exe|0000
+git-update-ref.exe|d:\\git\libexec\git-core\git-update-ref.exe|git-update-ref.exe:git-update-ref.exe:git-update-ref.exe|0000
+InstallDaemon.exe|d:\\Youdao\Dict4\InstallDaemon.exe|installdaemon.exe:installdaemon.exe:installdaemon.exe|0000
+OpenGL Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\OpenGL Reference.lnk|opengl reference.lnk:opengl reference.lnk:opengl reference.lnk|0000
+uninst.exe|d:\\Tencent\QQPlayer\uninst.exe|uninst.exe:uninst.exe:uninst.exe|0000
+rmid.exe|d:\\VP Suite 5.3\jre\bin\rmid.exe|rmid.exe:rmid.exe:rmid.exe|0000
+rmiregistry.exe|d:\\VP Suite 5.3\jre\bin\rmiregistry.exe|rmiregistry.exe:rmiregistry.exe:rmiregistry.exe|0000
+tasm32.exe|d:\\bcb\CBuilder6\Bin\tasm32.exe|tasm32.exe:tasm32.exe:tasm32.exe|0000
+vdsldr.exe|C:\Windows\system32\vdsldr.exe|vdsldr.exe:vdsldr.exe:vdsldr.exe|0000
+SecEdit.exe|C:\Windows\system32\SecEdit.exe|secedit.exe:secedit.exe:secedit.exe|0000
+git-fmt-merge-msg.exe|d:\\git\libexec\git-core\git-fmt-merge-msg.exe|git-fmt-merge-msg.exe:git-fmt-merge-msg.exe:git-fmt-merge-msg.exe|0000
+naip.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\4.5.0\lib\nai\bin\naip.exe|naip.exe:naip.exe:naip.exe|0000
+PushPrinterConnections.exe|C:\Windows\system32\PushPrinterConnections.exe|pushprinterconnections.exe:pushprinterconnections.exe:pushprinterconnections.exe|0000
+git-pack-redundant.exe|d:\\git\libexec\git-core\git-pack-redundant.exe|git-pack-redundant.exe:git-pack-redundant.exe:git-pack-redundant.exe|0000
+auditpol.exe|C:\Windows\system32\auditpol.exe|auditpol.exe:auditpol.exe:auditpol.exe|0000
+cl.exe|d:\\vs8\VC\bin\cl.exe|cl.exe:cl.exe:cl.exe|0000
+git-pack-refs.exe|d:\\git\libexec\git-core\git-pack-refs.exe|git-pack-refs.exe:git-pack-refs.exe:git-pack-refs.exe|0000
+Microsoft .NET Framework 2.0 Configuration.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Microsoft .NET Framework 2.0 Configuration.lnk|microsoft .net framework 2.0 configuration.lnk:microsoft .net framework 2.0 configuration.lnk:microsoft .net framework 2.0 configuration.lnk|0000
+tsdiscon.exe|C:\Windows\system32\tsdiscon.exe|tsdiscon.exe:tsdiscon.exe:tsdiscon.exe|0000
+QQImeUtil.exe|d:\\Tencent\QQPinyin\4.3.1084.400\QQImeUtil.exe|qqimeutil.exe:qqimeutil.exe:qqimeutil.exe|0000
+Data Sources (ODBC).lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Data Sources (ODBC).lnk|data sources (odbc).lnk:data sources (odbc).lnk:data sources (odbc).lnk|0000
+share.exe|C:\Windows\system32\share.exe|share.exe:share.exe:share.exe|0000
+nvvsvc.exe|C:\Windows\system32\nvvsvc.exe|nvvsvc.exe:nvvsvc.exe:nvvsvc.exe|0000
+digest.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\4.5.0\bin\digest.exe|digest.exe:digest.exe:digest.exe|0000
+Microsoft Office Picture Manager.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office 工具\Microsoft Office Picture Manager.lnk|microsoft office picture manager.lnk:microsoft office picture manager.lnk:microsoft office picture manager.lnk|0000
+XLBugReport.exe|d:\\Thunder\MiniThunder\Bin\XLBugReport.exe|xlbugreport.exe:xlbugreport.exe:xlbugreport.exe|0000
+keytool.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\keytool.exe|keytool.exe:keytool.exe:keytool.exe|0000
+cat.exe|d:\\git\bin\cat.exe|cat.exe:cat.exe:cat.exe|0000
+sqlmon.exe|d:\\bcb\CBuilder6\Bin\sqlmon.exe|sqlmon.exe:sqlmon.exe:sqlmon.exe|0000
+tnameserv.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\tnameserv.exe|tnameserv.exe:tnameserv.exe:tnameserv.exe|0000
+SetupVS.exe|d:\\VP Suite 5.3\sde\sdevs2010\SetupVS.exe|setupvs.exe:setupvs.exe:setupvs.exe|0000
+link.exe|d:\\vs8\VC\bin\x86_ia64\link.exe|link.exe:link.exe:link.exe|0000
+displayswitch.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\displayswitch.lnk|displayswitch.lnk:displayswitch.lnk:displayswitch.lnk|0000
+VP Suite Product Launcher.exe|d:\\VP Suite 5.3\launcher\VP Suite Product Launcher.exe|vp suite product launcher.exe:vp suite product launcher.exe:vp suite product launcher.exe|0000
+VP Suite Update.exe|d:\\VP Suite 5.3\bin\VP Suite Update.exe|vp suite update.exe:vp suite update.exe:vp suite update.exe|0000
+touch.exe|d:\\bcb\CBuilder6\Bin\touch.exe|touch.exe:touch.exe:touch.exe|0000
+i686-apple-darwin9-ld64.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\4.5.0\lib\aot\bin\ld64\i686-apple-darwin9-ld64.exe|i686-apple-darwin9-ld64.exe:i686-apple-darwin9-ld64.exe:i686-apple-darwin9-ld64.exe|0000
+git-remote-https.exe|d:\\git\libexec\git-core\git-remote-https.exe|git-remote-https.exe:git-remote-https.exe:git-remote-https.exe|0000
+chgusr.exe|C:\Windows\system32\chgusr.exe|chgusr.exe:chgusr.exe:chgusr.exe|0000
+bcdedit.exe|C:\Windows\system32\bcdedit.exe|bcdedit.exe:bcdedit.exe:bcdedit.exe|0000
+run_sdevs.exe|d:\\VP Suite 5.3\launcher\run_sdevs.exe|run_sdevs.exe:run_sdevs.exe:run_sdevs.exe|0000
+FXSUNATD.exe|C:\Windows\system32\FXSUNATD.exe|fxsunatd.exe:fxsunatd.exe:fxsunatd.exe|0000
+mtstocom.exe|C:\Windows\system32\mtstocom.exe|mtstocom.exe:mtstocom.exe:mtstocom.exe|0000
+tcmsetup.exe|C:\Windows\system32\tcmsetup.exe|tcmsetup.exe:tcmsetup.exe:tcmsetup.exe|0000
+uninstall-gui.exe|d:\\vim\vim73\uninstall-gui.exe|uninstall-gui.exe:uninstall-gui.exe:uninstall-gui.exe|0000
+wpnpinst.exe|C:\Windows\system32\wpnpinst.exe|wpnpinst.exe:wpnpinst.exe:wpnpinst.exe|0000
+ps.exe|d:\\git\bin\ps.exe|ps.exe:ps.exe:ps.exe|0000
+mxmlc.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\3.6.0\bin\mxmlc.exe|mxmlc.exe:mxmlc.exe:mxmlc.exe|0000
+PnPUnattend.exe|C:\Windows\system32\PnPUnattend.exe|pnpunattend.exe:pnpunattend.exe:pnpunattend.exe|0000
+TMUninst.exe|d:\\Tencent\TM2009\TMUninst.exe|tmuninst.exe:tmuninst.exe:tmuninst.exe|0000
+bootrun.exe|d:\\VMware\VMware Workstation\Resources\bootrun.exe|bootrun.exe:bootrun.exe:bootrun.exe|0000
+makecab.exe|d:\\vs8\SmartDevices\SDK\SDKTools\makecab.exe|makecab.exe:makecab.exe:makecab.exe|0000
+Win32 Programmer's Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\Win32 Programmer's Reference.lnk|win32 programmer's reference.lnk:win32 programmer's reference.lnk:win32 programmer's reference.lnk|0000
+u.exe|d:\\fg\u.exe|u.exe:u.exe:u.exe|0000
+QQPYWizard.exe|d:\\Tencent\QQPinyin\4.3.1084.400\QQPYWizard.exe|qqpywizard.exe:qqpywizard.exe:qqpywizard.exe|0000
+secinit.exe|C:\Windows\system32\secinit.exe|secinit.exe:secinit.exe:secinit.exe|0000
+Task Scheduler.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Task Scheduler.lnk|task scheduler.lnk:task scheduler.lnk:task scheduler.lnk|0000
+dirname.exe|d:\\git\bin\dirname.exe|dirname.exe:dirname.exe:dirname.exe|0000
+forfiles.exe|C:\Windows\system32\forfiles.exe|forfiles.exe:forfiles.exe:forfiles.exe|0000
+git-diff-tree.exe|d:\\git\libexec\git-core\git-diff-tree.exe|git-diff-tree.exe:git-diff-tree.exe:git-diff-tree.exe|0000
+pcalua.exe|C:\Windows\system32\pcalua.exe|pcalua.exe:pcalua.exe:pcalua.exe|0000
+git-diff.exe|d:\\git\libexec\git-core\git-diff.exe|git-diff.exe:git-diff.exe:git-diff.exe|0000
+dvdplay.exe|C:\Windows\system32\dvdplay.exe|dvdplay.exe:dvdplay.exe:dvdplay.exe|0000
+WinDiff.Exe|d:\\vs8\Common7\Tools\Bin\WinDiff.Exe|windiff.exe:windiff.exe:windiff.exe|0000
+bpr2mak.exe|d:\\bcb\CBuilder6\Bin\bpr2mak.exe|bpr2mak.exe:bpr2mak.exe:bpr2mak.exe|0000
+DWWIN.EXE|C:\Windows\system32\DWWIN.EXE|dwwin.exe:dwwin.exe:dwwin.exe|0000
+SetIEInstalledDate.exe|C:\Windows\system32\SetIEInstalledDate.exe|setieinstalleddate.exe:setieinstalleddate.exe:setieinstalleddate.exe|0000
+fontview.exe|C:\Windows\system32\fontview.exe|fontview.exe:fontview.exe:fontview.exe|0000
+instmsiA.exe|d:\\vs8\SDK\v2.0\BootStrapper\Packages\InstMSI\instmsiA.exe|instmsia.exe:instmsia.exe:instmsia.exe|0000
+hcw.exe|d:\\bcb\CBuilder6\Help\Tools\hcw.exe|hcw.exe:hcw.exe:hcw.exe|0000
+vds.exe|C:\Windows\system32\vds.exe|vds.exe:vds.exe:vds.exe|0000
+diskraid.exe|C:\Windows\system32\diskraid.exe|diskraid.exe:diskraid.exe:diskraid.exe|0000
+Integrated Translation Environment.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\Integrated Translation Environment.lnk|integrated translation environment.lnk:integrated translation environment.lnk:integrated translation environment.lnk|0000
+run_dbvaij.exe|d:\\VP Suite 5.3\launcher\run_dbvaij.exe|run_dbvaij.exe:run_dbvaij.exe:run_dbvaij.exe|0000
+ieUnatt.exe|C:\Windows\system32\ieUnatt.exe|ieunatt.exe:ieunatt.exe:ieunatt.exe|0000
+nltest.exe|C:\Windows\system32\nltest.exe|nltest.exe:nltest.exe:nltest.exe|0000
+dccw.exe|C:\Windows\system32\dccw.exe|dccw.exe:dccw.exe:dccw.exe|0000
+Git Bash.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\git\Git Bash.lnk|git bash.lnk:git bash.lnk:git bash.lnk|0000
+Windows Journal.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Tablet PC\Windows Journal.lnk|windows journal.lnk:windows journal.lnk:windows journal.lnk|0000
+PEVerify.exe|d:\\vs8\SDK\v2.0\Bin\PEVerify.exe|peverify.exe:peverify.exe:peverify.exe|0000
+ose.exe|d:\\MSOCache\All Users\{90120000-0030-0000-0000-0000000FF1CE}-D\ose.exe|ose.exe:ose.exe:ose.exe|0000
+XLNonIESvr.exe|d:\\Thunder\MiniThunder\bho\XLNonIESvr.exe|xlnoniesvr.exe:xlnoniesvr.exe:xlnoniesvr.exe|0000
+git-rm.exe|d:\\git\libexec\git-core\git-rm.exe|git-rm.exe:git-rm.exe:git-rm.exe|0000
+Memory Diagnostics Tool.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Memory Diagnostics Tool.lnk|memory diagnostics tool.lnk:memory diagnostics tool.lnk:memory diagnostics tool.lnk|0000
+git.exe|d:\\git\libexec\git-core\git.exe|git.exe:git.exe:git.exe|0000
+rwinsta.exe|C:\Windows\system32\rwinsta.exe|rwinsta.exe:rwinsta.exe:rwinsta.exe|0000
+AdobeAIRInstaller.exe|C:\Users\maconel\desktop\flex_res\AdobeAIRInstaller.exe|adobeairinstaller.exe:adobeairinstaller.exe:adobeairinstaller.exe|0000
+7zFM.exe|d:\\7-Zip\7zFM.exe|7zfm.exe:7zfm.exe:7zfm.exe|0000
+ctags.exe|d:\\vim\vim73\ctags.exe|ctags.exe:ctags.exe:ctags.exe|0000
+Windows DVD Maker.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows DVD Maker.lnk|windows dvd maker.lnk:windows dvd maker.lnk:windows dvd maker.lnk|0000
+TabTip.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Tablet PC\TabTip.lnk|tabtip.lnk:tabtip.lnk:tabtip.lnk|0000
+git-mailsplit.exe|d:\\git\libexec\git-core\git-mailsplit.exe|git-mailsplit.exe:git-mailsplit.exe:git-mailsplit.exe|0000
+rdbgwiz.exe|d:\\vs8\Common7\IDE\rdbgwiz.exe|rdbgwiz.exe:rdbgwiz.exe:rdbgwiz.exe|0000
+Microsoft Tools Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\Microsoft Tools Reference.lnk|microsoft tools reference.lnk:microsoft tools reference.lnk:microsoft tools reference.lnk|0000
+Sandboxie 开始菜单.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Sandboxie\Sandboxie 开始菜单.lnk|sandboxie 开始菜单.lnk:sandboxie 开始菜单.lnk:sandboxie kaishicaidan.lnk:sandboxie kaishicaichan.lnk:sandboxie kaishicaishan.lnk|0000
+midl.exe|d:\\bcb\CBuilder6\Bin\midl.exe|midl.exe:midl.exe:midl.exe|0000
+wbadmin.exe|C:\Windows\system32\wbadmin.exe|wbadmin.exe:wbadmin.exe:wbadmin.exe|0000
+jp2launcher.exe|d:\\VP Suite 5.3\jre\bin\jp2launcher.exe|jp2launcher.exe:jp2launcher.exe:jp2launcher.exe|0000
+Magnify.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Accessibility\Magnify.lnk|magnify.lnk:magnify.lnk:magnify.lnk|0000
+taskkill.exe|C:\Windows\system32\taskkill.exe|taskkill.exe:taskkill.exe:taskkill.exe|0000
+taskhost.exe|C:\Windows\system32\taskhost.exe|taskhost.exe:taskhost.exe:taskhost.exe|0000
+farexec-service.exe|d:\\VMware\VMware Workstation\farexec-service.exe|farexec-service.exe:farexec-service.exe:farexec-service.exe|0000
+lame.exe|d:\\VP Suite 5.3\bin\vp_windows\lame\lame.exe|lame.exe:lame.exe:lame.exe|0000
+pgomgr.exe|d:\\vs8\VC\bin\pgomgr.exe|pgomgr.exe:pgomgr.exe:pgomgr.exe|0000
+git-commit-tree.exe|d:\\git\libexec\git-core\git-commit-tree.exe|git-commit-tree.exe:git-commit-tree.exe:git-commit-tree.exe|0000
+dosx.exe|C:\Windows\system32\dosx.exe|dosx.exe:dosx.exe:dosx.exe|0000
+Designer.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\PyQt GPL v4.8.5 for Python v2.5 (x86)\Designer.lnk|designer.lnk:designer.lnk:designer.lnk|0000
+git-stripspace.exe|d:\\git\libexec\git-core\git-stripspace.exe|git-stripspace.exe:git-stripspace.exe:git-stripspace.exe|0000
+java.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\java.exe|java.exe:java.exe:java.exe|0000
+Removepywin32.exe|d:\\python25\Removepywin32.exe|removepywin32.exe:removepywin32.exe:removepywin32.exe|0000
+ksetup.exe|C:\Windows\system32\ksetup.exe|ksetup.exe:ksetup.exe:ksetup.exe|0000
+SetupVS.exe|d:\\VP Suite 5.3\dbva\dbvavs\SetupVS.exe|setupvs.exe:setupvs.exe:setupvs.exe|0000
+takeown.exe|C:\Windows\system32\takeown.exe|takeown.exe:takeown.exe:takeown.exe|0000
+exe2bin.exe|C:\Windows\system32\exe2bin.exe|exe2bin.exe:exe2bin.exe:exe2bin.exe|0000
+git-fsck.exe|d:\\git\libexec\git-core\git-fsck.exe|git-fsck.exe:git-fsck.exe:git-fsck.exe|0000
+QQPYFace.exe|d:\\Tencent\QQPinyin\4.3.1084.400\QQPYFace.exe|qqpyface.exe:qqpyface.exe:qqpyface.exe|0000
+git-http-backend.exe|d:\\git\libexec\git-core\git-http-backend.exe|git-http-backend.exe:git-http-backend.exe:git-http-backend.exe|0000
+pythonservice.exe|d:\\python25\Lib\site-packages\win32\pythonservice.exe|pythonservice.exe:pythonservice.exe:pythonservice.exe|0000
+ONELEV.EXE|d:\\office\Office12\2052\ONELEV.EXE|onelev.exe:onelev.exe:onelev.exe|0000
+logagent.exe|C:\Windows\system32\logagent.exe|logagent.exe:logagent.exe:logagent.exe|0000
+uninstall_sdenb.exe|d:\\VP Suite 5.3\uninstaller\uninstall_sdenb.exe|uninstall_sdenb.exe:uninstall_sdenb.exe:uninstall_sdenb.exe|0000
+upgrade.exe|d:\\vs8\SmartDevices\SDK\SQL Server\Mobile\v3.0\wce500\x86\upgrade.exe|upgrade.exe:upgrade.exe:upgrade.exe|0000
+hdwwiz.exe|C:\Windows\system32\hdwwiz.exe|hdwwiz.exe:hdwwiz.exe:hdwwiz.exe|0000
+git-ls-remote.exe|d:\\git\libexec\git-core\git-ls-remote.exe|git-ls-remote.exe:git-ls-remote.exe:git-ls-remote.exe|0000
+diff.exe|d:\\git\bin\diff.exe|diff.exe:diff.exe:diff.exe|0000
+PresentationHost.exe|C:\Windows\system32\PresentationHost.exe|presentationhost.exe:presentationhost.exe:presentationhost.exe|0000
+dcc32.exe|d:\\bcb\CBuilder6\Bin\dcc32.exe|dcc32.exe:dcc32.exe:dcc32.exe|0000
+logoff.exe|C:\Windows\system32\logoff.exe|logoff.exe:logoff.exe:logoff.exe|0000
+iscsicpl.exe|C:\Windows\system32\iscsicpl.exe|iscsicpl.exe:iscsicpl.exe:iscsicpl.exe|0000
+diff.exe|d:\\vim\vim73\diff.exe|diff.exe:diff.exe:diff.exe|0000
+造词.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ拼音输入法\造词.lnk|造词.lnk:造词.lnk:zaoci.lnk|0000
+VcBuildHelper.exe|d:\\vs8\VC\bin\amd64\VcBuildHelper.exe|vcbuildhelper.exe:vcbuildhelper.exe:vcbuildhelper.exe|0000
+ltm.exe|d:\\vs8\VC\PlatformSDK\Bin\win64\AMD64\ltm.exe|ltm.exe:ltm.exe:ltm.exe|0000
+git-remote-ftp.exe|d:\\git\libexec\git-core\git-remote-ftp.exe|git-remote-ftp.exe:git-remote-ftp.exe:git-remote-ftp.exe|0000
+hh.exe|C:\Windows\hh.exe|hh.exe:hh.exe:hh.exe|0000
+git-format-patch.exe|d:\\git\libexec\git-core\git-format-patch.exe|git-format-patch.exe:git-format-patch.exe:git-format-patch.exe|0000
+svn.exe|d:\\VP Suite 5.3\bin\vp_windows\svn\bin\svn.exe|svn.exe:svn.exe:svn.exe|0000
+RebootStub.exe|d:\\vs8\Microsoft Visual Studio 2005 Team Edition for Software Developers - ENU\RebootStub.exe|rebootstub.exe:rebootstub.exe:rebootstub.exe|0000
+editplus.exe|d:\\editplus\editplus.exe|editplus.exe:editplus.exe:editplus.exe|0000
+mpnotify.exe|C:\Windows\system32\mpnotify.exe|mpnotify.exe:mpnotify.exe:mpnotify.exe|0000
+signtool.exe|d:\\vs8\SDK\v2.0\Bin\signtool.exe|signtool.exe:signtool.exe:signtool.exe|0000
+editbin.exe|d:\\vs8\VC\bin\amd64\editbin.exe|editbin.exe:editbin.exe:editbin.exe|0000
+VMwareToolsUpgrader9x.exe|d:\\VMware\VMware Workstation\tools-upgraders\VMwareToolsUpgrader9x.exe|vmwaretoolsupgrader9x.exe:vmwaretoolsupgrader9x.exe:vmwaretoolsupgrader9x.exe|0000
+TsUsbRedirectionGroupPolicyControl.exe|C:\Windows\system32\TsUsbRedirectionGroupPolicyControl.exe|tsusbredirectiongrouppolicycontrol.exe:tsusbredirectiongrouppolicycontrol.exe:tsusbredirectiongrouppolicycontrol.exe|0000
+uninst.exe|d:\\Tencent\QQDownload\uninst.exe|uninst.exe:uninst.exe:uninst.exe|0000
+vjsrdpchk.exe|d:\\vs8\SDK\v2.0\BootStrapper\Packages\VJSharpRDP\vjsrdpchk.exe|vjsrdpchk.exe:vjsrdpchk.exe:vjsrdpchk.exe|0000
+lsass.exe|C:\Windows\system32\lsass.exe|lsass.exe:lsass.exe:lsass.exe|0000
+getmac.exe|C:\Windows\system32\getmac.exe|getmac.exe:getmac.exe:getmac.exe|0000
+run_dbvavs.exe|d:\\VP Suite 5.3\launcher\run_dbvavs.exe|run_dbvavs.exe:run_dbvavs.exe:run_dbvavs.exe|0000
+uninstall_sdevs.exe|d:\\VP Suite 5.3\uninstaller\uninstall_sdevs.exe|uninstall_sdevs.exe:uninstall_sdevs.exe:uninstall_sdevs.exe|0000
+OIS.EXE|d:\\office\Office12\OIS.EXE|ois.exe:ois.exe:ois.exe|0000
+xcopy.exe|C:\Windows\system32\xcopy.exe|xcopy.exe:xcopy.exe:xcopy.exe|0000
+QQPYConfig.exe|d:\\Tencent\QQPinyin\4.3.1084.400\QQPYConfig.exe|qqpyconfig.exe:qqpyconfig.exe:qqpyconfig.exe|0000
+QQPYDict.exe|d:\\Tencent\QQPinyin\4.3.1084.400\QQPYDict.exe|qqpydict.exe:qqpydict.exe:qqpydict.exe|0000
+DeviceDisplayObjectProvider.exe|C:\Windows\system32\DeviceDisplayObjectProvider.exe|devicedisplayobjectprovider.exe:devicedisplayobjectprovider.exe:devicedisplayobjectprovider.exe|0000
+net.exe|C:\Windows\system32\net.exe|net.exe:net.exe:net.exe|0000
+cmdl32.exe|C:\Windows\system32\cmdl32.exe|cmdl32.exe:cmdl32.exe:cmdl32.exe|0000
+jbroker.exe|d:\\VP Suite 5.3\jre\bin\jbroker.exe|jbroker.exe:jbroker.exe:jbroker.exe|0000
+mpishim.exe|d:\\vs8\Common7\IDE\Remote Debugger\x64\mpishim.exe|mpishim.exe:mpishim.exe:mpishim.exe|0000
+netsh.exe|C:\Windows\system32\netsh.exe|netsh.exe:netsh.exe:netsh.exe|0000
+krnl386.exe|C:\Windows\system32\krnl386.exe|krnl386.exe:krnl386.exe:krnl386.exe|0000
+ThunderMini.exe|d:\\Thunder\MiniThunder\Bin\ThunderMini.exe|thundermini.exe:thundermini.exe:thundermini.exe|0000
+w9xpopen.exe|d:\\python25\w9xpopen.exe|w9xpopen.exe:w9xpopen.exe:w9xpopen.exe|0000
+Adobe Flash Builder 4.5 Plug-in Utility.exe|d:\\adobe\Adobe Flash Builder 4.5\utilities\Adobe Flash Builder 4.5 Plug-in Utility.exe|adobe flash builder 4.5 plug-in utility.exe:adobe flash builder 4.5 plug-in utility.exe:adobe flash builder 4.5 plug-in utility.exe|0000
+fg710x.exe|d:\\fg\fg710x.exe|fg710x.exe:fg710x.exe:fg710x.exe|0000
+pipeTestService.py.bak|d:\\python25\Lib\site-packages\win32\Demos\service\pipeTestService.py.bak|pipetestservice.py.bak:pipetestservice.py.bak:pipetestservice.py.bak|0000
+C Runtime Library Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\C Runtime Library Reference.lnk|c runtime library reference.lnk:c runtime library reference.lnk:c runtime library reference.lnk|0000
+rdpsign.exe|C:\Windows\system32\rdpsign.exe|rdpsign.exe:rdpsign.exe:rdpsign.exe|0000
+QQPYTrayBar.exe|d:\\Tencent\QQPinyin\4.3.1084.400\QQPYTrayBar.exe|qqpytraybar.exe:qqpytraybar.exe:qqpytraybar.exe|0000
+orbd.exe|d:\\VP Suite 5.3\jre\bin\orbd.exe|orbd.exe:orbd.exe:orbd.exe|0000
+cabarc.exe|d:\\bcb\CBuilder6\Bin\cabarc.exe|cabarc.exe:cabarc.exe:cabarc.exe|0000
+cscope.exe|d:\\$RECYCLE.BIN\S-1-5-21-356255826-206119901-504846942-1001\$RQHWQID\cscope.exe|cscope.exe:cscope.exe:cscope.exe|0000
+arm-apple-darwin9-as.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\4.5.0\lib\aot\bin\as\arm-apple-darwin9-as.exe|arm-apple-darwin9-as.exe:arm-apple-darwin9-as.exe:arm-apple-darwin9-as.exe|0000
+ssh-agent.exe|d:\\git\bin\ssh-agent.exe|ssh-agent.exe:ssh-agent.exe:ssh-agent.exe|0000
+wow_helper.exe|d:\\$RECYCLE.BIN\S-1-5-21-356255826-206119901-504846942-1001\$RCHU8ZR\wow_helper.exe|wow_helper.exe:wow_helper.exe:wow_helper.exe|0000
+lodctr.exe|C:\Windows\system32\lodctr.exe|lodctr.exe:lodctr.exe:lodctr.exe|0000
+ssvagent.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\ssvagent.exe|ssvagent.exe:ssvagent.exe:ssvagent.exe|0000
+HelpPane.exe|C:\Windows\HelpPane.exe|helppane.exe:helppane.exe:helppane.exe|0000
+ftp.exe|C:\Windows\system32\ftp.exe|ftp.exe:ftp.exe:ftp.exe|0000
+run_sdeij.exe|d:\\VP Suite 5.3\launcher\run_sdeij.exe|run_sdeij.exe:run_sdeij.exe:run_sdeij.exe|0000
+wsmprovhost.exe|C:\Windows\system32\wsmprovhost.exe|wsmprovhost.exe:wsmprovhost.exe:wsmprovhost.exe|0000
+lsm.exe|C:\Windows\system32\lsm.exe|lsm.exe:lsm.exe:lsm.exe|0000
+chmod.exe|d:\\git\bin\chmod.exe|chmod.exe:chmod.exe:chmod.exe|0000
+run_dbva.exe|d:\\VP Suite 5.3\launcher\run_dbva.exe|run_dbva.exe:run_dbva.exe:run_dbva.exe|0000
+pkt_deploy.exe|d:\\VMware\VMware Workstation\pkg\pkt_deploy.exe|pkt_deploy.exe:pkt_deploy.exe:pkt_deploy.exe|0000
+run_dbvaec.exe|d:\\VP Suite 5.3\launcher\run_dbvaec.exe|run_dbvaec.exe:run_dbvaec.exe:run_dbvaec.exe|0000
+Pen API Programmer's Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\Pen API Programmer's Reference.lnk|pen api programmer's reference.lnk:pen api programmer's reference.lnk:pen api programmer's reference.lnk|0000
+wusa.exe|C:\Windows\system32\wusa.exe|wusa.exe:wusa.exe:wusa.exe|0000
+uuidgen.exe|d:\\vs8\Common7\Tools\uuidgen.exe|uuidgen.exe:uuidgen.exe:uuidgen.exe|0000
+vnetstats.exe|d:\\VMware\VMware Workstation\vnetstats.exe|vnetstats.exe:vnetstats.exe:vnetstats.exe|0000
+Command Prompt.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Command Prompt.lnk|command prompt.lnk:command prompt.lnk:command prompt.lnk|0000
+Sc.Exe|d:\\vs8\Common7\Tools\Bin\winnt\Sc.Exe|sc.exe:sc.exe:sc.exe|0000
+cpp32.exe|d:\\bcb\CBuilder6\Bin\cpp32.exe|cpp32.exe:cpp32.exe:cpp32.exe|0000
+edlin.exe|C:\Windows\system32\edlin.exe|edlin.exe:edlin.exe:edlin.exe|0000
+Cert2Spc.Exe|d:\\vs8\Common7\Tools\Bin\Cert2Spc.Exe|cert2spc.exe:cert2spc.exe:cert2spc.exe|0000
+dumpbin.exe|d:\\vs8\VC\bin\amd64\dumpbin.exe|dumpbin.exe:dumpbin.exe:dumpbin.exe|0000
+etm60.exe|d:\\bcb\CBuilder6\Bin\etm60.exe|etm60.exe:etm60.exe:etm60.exe|0000
+EspExe.Exe|d:\\vs8\Common7\Tools\Bin\winnt\EspExe.Exe|espexe.exe:espexe.exe:espexe.exe|0000
+git-http-push.exe|d:\\git\libexec\git-core\git-http-push.exe|git-http-push.exe:git-http-push.exe:git-http-push.exe|0000
+vcredist_x86.exe|d:\\vs8\SDK\v2.0\BootStrapper\Packages\vcredist_x86\vcredist_x86.exe|vcredist_x86.exe:vcredist_x86.exe:vcredist_x86.exe|0000
+PEVerify.exe|d:\\vs8\Common7\IDE\PEVerify.exe|peverify.exe:peverify.exe:peverify.exe|0000
+SearchProtocolHost.exe|C:\Windows\system32\SearchProtocolHost.exe|searchprotocolhost.exe:searchprotocolhost.exe:searchprotocolhost.exe|0000
+git-index-pack.exe|d:\\git\libexec\git-core\git-index-pack.exe|git-index-pack.exe:git-index-pack.exe:git-index-pack.exe|0000
+odbcconf.exe|C:\Windows\system32\odbcconf.exe|odbcconf.exe:odbcconf.exe:odbcconf.exe|0000
+CertMgr.Exe|d:\\vs8\Common7\Tools\Bin\CertMgr.Exe|certmgr.exe:certmgr.exe:certmgr.exe|0000
+regedit.exe|C:\Windows\regedit.exe|regedit.exe:regedit.exe:regedit.exe|0000
+wish.exe|d:\\git\bin\wish.exe|wish.exe:wish.exe:wish.exe|0000
+ttt.exe|C:\Users\maconel\desktop\flex\ttt.exe|ttt.exe:ttt.exe:ttt.exe|0000
+ln.exe|d:\\git\bin\ln.exe|ln.exe:ln.exe:ln.exe|0000
+IDLE (Python GUI).lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Python 2.5\IDLE (Python GUI).lnk|idle (python gui).lnk:idle (python gui).lnk:idle (python gui).lnk|0000
+GettingStarted.exe|C:\Windows\system32\GettingStarted.exe|gettingstarted.exe:gettingstarted.exe:gettingstarted.exe|0000
+sethc.exe|C:\Windows\system32\sethc.exe|sethc.exe:sethc.exe:sethc.exe|0000
+sysedit.exe|C:\Windows\system32\sysedit.exe|sysedit.exe:sysedit.exe:sysedit.exe|0000
+chrome_launcher.exe|d:\\$RECYCLE.BIN\S-1-5-21-356255826-206119901-504846942-1001\$RCHU8ZR\servers\chrome_launcher.exe|chrome_launcher.exe:chrome_launcher.exe:chrome_launcher.exe|0000
+link.exe|d:\\vs8\VC\ce\bin\x86_mips\link.exe|link.exe:link.exe:link.exe|0000
+editbin.exe|d:\\vs8\VC\bin\x86_ia64\editbin.exe|editbin.exe:editbin.exe:editbin.exe|0000
+uninstall_dbvasql.exe|d:\\VP Suite 5.3\uninstaller\uninstall_dbvasql.exe|uninstall_dbvasql.exe:uninstall_dbvasql.exe:uninstall_dbvasql.exe|0000
+rdrleakdiag.exe|C:\Windows\system32\rdrleakdiag.exe|rdrleakdiag.exe:rdrleakdiag.exe:rdrleakdiag.exe|0000
+MultiDigiMon.exe|C:\Windows\system32\MultiDigiMon.exe|multidigimon.exe:multidigimon.exe:multidigimon.exe|0000
+SnippingTool.exe|C:\Windows\system32\SnippingTool.exe|snippingtool.exe:snippingtool.exe:snippingtool.exe|0000
+ktab.exe|d:\\VP Suite 5.3\jre\bin\ktab.exe|ktab.exe:ktab.exe:ktab.exe|0000
+sn.exe|d:\\vs8\SDK\v2.0\Bin\sn.exe|sn.exe:sn.exe:sn.exe|0000
+unlodctr.exe|C:\Windows\system32\unlodctr.exe|unlodctr.exe:unlodctr.exe:unlodctr.exe|0000
+makecab.exe|C:\Windows\system32\makecab.exe|makecab.exe:makecab.exe:makecab.exe|0000
+compc.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\3.6.0\bin\compc.exe|compc.exe:compc.exe:compc.exe|0000
+makecert.exe|d:\\vs8\Common7\Tools\Bin\makecert.exe|makecert.exe:makecert.exe:makecert.exe|0000
+startsdevs.exe|d:\\VP Suite 5.3\sde\sdevs2010\startsdevs.exe|startsdevs.exe:startsdevs.exe:startsdevs.exe|0000
+wish85.exe|d:\\git\bin\wish85.exe|wish85.exe:wish85.exe:wish85.exe|0000
+utl2idl.exe|d:\\vs8\Common7\Tools\Bin\winnt\utl2idl.exe|utl2idl.exe:utl2idl.exe:utl2idl.exe|0000
+pyrcc4.exe|d:\\python25\Lib\site-packages\PyQt4\pyrcc4.exe|pyrcc4.exe:pyrcc4.exe:pyrcc4.exe|0000
+appidcertstorecheck.exe|C:\Windows\system32\appidcertstorecheck.exe|appidcertstorecheck.exe:appidcertstorecheck.exe:appidcertstorecheck.exe|0000
+PyQwt Homepage.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\PyQt GPL v4.8.5 for Python v2.5 (x86)\Links\PyQwt Homepage.lnk|pyqwt homepage.lnk:pyqwt homepage.lnk:pyqwt homepage.lnk|0000
+zip.exe|d:\\VMware\VMware Workstation\zip.exe|zip.exe:zip.exe:zip.exe|0000
+baaupdate.exe|C:\Windows\system32\baaupdate.exe|baaupdate.exe:baaupdate.exe:baaupdate.exe|0000
+uninstall_sdeij.exe|d:\\VP Suite 5.3\uninstaller\uninstall_sdeij.exe|uninstall_sdeij.exe:uninstall_sdeij.exe:uninstall_sdeij.exe|0000
+uninstall_dbvaij.exe|d:\\VP Suite 5.3\uninstaller\uninstall_dbvaij.exe|uninstall_dbvaij.exe:uninstall_dbvaij.exe:uninstall_dbvaij.exe|0000
+SetupVS.exe|d:\\VP Suite 5.3\dbva\dbvavs2008\SetupVS.exe|setupvs.exe:setupvs.exe:setupvs.exe|0000
+OleView.Exe|d:\\vs8\Common7\Tools\Bin\OleView.Exe|oleview.exe:oleview.exe:oleview.exe|0000
+Windows SDK and OLE Knowledge Base.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\Windows SDK and OLE Knowledge Base.lnk|windows sdk and ole knowledge base.lnk:windows sdk and ole knowledge base.lnk:windows sdk and ole knowledge base.lnk|0000
+setup.exe|d:\\vs8\Microsoft Visual Studio 2005 Team Edition for Software Developers - ENU\setup.exe|setup.exe:setup.exe:setup.exe|0000
+Narrator.exe|C:\Windows\system32\Narrator.exe|narrator.exe:narrator.exe:narrator.exe|0000
+expand.exe|C:\Windows\system32\expand.exe|expand.exe:expand.exe:expand.exe|0000
+QuickLaunch.lnk|d:\\Sandboxie\QuickLaunch.lnk|quicklaunch.lnk:quicklaunch.lnk:quicklaunch.lnk|0000
+LocationNotifications.exe|C:\Windows\system32\LocationNotifications.exe|locationnotifications.exe:locationnotifications.exe:locationnotifications.exe|0000
+vmware-tray.exe|d:\\VMware\VMware Workstation\vmware-tray.exe|vmware-tray.exe:vmware-tray.exe:vmware-tray.exe|0000
+dinotify.exe|C:\Windows\system32\dinotify.exe|dinotify.exe:dinotify.exe:dinotify.exe|0000
+git-daemon.exe|d:\\git\libexec\git-core\git-daemon.exe|git-daemon.exe:git-daemon.exe:git-daemon.exe|0000
+WUDFHost.exe|C:\Windows\system32\WUDFHost.exe|wudfhost.exe:wudfhost.exe:wudfhost.exe|0000
+gpgkeys_finger.exe|d:\\git\libexec\gnupg\gpgkeys_finger.exe|gpgkeys_finger.exe:gpgkeys_finger.exe:gpgkeys_finger.exe|0000
+cabwiz.exe|d:\\vs8\SmartDevices\SDK\SDKTools\cabwiz.exe|cabwiz.exe:cabwiz.exe:cabwiz.exe|0000
+在沙盘中运行程序.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Sandboxie\在沙盘中运行程序.lnk|在沙盘中运行程序.lnk:在沙盘中运行程序.lnk:zaishapanzhongyunxingchengxu.lnk:zaishapanzhongyunhangchengxu.lnk:zaishapanzhongyunhangchengxu.lnk:zaishapanzhongyunhengchengxu.lnk:zaishapanzhongyunxingchengxu.lnk:zaishapanzhongyunhangchengxu.lnk:zaishapanzhongyunhangchengxu.lnk:zaishapanzhongyunhengchengxu.lnk:zaishapanzhongyunxingchengxu.lnk:zaishapanzhongyunhangchengxu.lnk:zaishapanzhongyunhangchengxu.lnk:zaishapanzhongyunhengchengxu.lnk:zaishapanzhongyunxingchengxu.lnk:zaishapanzhongyunhangchengxu.lnk:zaishapanzhongyunhangchengxu.lnk:zaishapanzhongyunhengchengxu.lnk|0000
+install.exe|d:\\vim\vim73\install.exe|install.exe:install.exe:install.exe|0000
+RMActivate_ssp.exe|C:\Windows\system32\RMActivate_ssp.exe|rmactivate_ssp.exe:rmactivate_ssp.exe:rmactivate_ssp.exe|0000
+卸载QQ拼音输入法.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ拼音输入法\卸载QQ拼音输入法.lnk|卸载qq拼音输入法.lnk:卸载qq拼音输入法.lnk:xiezaiqqpinyinshurufa.lnk:xiezaiqqpinyinshurufa.lnk:xiezaiqqbingyinshurufa.lnk:xiezaiqqbingyinshurufa.lnk:xiezaiqqpinyinshurufa.lnk:xiezaiqqpinyinshurufa.lnk:xiezaiqqbingyinshurufa.lnk:xiezaiqqbingyinshurufa.lnk|0000
+Windows Update.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Windows Update.lnk|windows update.lnk:windows update.lnk:windows update.lnk|0000
+wanyixiaUpdateUI.exe|d:\\DriveTheLife\wanyixia\wanyixiaUpdateUI.exe|wanyixiaupdateui.exe:wanyixiaupdateui.exe:wanyixiaupdateui.exe|0000
+ARP.EXE|C:\Windows\system32\ARP.EXE|arp.exe:arp.exe:arp.exe|0000
+tdstrp32.exe|d:\\bcb\CBuilder6\Bin\tdstrp32.exe|tdstrp32.exe:tdstrp32.exe:tdstrp32.exe|0000
+git-apply.exe|d:\\git\libexec\git-core\git-apply.exe|git-apply.exe:git-apply.exe:git-apply.exe|0000
+VaultSysUi.exe|C:\Windows\system32\VaultSysUi.exe|vaultsysui.exe:vaultsysui.exe:vaultsysui.exe|0000
+vixDiskMountServer.exe|d:\\VMware\VMware Workstation\vixDiskMountServer.exe|vixdiskmountserver.exe:vixdiskmountserver.exe:vixdiskmountserver.exe|0000
+services.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\services.lnk|services.lnk:services.lnk:services.lnk|0000
+ssh-keygen.exe|d:\\git\bin\ssh-keygen.exe|ssh-keygen.exe:ssh-keygen.exe:ssh-keygen.exe|0000
+Uninst.exe|d:\\Thunder\MiniThunder\Uninst.exe|uninst.exe:uninst.exe:uninst.exe|0000
+git-branch.exe|d:\\git\libexec\git-core\git-branch.exe|git-branch.exe:git-branch.exe:git-branch.exe|0000
+ORMTool.exe|d:\\VP Suite 5.3\ormlib\dotnet\2.0\ORMTool.exe|ormtool.exe:ormtool.exe:ormtool.exe|0000
+djoin.exe|C:\Windows\system32\djoin.exe|djoin.exe:djoin.exe:djoin.exe|0000
+netbtugc.exe|C:\Windows\system32\netbtugc.exe|netbtugc.exe:netbtugc.exe:netbtugc.exe|0000
+Image Editor Help.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\Image Editor Help.lnk|image editor help.lnk:image editor help.lnk:image editor help.lnk|0000
+recdisc.exe|C:\Windows\system32\recdisc.exe|recdisc.exe:recdisc.exe:recdisc.exe|0000
+vmplayer-service.exe|d:\\VMware\VMware Workstation\vmplayer-service.exe|vmplayer-service.exe:vmplayer-service.exe:vmplayer-service.exe|0000
+UI0Detect.exe|C:\Windows\system32\UI0Detect.exe|ui0detect.exe:ui0detect.exe:ui0detect.exe|0000
+DriveTheLife.exe|d:\\DriveTheLife\DriveTheLife.exe|drivethelife.exe:drivethelife.exe:drivethelife.exe|0000
+tskill.exe|C:\Windows\system32\tskill.exe|tskill.exe:tskill.exe:tskill.exe|0000
+arh.exe|d:\\adobe\Adobe Flash Builder 4.5\eclipse\plugins\com.adobe.flexide.communityhelp_4.5.0.308971\os\win32\x86\arh.exe|arh.exe:arh.exe:arh.exe|0000
+SystemPropertiesRemote.exe|C:\Windows\system32\SystemPropertiesRemote.exe|systempropertiesremote.exe:systempropertiesremote.exe:systempropertiesremote.exe|0000
+quser.exe|C:\Windows\system32\quser.exe|quser.exe:quser.exe:quser.exe|0000
+git-add.exe|d:\\git\libexec\git-core\git-add.exe|git-add.exe:git-add.exe:git-add.exe|0000
+WordBook.exe|d:\\Youdao\Dict4\WordBook.exe|wordbook.exe:wordbook.exe:wordbook.exe|0000
+shrpubw.exe|C:\Windows\system32\shrpubw.exe|shrpubw.exe:shrpubw.exe:shrpubw.exe|0000
+nais.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\4.5.0\lib\nai\bin\nais.exe|nais.exe:nais.exe:nais.exe|0000
+vnetlib.exe|d:\\VMware\VMware Workstation\vnetlib.exe|vnetlib.exe:vnetlib.exe:vnetlib.exe|0000
+wisptis.exe|C:\Windows\system32\wisptis.exe|wisptis.exe:wisptis.exe:wisptis.exe|0000
+eDbgJit.exe|d:\\vs8\SmartDevices\Debugger\target\wce400\x86\eDbgJit.exe|edbgjit.exe:edbgjit.exe:edbgjit.exe|0000
+CX2_x86.exe|d:\\VP Suite 5.3\bin\vp_windows\CX2_x86.exe|cx2_x86.exe:cx2_x86.exe:cx2_x86.exe|0000
+vmnetdhcp.exe|C:\Windows\system32\vmnetdhcp.exe|vmnetdhcp.exe:vmnetdhcp.exe:vmnetdhcp.exe|0000
+Depends.Exe|d:\\vs8\Common7\Tools\Bin\Depends.Exe|depends.exe:depends.exe:depends.exe|0000
+validatesd.exe|d:\\vs8\Common7\Tools\Bin\winnt\validatesd.exe|validatesd.exe:validatesd.exe:validatesd.exe|0000
+chkntfs.exe|C:\Windows\system32\chkntfs.exe|chkntfs.exe:chkntfs.exe:chkntfs.exe|0000
+git-verify-tag.exe|d:\\git\libexec\git-core\git-verify-tag.exe|git-verify-tag.exe:git-verify-tag.exe:git-verify-tag.exe|0000
+rmdir.exe|d:\\git\bin\rmdir.exe|rmdir.exe:rmdir.exe:rmdir.exe|0000
+PROJIMPT.EXE|d:\\office\Office12\PROJIMPT.EXE|projimpt.exe:projimpt.exe:projimpt.exe|0000
+imagegen.exe|d:\\vs8\SmartDevices\Emulators\DeviceEmulator\imagegen.exe|imagegen.exe:imagegen.exe:imagegen.exe|0000
+git-mktag.exe|d:\\git\libexec\git-core\git-mktag.exe|git-mktag.exe:git-mktag.exe:git-mktag.exe|0000
+wuapp.exe|C:\Windows\system32\wuapp.exe|wuapp.exe:wuapp.exe:wuapp.exe|0000
+winlogon.exe|C:\Windows\system32\winlogon.exe|winlogon.exe:winlogon.exe:winlogon.exe|0000
+MIDL Programmer's Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\MIDL Programmer's Reference.lnk|midl programmer's reference.lnk:midl programmer's reference.lnk:midl programmer's reference.lnk|0000
+sed.exe|d:\\git\bin\sed.exe|sed.exe:sed.exe:sed.exe|0000
+MdRes.exe|C:\Windows\system32\MdRes.exe|mdres.exe:mdres.exe:mdres.exe|0000
+Midl.Exe|d:\\vs8\Common7\Tools\Bin\Midl.Exe|midl.exe:midl.exe:midl.exe|0000
+Microsoft 剪辑管理器.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office 工具\Microsoft 剪辑管理器.lnk|microsoft 剪辑管理器.lnk:microsoft 剪辑管理器.lnk:microsoft jianjiguanliqi.lnk:microsoft jianjiguanliqi.lnk|0000
+dvdupgrd.exe|C:\Windows\system32\dvdupgrd.exe|dvdupgrd.exe:dvdupgrd.exe:dvdupgrd.exe|0000
+bordbg61.exe|d:\\bcb\Borland Shared\Debugger\bordbg61.exe|bordbg61.exe:bordbg61.exe:bordbg61.exe|0000
+ml.exe|d:\\vs8\VC\bin\ml.exe|ml.exe:ml.exe:ml.exe|0000
+LogTransport2.exe|d:\\adobe\Adobe Flash Builder 4.5\eclipse\plugins\com.adobe.flexide.nativelibs_4.5.0.308971\libs\LogTransport2.exe|logtransport2.exe:logtransport2.exe:logtransport2.exe|0000
+git-tag.exe|d:\\git\libexec\git-core\git-tag.exe|git-tag.exe:git-tag.exe:git-tag.exe|0000
+UltraISO 版本历史.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\UltraISO\UltraISO 版本历史.lnk|ultraiso 版本历史.lnk:ultraiso 版本历史.lnk:ultraiso banbenlishi.lnk|0000
+wsdl.exe|d:\\vs8\SDK\v2.0\Bin\wsdl.exe|wsdl.exe:wsdl.exe:wsdl.exe|0000
+diff.exe|d:\\$RECYCLE.BIN\S-1-5-21-356255826-206119901-504846942-1001\$RQHWQID\diff.exe|diff.exe:diff.exe:diff.exe|0000
+migwiz.lnk|C:\Windows\system32\migwiz.lnk|migwiz.lnk:migwiz.lnk:migwiz.lnk|0000
+git-cherry-pick.exe|d:\\git\libexec\git-core\git-cherry-pick.exe|git-cherry-pick.exe:git-cherry-pick.exe:git-cherry-pick.exe|0000
+lib.exe|d:\\vs8\VC\ce\bin\x86_sh\lib.exe|lib.exe:lib.exe:lib.exe|0000
+git-remote.exe|d:\\git\libexec\git-core\git-remote.exe|git-remote.exe:git-remote.exe:git-remote.exe|0000
+cl.exe|d:\\vs8\VC\bin\amd64\cl.exe|cl.exe:cl.exe:cl.exe|0000
+Git Bash.lnk|d:\\git\Git Bash.lnk|git bash.lnk:git bash.lnk:git bash.lnk|0000
+SystemPropertiesAdvanced.exe|C:\Windows\system32\SystemPropertiesAdvanced.exe|systempropertiesadvanced.exe:systempropertiesadvanced.exe:systempropertiesadvanced.exe|0000
+setver.exe|C:\Windows\system32\setver.exe|setver.exe:setver.exe:setver.exe|0000
+jusched.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\jusched.exe|jusched.exe:jusched.exe:jusched.exe|0000
+sc.exe|C:\Windows\system32\sc.exe|sc.exe:sc.exe:sc.exe|0000
+chgport.exe|C:\Windows\system32\chgport.exe|chgport.exe:chgport.exe:chgport.exe|0000
+schtasks.exe|C:\Windows\system32\schtasks.exe|schtasks.exe:schtasks.exe:schtasks.exe|0000
+eDbgJit.exe|d:\\vs8\SmartDevices\Debugger\target\wce400\mipsii\eDbgJit.exe|edbgjit.exe:edbgjit.exe:edbgjit.exe|0000
+Microsoft Programmer's Guide to Windows 95.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\Microsoft Programmer's Guide to Windows 95.lnk|microsoft programmer's guide to windows 95.lnk:microsoft programmer's guide to windows 95.lnk:microsoft programmer's guide to windows 95.lnk|0000
+Uninstall Python.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Python 2.5\Uninstall Python.lnk|uninstall python.lnk:uninstall python.lnk:uninstall python.lnk|0000
+ReportViewer.exe|d:\\vs8\SDK\v2.0\BootStrapper\Packages\ReportViewer\ReportViewer.exe|reportviewer.exe:reportviewer.exe:reportviewer.exe|0000
+rdpinit.exe|C:\Windows\system32\rdpinit.exe|rdpinit.exe:rdpinit.exe:rdpinit.exe|0000
+RemoveDock.exe|d:\\DriveTheLife\RemoveDock.exe|removedock.exe:removedock.exe:removedock.exe|0000
+vmware-ufad.exe|d:\\VMware\VMware Workstation\vmware-ufad.exe|vmware-ufad.exe:vmware-ufad.exe:vmware-ufad.exe|0000
+VBA 项目的数字证书.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office 工具\VBA 项目的数字证书.lnk|vba 项目的数字证书.lnk:vba 项目的数字证书.lnk:vba xiangmudeshuzizhengshu.lnk:vba xiangmudeshuzizhengshu.lnk:vba xiangmudeashuzizhengshu.lnk:vba xiangmudeashuzizhengshu.lnk:vba xiangmudeshuzizhengshu.lnk:vba xiangmudeshuzizhengshu.lnk:vba xiangmudeshuozizhengshu.lnk:vba xiangmudeshuozizhengshu.lnk:vba xiangmudishuzizhengshu.lnk:vba xiangmudishuzizhengshu.lnk:vba xiangmudiashuzizhengshu.lnk:vba xiangmudiashuzizhengshu.lnk:vba xiangmudishuzizhengshu.lnk:vba xiangmudishuzizhengshu.lnk:vba xiangmudishuozizhengshu.lnk:vba xiangmudishuozizhengshu.lnk:vba xiangmudishuzizhengshu.lnk:vba xiangmudishuzizhengshu.lnk:vba xiangmudiashuzizhengshu.lnk:vba xiangmudiashuzizhengshu.lnk:vba xiangmudishuzizhengshu.lnk:vba xiangmudishuzizhengshu.lnk:vba xiangmudishuozizhengshu.lnk:vba xiangmudishuozizhengshu.lnk|0000
+conhost.exe|C:\Windows\system32\conhost.exe|conhost.exe:conhost.exe:conhost.exe|0000
+Microsoft.XslDebugProxy.exe|d:\\vs8\Common7\IDE\Xml\Microsoft.XslDebugProxy.exe|microsoft.xsldebugproxy.exe:microsoft.xsldebugproxy.exe:microsoft.xsldebugproxy.exe|0000
+ntvdm.exe|C:\Windows\system32\ntvdm.exe|ntvdm.exe:ntvdm.exe:ntvdm.exe|0000
+QQImeRegSkin.exe|d:\\Tencent\QQPinyin\4.3.1084.400\QQImeRegSkin.exe|qqimeregskin.exe:qqimeregskin.exe:qqimeregskin.exe|0000
+vctobpru.exe|d:\\bcb\CBuilder6\Bin\vctobpru.exe|vctobpru.exe:vctobpru.exe:vctobpru.exe|0000
+startsdevs.exe|d:\\VP Suite 5.3\sde\sdevs2005\startsdevs.exe|startsdevs.exe:startsdevs.exe:startsdevs.exe|0000
+policytool.exe|d:\\VP Suite 5.3\jre\bin\policytool.exe|policytool.exe:policytool.exe:policytool.exe|0000
+vcdeploy.exe|d:\\vs8\VC\bin\amd64\vcdeploy.exe|vcdeploy.exe:vcdeploy.exe:vcdeploy.exe|0000
+launcher.exe|d:\\editplus\launcher.exe|launcher.exe:launcher.exe:launcher.exe|0000
+iSCSI Initiator.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\iSCSI Initiator.lnk|iscsi initiator.lnk:iscsi initiator.lnk:iscsi initiator.lnk|0000
+perfmon.exe|C:\Windows\system32\perfmon.exe|perfmon.exe:perfmon.exe:perfmon.exe|0000
+ntprint.exe|C:\Windows\system32\ntprint.exe|ntprint.exe:ntprint.exe:ntprint.exe|0000
+mspdbsrv.exe|d:\\vs8\VC\bin\ia64\mspdbsrv.exe|mspdbsrv.exe:mspdbsrv.exe:mspdbsrv.exe|0000
+git-fast-export.exe|d:\\git\libexec\git-core\git-fast-export.exe|git-fast-export.exe:git-fast-export.exe:git-fast-export.exe|0000
+Purble Place.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Games\Purble Place.lnk|purble place.lnk:purble place.lnk:purble place.lnk|0000
+RC.Exe|d:\\vs8\Common7\Tools\Bin\RC.Exe|rc.exe:rc.exe:rc.exe|0000
+xargs.exe|d:\\git\bin\xargs.exe|xargs.exe:xargs.exe:xargs.exe|0000
+TM.exe|d:\\Tencent\TM2009\Bin\TM.exe|tm.exe:tm.exe:tm.exe|0000
+C++Builder Command-line Tools.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\C++Builder Command-line Tools.lnk|c++builder command-line tools.lnk:c++builder command-line tools.lnk:c++builder command-line tools.lnk|0000
+System Restore.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\System Restore.lnk|system restore.lnk:system restore.lnk:system restore.lnk|0000
+uninst.exe|d:\\Tencent\QQPinyin\4.3.1084.400\uninst.exe|uninst.exe:uninst.exe:uninst.exe|0000
+rdpclip.exe|C:\Windows\system32\rdpclip.exe|rdpclip.exe:rdpclip.exe:rdpclip.exe|0000
+ndadmin.exe|C:\Windows\system32\ndadmin.exe|ndadmin.exe:ndadmin.exe:ndadmin.exe|0000
+Run.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Run.lnk|run.lnk:run.lnk:run.lnk|0000
+ie4uinit.exe|C:\Windows\system32\ie4uinit.exe|ie4uinit.exe:ie4uinit.exe:ie4uinit.exe|0000
+Win32s Programmer's Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\Win32s Programmer's Reference.lnk|win32s programmer's reference.lnk:win32s programmer's reference.lnk:win32s programmer's reference.lnk|0000
+newdev.exe|C:\Windows\system32\newdev.exe|newdev.exe:newdev.exe:newdev.exe|0000
+revoke.exe|d:\\vs8\SmartDevices\SDK\SDKTools\revoke.exe|revoke.exe:revoke.exe:revoke.exe|0000
+git-symbolic-ref.exe|d:\\git\libexec\git-core\git-symbolic-ref.exe|git-symbolic-ref.exe:git-symbolic-ref.exe:git-symbolic-ref.exe|0000
+Windows Media Player.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Media Player.lnk|windows media player.lnk:windows media player.lnk:windows media player.lnk|0000
+Internet Spades.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Games\Internet Spades.lnk|internet spades.lnk:internet spades.lnk:internet spades.lnk|0000
+SpOrder.Exe|d:\\vs8\Common7\Tools\Bin\winnt\SpOrder.Exe|sporder.exe:sporder.exe:sporder.exe|0000
+sproxy.exe|d:\\vs8\VC\bin\ia64\sproxy.exe|sproxy.exe:sproxy.exe:sproxy.exe|0000
+cu.exe|d:\\VP Suite 5.3\bin\vp_windows\cu.exe|cu.exe:cu.exe:cu.exe|0000
+dpnsvr.exe|C:\Windows\system32\dpnsvr.exe|dpnsvr.exe:dpnsvr.exe:dpnsvr.exe|0000
+errlook.exe|d:\\vs8\Common7\Tools\errlook.exe|errlook.exe:errlook.exe:errlook.exe|0000
+credwiz.exe|C:\Windows\system32\credwiz.exe|credwiz.exe:credwiz.exe:credwiz.exe|0000
+Media Center.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Media Center.lnk|media center.lnk:media center.lnk:media center.lnk|0000
+3D Vision 照片查看器.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\NVIDIA Corporation\3D Vision\3D Vision 照片查看器.lnk|3d vision 照片查看器.lnk:3d vision 照片查看器.lnk:3d vision zhaopianchakanqi.lnk:3d vision zhaopianchakanqi.lnk:3d vision zhaopianzhakanqi.lnk:3d vision zhaopianzhakanqi.lnk:3d vision zhaopianchakanqi.lnk:3d vision zhaopianchakanqi.lnk:3d vision zhaopianzhakanqi.lnk:3d vision zhaopianzhakanqi.lnk|0000
+Windows Easy Transfer Reports.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Windows Easy Transfer Reports.lnk|windows easy transfer reports.lnk:windows easy transfer reports.lnk:windows easy transfer reports.lnk|0000
+Pythonwin.exe|d:\\python25\Lib\site-packages\pythonwin\Pythonwin.exe|pythonwin.exe:pythonwin.exe:pythonwin.exe|0000
+regcap.exe|d:\\vs8\Common7\Tools\Deployment\regcap.exe|regcap.exe:regcap.exe:regcap.exe|0000
+uninstall_bpva.exe|d:\\VP Suite 5.3\uninstaller\uninstall_bpva.exe|uninstall_bpva.exe:uninstall_bpva.exe:uninstall_bpva.exe|0000
+scp.exe|d:\\git\bin\scp.exe|scp.exe:scp.exe:scp.exe|0000
+NetProj.exe|C:\Windows\system32\NetProj.exe|netproj.exe:netproj.exe:netproj.exe|0000
+cp.exe|d:\\git\bin\cp.exe|cp.exe:cp.exe:cp.exe|0000
+Timwp.exe|d:\\Tencent\TM2009\Bin\Timwp.exe|timwp.exe:timwp.exe:timwp.exe|0000
+git-patch-id.exe|d:\\git\libexec\git-core\git-patch-id.exe|git-patch-id.exe:git-patch-id.exe:git-patch-id.exe|0000
+certutil.exe|C:\Windows\system32\certutil.exe|certutil.exe:certutil.exe:certutil.exe|0000
+FreeU17.exe|d:\\fg\FreeU17.exe|freeu17.exe:freeu17.exe:freeu17.exe|0000
+CertEnrollCtrl.exe|C:\Windows\system32\CertEnrollCtrl.exe|certenrollctrl.exe:certenrollctrl.exe:certenrollctrl.exe|0000
+BdeHdCfg.exe|C:\Windows\system32\BdeHdCfg.exe|bdehdcfg.exe:bdehdcfg.exe:bdehdcfg.exe|0000
+fg713p.exe|d:\\fg\fg713p.exe|fg713p.exe:fg713p.exe:fg713p.exe|0000
+StorageTool.exe|d:\\Tencent\TM2009\Bin\StorageTool.exe|storagetool.exe:storagetool.exe:storagetool.exe|0000
+ReportViewerChk.exe|d:\\vs8\SDK\v2.0\BootStrapper\Packages\ReportViewer\ReportViewerChk.exe|reportviewerchk.exe:reportviewerchk.exe:reportviewerchk.exe|0000
+python.exe|d:\\python25\python.exe|python.exe:python.exe:python.exe|0000
+procexp.exe|d:\\ProcessExplorer\procexp.exe|procexp.exe:procexp.exe:procexp.exe|0000
+p2phost.exe|C:\Windows\system32\p2phost.exe|p2phost.exe:p2phost.exe:p2phost.exe|0000
+RelPost.exe|C:\Windows\system32\RelPost.exe|relpost.exe:relpost.exe:relpost.exe|0000
+sgen.exe|d:\\vs8\SDK\v2.0\Bin\sgen.exe|sgen.exe:sgen.exe:sgen.exe|0000
+mountvol.exe|C:\Windows\system32\mountvol.exe|mountvol.exe:mountvol.exe:mountvol.exe|0000
+csrstub.exe|C:\Windows\system32\csrstub.exe|csrstub.exe:csrstub.exe:csrstub.exe|0000
+Visual Studio 2005 Itanium Cross Tools Command Prompt.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Visual Studio 2005\Visual Studio Tools\Visual Studio 2005 Itanium Cross Tools Command Prompt.lnk|visual studio 2005 itanium cross tools command prompt.lnk:visual studio 2005 itanium cross tools command prompt.lnk:visual studio 2005 itanium cross tools command prompt.lnk|0000
+QQPYLevel.exe|d:\\Tencent\QQPinyin\4.3.1084.400\QQPYLevel.exe|qqpylevel.exe:qqpylevel.exe:qqpylevel.exe|0000
+vimrun.exe|d:\\$RECYCLE.BIN\S-1-5-21-356255826-206119901-504846942-1001\$RQHWQID\vimrun.exe|vimrun.exe:vimrun.exe:vimrun.exe|0000
+Windows Firewall with Advanced Security.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Windows Firewall with Advanced Security.lnk|windows firewall with advanced security.lnk:windows firewall with advanced security.lnk:windows firewall with advanced security.lnk|0000
+DRWATSON.EXE|C:\Windows\system32\DRWATSON.EXE|drwatson.exe:drwatson.exe:drwatson.exe|0000
+vmnetcfg.exe|d:\\VMware\VMware Workstation\vmnetcfg.exe|vmnetcfg.exe:vmnetcfg.exe:vmnetcfg.exe|0000
+Performance Monitor.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Performance Monitor.lnk|performance monitor.lnk:performance monitor.lnk:performance monitor.lnk|0000
+git-revert.exe|d:\\git\libexec\git-core\git-revert.exe|git-revert.exe:git-revert.exe:git-revert.exe|0000
+TXPlatform.exe|d:\\Tencent\TM2009\Bin\TXPlatform.exe|txplatform.exe:txplatform.exe:txplatform.exe|0000
+chrome_frame_helper.exe|d:\\$RECYCLE.BIN\S-1-5-21-356255826-206119901-504846942-1001\$RCHU8ZR\chrome_frame_helper.exe|chrome_frame_helper.exe:chrome_frame_helper.exe:chrome_frame_helper.exe|0000
+startdbvavs.exe|d:\\VP Suite 5.3\dbva\dbvavs2005\startdbvavs.exe|startdbvavs.exe:startdbvavs.exe:startdbvavs.exe|0000
+SetupVS.exe|d:\\VP Suite 5.3\sde\sdevs\SetupVS.exe|setupvs.exe:setupvs.exe:setupvs.exe|0000
+a2_mp.exe|d:\\vs8\VC\ce\bin\x86_mips\a2_mp.exe|a2_mp.exe:a2_mp.exe:a2_mp.exe|0000
+true.exe|d:\\git\bin\true.exe|true.exe:true.exe:true.exe|0000
+Register Now.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Register Now.lnk|register now.lnk:register now.lnk:register now.lnk|0000
+BitLockerWizard.exe|C:\Windows\system32\BitLockerWizard.exe|bitlockerwizard.exe:bitlockerwizard.exe:bitlockerwizard.exe|0000
+Visual Studio 2005 x64 Cross Tools Command Prompt.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Visual Studio 2005\Visual Studio Tools\Visual Studio 2005 x64 Cross Tools Command Prompt.lnk|visual studio 2005 x64 cross tools command prompt.lnk:visual studio 2005 x64 cross tools command prompt.lnk:visual studio 2005 x64 cross tools command prompt.lnk|0000
+typeperf.exe|C:\Windows\system32\typeperf.exe|typeperf.exe:typeperf.exe:typeperf.exe|0000
+XPS Viewer.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\XPS Viewer.lnk|xps viewer.lnk:xps viewer.lnk:xps viewer.lnk|0000
+checkv4.exe|d:\\vs8\Common7\Tools\Bin\checkv4.exe|checkv4.exe:checkv4.exe:checkv4.exe|0000
+FreeCell.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Games\FreeCell.lnk|freecell.lnk:freecell.lnk:freecell.lnk|0000
+midl.exe|d:\\vs8\VC\PlatformSDK\Bin\win64\IA64\midl.exe|midl.exe:midl.exe:midl.exe|0000
+LTM.EXE|d:\\vs8\VC\PlatformSDK\Bin\win64\IA64\LTM.EXE|ltm.exe:ltm.exe:ltm.exe|0000
+systray.exe|C:\Windows\system32\systray.exe|systray.exe:systray.exe:systray.exe|0000
+TlbExp.exe|d:\\vs8\SDK\v2.0\Bin\TlbExp.exe|tlbexp.exe:tlbexp.exe:tlbexp.exe|0000
+asdoc.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\3.6.0\bin\asdoc.exe|asdoc.exe:asdoc.exe:asdoc.exe|0000
+msconfig.exe|C:\Windows\system32\msconfig.exe|msconfig.exe:msconfig.exe:msconfig.exe|0000
+WOWDEB.EXE|C:\Windows\system32\WOWDEB.EXE|wowdeb.exe:wowdeb.exe:wowdeb.exe|0000
+vmware-vdiskmanager.exe|d:\\VMware\VMware Workstation\vmware-vdiskmanager.exe|vmware-vdiskmanager.exe:vmware-vdiskmanager.exe:vmware-vdiskmanager.exe|0000
+wow_helper.exe|d:\\chromium\wow_helper.exe|wow_helper.exe:wow_helper.exe:wow_helper.exe|0000
+ssvagent.exe|d:\\VP Suite 5.3\jre\bin\ssvagent.exe|ssvagent.exe:ssvagent.exe:ssvagent.exe|0000
+Cmb_Pb_LiveUpdate.exe|C:\Windows\system32\Cmb_Pb_LiveUpdate.exe|cmb_pb_liveupdate.exe:cmb_pb_liveupdate.exe:cmb_pb_liveupdate.exe|0000
+招行专业版.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\招行专业版.lnk|招行专业版.lnk:招行专业版.lnk:zhaoxingzhuanyeban.lnk:zhaoxingzhuanyiban.lnk:zhaohangzhuanyeban.lnk:zhaohangzhuanyiban.lnk:zhaohangzhuanyeban.lnk:zhaohangzhuanyiban.lnk:zhaohengzhuanyeban.lnk:zhaohengzhuanyiban.lnk|0000
+Qwt Homepage.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\PyQt GPL v4.8.5 for Python v2.5 (x86)\Links\Qwt Homepage.lnk|qwt homepage.lnk:qwt homepage.lnk:qwt homepage.lnk|0000
+config.xml.bak|d:\\Tencent\QQDownload\Skins\Default\Download\config.xml.bak|config.xml.bak:config.xml.bak:config.xml.bak|0000
+snmptrap.exe|C:\Windows\system32\snmptrap.exe|snmptrap.exe:snmptrap.exe:snmptrap.exe|0000
+DevicePairingWizard.exe|C:\Windows\system32\DevicePairingWizard.exe|devicepairingwizard.exe:devicepairingwizard.exe:devicepairingwizard.exe|0000
+winload.exe|C:\Windows\system32\winload.exe|winload.exe:winload.exe:winload.exe|0000
+tlib.exe|d:\\bcb\CBuilder6\Bin\tlib.exe|tlib.exe:tlib.exe:tlib.exe|0000
+TXOPShow.exe|d:\\Tencent\TM2009\Bin\TXOPShow.exe|txopshow.exe:txopshow.exe:txopshow.exe|0000
+audiodg.exe|C:\Windows\system32\audiodg.exe|audiodg.exe:audiodg.exe:audiodg.exe|0000
+Remote Assistance.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Maintenance\Remote Assistance.lnk|remote assistance.lnk:remote assistance.lnk:remote assistance.lnk|0000
+uninstal.exe|d:\\$RECYCLE.BIN\S-1-5-21-356255826-206119901-504846942-1001\$RQHWQID\uninstal.exe|uninstal.exe:uninstal.exe:uninstal.exe|0000
+link.exe|d:\\vs8\VC\bin\amd64\link.exe|link.exe:link.exe:link.exe|0000
+PyQt Class Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\PyQt GPL v4.8.5 for Python v2.5 (x86)\Documentation\PyQt Class Reference.lnk|pyqt class reference.lnk:pyqt class reference.lnk:pyqt class reference.lnk|0000
+WINSPOOL.EXE|C:\Windows\system32\WINSPOOL.EXE|winspool.exe:winspool.exe:winspool.exe|0000
+wininst-6.exe|d:\\python25\Lib\distutils\command\wininst-6.exe|wininst-6.exe:wininst-6.exe:wininst-6.exe|0000
+qcollectiongenerator.exe|d:\\python25\Lib\site-packages\PyQt4\qcollectiongenerator.exe|qcollectiongenerator.exe:qcollectiongenerator.exe:qcollectiongenerator.exe|0000
+oh.exe|d:\\bcb\CBuilder6\Bin\oh.exe|oh.exe:oh.exe:oh.exe|0000
+ose.exe|d:\\MSOCache\All Users\{90120000-0051-0000-0000-0000000FF1CE}-D\ose.exe|ose.exe:ose.exe:ose.exe|0000
+python.stx.bak|d:\\editplus\python.stx.bak|python.stx.bak:python.stx.bak:python.stx.bak|0000
+Uninstall PyQt.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\PyQt GPL v4.8.5 for Python v2.5 (x86)\Uninstall PyQt.lnk|uninstall pyqt.lnk:uninstall pyqt.lnk:uninstall pyqt.lnk|0000
+QQDeskUpdate.exe|d:\\Tencent\QQPlayer\QQDeskUpdate.exe|qqdeskupdate.exe:qqdeskupdate.exe:qqdeskupdate.exe|0000
+git-init-db.exe|d:\\git\libexec\git-core\git-init-db.exe|git-init-db.exe:git-init-db.exe:git-init-db.exe|0000
+wecutil.exe|C:\Windows\system32\wecutil.exe|wecutil.exe:wecutil.exe:wecutil.exe|0000
+rundll32.exe|C:\Windows\system32\rundll32.exe|rundll32.exe:rundll32.exe:rundll32.exe|0000
+upgrade.exe|d:\\vs8\SmartDevices\SDK\SQL Server\Mobile\v3.0\wce500\sh4\upgrade.exe|upgrade.exe:upgrade.exe:upgrade.exe|0000
+git-merge-ours.exe|d:\\git\libexec\git-core\git-merge-ours.exe|git-merge-ours.exe:git-merge-ours.exe:git-merge-ours.exe|0000
+禁用 3D Vision.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\NVIDIA Corporation\3D Vision\禁用 3D Vision.lnk|禁用 3d vision.lnk:禁用 3d vision.lnk:jinyong 3d vision.lnk:jinyong 3d vision.lnk|0000
+powercfg.exe|C:\Windows\system32\powercfg.exe|powercfg.exe:powercfg.exe:powercfg.exe|0000
+PyQt Book.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\PyQt GPL v4.8.5 for Python v2.5 (x86)\Links\PyQt Book.lnk|pyqt book.lnk:pyqt book.lnk:pyqt book.lnk|0000
+bcdboot.exe|C:\Windows\system32\bcdboot.exe|bcdboot.exe:bcdboot.exe:bcdboot.exe|0000
+System Configuration.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\System Configuration.lnk|system configuration.lnk:system configuration.lnk:system configuration.lnk|0000
+git-rev-list.exe|d:\\git\libexec\git-core\git-rev-list.exe|git-rev-list.exe:git-rev-list.exe:git-rev-list.exe|0000
+Task Scheduler.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Task Scheduler.lnk|task scheduler.lnk:task scheduler.lnk:task scheduler.lnk|0000
+uninstall_dbva.exe|d:\\VP Suite 5.3\uninstaller\uninstall_dbva.exe|uninstall_dbva.exe:uninstall_dbva.exe:uninstall_dbva.exe|0000
+pcawrk.exe|C:\Windows\system32\pcawrk.exe|pcawrk.exe:pcawrk.exe:pcawrk.exe|0000
+nmake.exe|d:\\vs8\VC\bin\nmake.exe|nmake.exe:nmake.exe:nmake.exe|0000
+QQPYClipboard.exe|d:\\Tencent\QQPinyin\4.3.1084.400\QQPYClipboard.exe|qqpyclipboard.exe:qqpyclipboard.exe:qqpyclipboard.exe|0000
+Programming with C++Builder.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\Programming with C++Builder.lnk|programming with c++builder.lnk:programming with c++builder.lnk:programming with c++builder.lnk|0000
+cvtres.exe|d:\\vs8\VC\bin\amd64\cvtres.exe|cvtres.exe:cvtres.exe:cvtres.exe|0000
+lib.exe|d:\\vs8\VC\bin\amd64\lib.exe|lib.exe:lib.exe:lib.exe|0000
+icsunattend.exe|C:\Windows\system32\icsunattend.exe|icsunattend.exe:icsunattend.exe:icsunattend.exe|0000
+TLIMPT.EXE|d:\\office\Office12\TLIMPT.EXE|tlimpt.exe:tlimpt.exe:tlimpt.exe|0000
+腾讯TM2009.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\腾讯软件\TM2009\腾讯TM2009.lnk|腾讯tm2009.lnk:腾讯tm2009.lnk:tengxuntm2009.lnk:tengxuntm2009.lnk|0000
+jureg.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\jureg.exe|jureg.exe:jureg.exe:jureg.exe|0000
+PStat.Exe|d:\\vs8\Common7\Tools\Bin\winnt\PStat.Exe|pstat.exe:pstat.exe:pstat.exe|0000
+isoburn.exe|C:\Windows\system32\isoburn.exe|isoburn.exe:isoburn.exe:isoburn.exe|0000
+mpishim.exe|d:\\vs8\Common7\IDE\Remote Debugger\ia64\mpishim.exe|mpishim.exe:mpishim.exe:mpishim.exe|0000
+taskmgr.exe.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\taskmgr.exe.lnk|taskmgr.exe.lnk:taskmgr.exe.lnk:taskmgr.exe.lnk|0000
+eDbgJit.exe|d:\\vs8\SmartDevices\Debugger\target\wce400\sh4\eDbgJit.exe|edbgjit.exe:edbgjit.exe:edbgjit.exe|0000
+regini.exe|C:\Windows\system32\regini.exe|regini.exe:regini.exe:regini.exe|0000
+asdoc.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\4.5.0\bin\asdoc.exe|asdoc.exe:asdoc.exe:asdoc.exe|0000
+odbct32w.exe|d:\\vs8\VC\PlatformSDK\Bin\win64\IA64\odbct32w.exe|odbct32w.exe:odbct32w.exe:odbct32w.exe|0000
+7z.exe|d:\\7-Zip\7z.exe|7z.exe:7z.exe:7z.exe|0000
+tail.exe|d:\\git\bin\tail.exe|tail.exe:tail.exe:tail.exe|0000
+Database Desktop.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Database Desktop.lnk|database desktop.lnk:database desktop.lnk:database desktop.lnk|0000
+jqs.exe|d:\\VP Suite 5.3\jre\bin\jqs.exe|jqs.exe:jqs.exe:jqs.exe|0000
+vmplayer.exe|d:\\VMware\VMware Workstation\vmplayer.exe|vmplayer.exe:vmplayer.exe:vmplayer.exe|0000
+Security Configuration Management.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Security Configuration Management.lnk|security configuration management.lnk:security configuration management.lnk:security configuration management.lnk|0000
+makecert.exe|d:\\vs8\SmartDevices\SDK\SDKTools\makecert.exe|makecert.exe:makecert.exe:makecert.exe|0000
+fg696p.exe|d:\\fg\fg696p.exe|fg696p.exe:fg696p.exe:fg696p.exe|0000
+java-rmi.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\java-rmi.exe|java-rmi.exe:java-rmi.exe:java-rmi.exe|0000
+QQPYHandInput.exe|d:\\Tencent\QQPinyin\4.3.1084.400\QQPYHandInput.exe|qqpyhandinput.exe:qqpyhandinput.exe:qqpyhandinput.exe|0000
+klist.exe|C:\Windows\system32\klist.exe|klist.exe:klist.exe:klist.exe|0000
+fvenotify.exe|C:\Windows\system32\fvenotify.exe|fvenotify.exe:fvenotify.exe:fvenotify.exe|0000
+TsWpfWrp.exe|C:\Windows\system32\TsWpfWrp.exe|tswpfwrp.exe:tswpfwrp.exe:tswpfwrp.exe|0000
+git-tar-tree.exe|d:\\git\libexec\git-core\git-tar-tree.exe|git-tar-tree.exe:git-tar-tree.exe:git-tar-tree.exe|0000
+vctobpr.exe|d:\\bcb\CBuilder6\Bin\vctobpr.exe|vctobpr.exe:vctobpr.exe:vctobpr.exe|0000
+flex.exe|d:\\git\bin\flex.exe|flex.exe:flex.exe:flex.exe|0000
+拼音字典.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ拼音输入法\拼音字典.lnk|拼音字典.lnk:拼音字典.lnk:pinyinzidian.lnk:pinyinzidian.lnk:bingyinzidian.lnk:bingyinzidian.lnk|0000
+wuauclt.exe|C:\Windows\system32\wuauclt.exe|wuauclt.exe:wuauclt.exe:wuauclt.exe|0000
+grep.exe|d:\\git\bin\grep.exe|grep.exe:grep.exe:grep.exe|0000
+BDE Administrator.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\BDE Administrator.lnk|bde administrator.lnk:bde administrator.lnk:bde administrator.lnk|0000
+Microsoft Office 2007 语言设置.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office 工具\Microsoft Office 2007 语言设置.lnk|microsoft office 2007 语言设置.lnk:microsoft office 2007 语言设置.lnk:microsoft office 2007 yuyanshezhi.lnk:microsoft office 2007 yuyanshezhi.lnk:microsoft office 2007 yuyansheda.lnk:microsoft office 2007 yuyanshezhi.lnk:microsoft office 2007 yuyanshezhi.lnk:microsoft office 2007 yuyansheda.lnk|0000
+rmiregistry.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\rmiregistry.exe|rmiregistry.exe:rmiregistry.exe:rmiregistry.exe|0000
+unregmp2.exe|C:\Windows\system32\unregmp2.exe|unregmp2.exe:unregmp2.exe:unregmp2.exe|0000
+coff2omf.exe|d:\\bcb\CBuilder6\Bin\coff2omf.exe|coff2omf.exe:coff2omf.exe:coff2omf.exe|0000
+Welcome Center.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Welcome Center.lnk|welcome center.lnk:welcome center.lnk:welcome center.lnk|0000
+InfDefaultInstall.exe|C:\Windows\system32\InfDefaultInstall.exe|infdefaultinstall.exe:infdefaultinstall.exe:infdefaultinstall.exe|0000
+midl.exe|d:\\vs8\VC\ce\bin\x86_arm\midl.exe|midl.exe:midl.exe:midl.exe|0000
+ctags.exe|d:\\$RECYCLE.BIN\S-1-5-21-356255826-206119901-504846942-1001\$RQHWQID\ctags.exe|ctags.exe:ctags.exe:ctags.exe|0000
+sproxy.exe|d:\\vs8\VC\bin\sproxy.exe|sproxy.exe:sproxy.exe:sproxy.exe|0000
+midl.exe|d:\\vs8\VC\ce\bin\x86_cex86\midl.exe|midl.exe:midl.exe:midl.exe|0000
+emulatorstub.exe|d:\\vs8\SmartDevices\Emulators\DeviceEmulator\armv4i\emulatorstub.exe|emulatorstub.exe:emulatorstub.exe:emulatorstub.exe|0000
+clstencil.exe|d:\\vs8\VC\bin\amd64\clstencil.exe|clstencil.exe:clstencil.exe:clstencil.exe|0000
+klist.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\klist.exe|klist.exe:klist.exe:klist.exe|0000
+Tb20.Exe|d:\\vs8\Common7\Tools\Bin\Tb20.Exe|tb20.exe:tb20.exe:tb20.exe|0000
+CX4.exe|d:\\VP Suite 5.3\bin\vp_windows\CX4.exe|cx4.exe:cx4.exe:cx4.exe|0000
+Microsoft Office Excel 2007.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office Excel 2007.lnk|microsoft office excel 2007.lnk:microsoft office excel 2007.lnk:microsoft office excel 2007.lnk|0000
+icardagt.exe|C:\Windows\system32\icardagt.exe|icardagt.exe:icardagt.exe:icardagt.exe|0000
+extract.exe|d:\\vs8\SmartDevices\SDK\SDKTools\extract.exe|extract.exe:extract.exe:extract.exe|0000
+git-upload-pack.exe|d:\\git\libexec\git-core\git-upload-pack.exe|git-upload-pack.exe:git-upload-pack.exe:git-upload-pack.exe|0000
+bridgeunattend.exe|C:\Windows\system32\bridgeunattend.exe|bridgeunattend.exe:bridgeunattend.exe:bridgeunattend.exe|0000
+Monitor.exe|d:\\Youdao\Dict4\Monitor.exe|monitor.exe:monitor.exe:monitor.exe|0000
+git-archive.exe|d:\\git\libexec\git-core\git-archive.exe|git-archive.exe:git-archive.exe:git-archive.exe|0000
+basename.exe|d:\\git\bin\basename.exe|basename.exe:basename.exe:basename.exe|0000
+eppshellreg.exe|d:\\editplus\eppshellreg.exe|eppshellreg.exe:eppshellreg.exe:eppshellreg.exe|0000
+System Information.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\System Information.lnk|system information.lnk:system information.lnk:system information.lnk|0000
+sea.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\4.5.0\lib\nai\lib\sea.exe|sea.exe:sea.exe:sea.exe|0000
+git-verify-pack.exe|d:\\git\libexec\git-core\git-verify-pack.exe|git-verify-pack.exe:git-verify-pack.exe:git-verify-pack.exe|0000
+fg706.exe|d:\\fg\fg706.exe|fg706.exe:fg706.exe:fg706.exe|0000
+ORMTool.exe|d:\\VP Suite 5.3\ormlib\dotnet\1.1\ORMTool.exe|ormtool.exe:ormtool.exe:ormtool.exe|0000
+RunDict.exe|d:\\Youdao\Dict4\RunDict.exe|rundict.exe:rundict.exe:rundict.exe|0000
+cmmon32.exe|C:\Windows\system32\cmmon32.exe|cmmon32.exe:cmmon32.exe:cmmon32.exe|0000
+i4jdel.exe|d:\\VP Suite 5.3\.install4j\i4jdel.exe|i4jdel.exe:i4jdel.exe:i4jdel.exe|0000
+git-show-ref.exe|d:\\git\libexec\git-core\git-show-ref.exe|git-show-ref.exe:git-show-ref.exe:git-show-ref.exe|0000
+git-sh-i18n--envsubst.exe|d:\\git\libexec\git-core\git-sh-i18n--envsubst.exe|git-sh-i18n--envsubst.exe:git-sh-i18n--envsubst.exe:git-sh-i18n--envsubst.exe|0000
+git-push.exe|d:\\git\libexec\git-core\git-push.exe|git-push.exe:git-push.exe:git-push.exe|0000
+EhStorAuthn.exe|C:\Windows\system32\EhStorAuthn.exe|ehstorauthn.exe:ehstorauthn.exe:ehstorauthn.exe|0000
+loginblocker.exe|d:\\VMware\VMware Workstation\Resources\loginblocker.exe|loginblocker.exe:loginblocker.exe:loginblocker.exe|0000
+upgrade.exe|d:\\vs8\SmartDevices\SDK\SQL Server\Mobile\v3.0\wce500\mipsii\upgrade.exe|upgrade.exe:upgrade.exe:upgrade.exe|0000
+msvsmon.exe|d:\\vs8\Common7\IDE\Remote Debugger\ia64\msvsmon.exe|msvsmon.exe:msvsmon.exe:msvsmon.exe|0000
+SystemPropertiesDataExecutionPrevention.exe|C:\Windows\system32\SystemPropertiesDataExecutionPrevention.exe|systempropertiesdataexecutionprevention.exe:systempropertiesdataexecutionprevention.exe:systempropertiesdataexecutionprevention.exe|0000
+vcbuild.exe|d:\\vs8\VC\vcpackages\vcbuild.exe|vcbuild.exe:vcbuild.exe:vcbuild.exe|0000
+date.exe|d:\\git\bin\date.exe|date.exe:date.exe:date.exe|0000
+MFC-ATL Trace Tool.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Visual Studio 2005\Visual Studio Tools\MFC-ATL Trace Tool.lnk|mfc-atl trace tool.lnk:mfc-atl trace tool.lnk:mfc-atl trace tool.lnk|0000
+wininit.exe|C:\Windows\system32\wininit.exe|wininit.exe:wininit.exe:wininit.exe|0000
+gpgv.exe|d:\\git\bin\gpgv.exe|gpgv.exe:gpgv.exe:gpgv.exe|0000
+eDbgJit.exe|d:\\vs8\SmartDevices\Debugger\target\wce400\armv4i\eDbgJit.exe|edbgjit.exe:edbgjit.exe:edbgjit.exe|0000
+git-cherry.exe|d:\\git\libexec\git-core\git-cherry.exe|git-cherry.exe:git-cherry.exe:git-cherry.exe|0000
+Qt Homepage.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\PyQt GPL v4.8.5 for Python v2.5 (x86)\Links\Qt Homepage.lnk|qt homepage.lnk:qt homepage.lnk:qt homepage.lnk|0000
+strip.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\4.5.0\lib\aot\bin\strip\strip.exe|strip.exe:strip.exe:strip.exe|0000
+wksprt.exe|C:\Windows\system32\wksprt.exe|wksprt.exe:wksprt.exe:wksprt.exe|0000
+curl.exe|d:\\git\bin\curl.exe|curl.exe:curl.exe:curl.exe|0000
+InstallPlugin.exe|d:\\adobe\Adobe Flash Builder 4.5\player\win\10.2\InstallPlugin.exe|installplugin.exe:installplugin.exe:installplugin.exe|0000
+taskmgr.exe|C:\Windows\system32\taskmgr.exe|taskmgr.exe:taskmgr.exe:taskmgr.exe|0000
+startsdevs.exe|d:\\VP Suite 5.3\sde\sdevs\startsdevs.exe|startsdevs.exe:startsdevs.exe:startsdevs.exe|0000
+TSFSCAN.exe|d:\\Tencent\TM2009\Bin\TSFSCAN.exe|tsfscan.exe:tsfscan.exe:tsfscan.exe|0000
+MDAC_TYP.EXE|d:\\vs8\SDK\v2.0\BootStrapper\Packages\MDAC28\En\MDAC_TYP.EXE|mdac_typ.exe:mdac_typ.exe:mdac_typ.exe|0000
+AutoUpdaterUI.exe|d:\\DriveTheLife\AutoUpdaterUI.exe|autoupdaterui.exe:autoupdaterui.exe:autoupdaterui.exe|0000
+vmware-vmx.exe|d:\\VMware\VMware Workstation\vmware-vmx.exe|vmware-vmx.exe:vmware-vmx.exe:vmware-vmx.exe|0000
+head.exe|d:\\git\bin\head.exe|head.exe:head.exe:head.exe|0000
+edm.exe|d:\\vs8\SmartDevices\Debugger\target\wce400\x86\edm.exe|edm.exe:edm.exe:edm.exe|0000
+QQImeRegDict.exe|d:\\Tencent\QQPinyin\4.3.1084.400\QQImeRegDict.exe|qqimeregdict.exe:qqimeregdict.exe:qqimeregdict.exe|0000
+recover.exe|C:\Windows\system32\recover.exe|recover.exe:recover.exe:recover.exe|0000
+RegisterIEPKEYs.exe|C:\Windows\system32\RegisterIEPKEYs.exe|registeriepkeys.exe:registeriepkeys.exe:registeriepkeys.exe|0000
+QQPYMakeWord.exe|d:\\Tencent\QQPinyin\4.3.1084.400\QQPYMakeWord.exe|qqpymakeword.exe:qqpymakeword.exe:qqpymakeword.exe|0000
+vmware-authd.exe|d:\\VMware\VMware Workstation\vmware-authd.exe|vmware-authd.exe:vmware-authd.exe:vmware-authd.exe|0000
+imgcust-reboot.exe|d:\\VMware\VMware Workstation\Resources\imgcust-reboot.exe|imgcust-reboot.exe:imgcust-reboot.exe:imgcust-reboot.exe|0000
+Narrator.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Accessibility\Narrator.lnk|narrator.lnk:narrator.lnk:narrator.lnk|0000
+git-gc.exe|d:\\git\libexec\git-core\git-gc.exe|git-gc.exe:git-gc.exe:git-gc.exe|0000
+logman.exe|C:\Windows\system32\logman.exe|logman.exe:logman.exe:logman.exe|0000
+git-show-branch.exe|d:\\git\libexec\git-core\git-show-branch.exe|git-show-branch.exe:git-show-branch.exe:git-show-branch.exe|0000
+BC2.exe|d:\\bc2\BC2.exe|bc2.exe:bc2.exe:bc2.exe|0000
+vmware-unity-helper.exe|d:\\VMware\VMware Workstation\vmware-unity-helper.exe|vmware-unity-helper.exe:vmware-unity-helper.exe:vmware-unity-helper.exe|0000
+rekeywiz.exe|C:\Windows\system32\rekeywiz.exe|rekeywiz.exe:rekeywiz.exe:rekeywiz.exe|0000
+editbin.exe|d:\\vs8\VC\bin\ia64\editbin.exe|editbin.exe:editbin.exe:editbin.exe|0000
+Microsoft Multimedia Programmer's Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\Microsoft Multimedia Programmer's Reference.lnk|microsoft multimedia programmer's reference.lnk:microsoft multimedia programmer's reference.lnk:microsoft multimedia programmer's reference.lnk|0000
+tstcon32.exe|d:\\vs8\VC\bin\ia64\tstcon32.exe|tstcon32.exe:tstcon32.exe:tstcon32.exe|0000
+Computer Management.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Computer Management.lnk|computer management.lnk:computer management.lnk:computer management.lnk|0000
+fastlib.exe|d:\\bcb\CBuilder6\Source\Rtl\Tools\fastlib.exe|fastlib.exe:fastlib.exe:fastlib.exe|0000
+GuidGen.exe|d:\\vs8\Common7\Tools\Bin\GuidGen.exe|guidgen.exe:guidgen.exe:guidgen.exe|0000
+keytool.exe|d:\\VP Suite 5.3\jre\bin\keytool.exe|keytool.exe:keytool.exe:keytool.exe|0000
+Error Messages and Warnings.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\Error Messages and Warnings.lnk|error messages and warnings.lnk:error messages and warnings.lnk:error messages and warnings.lnk|0000
+crash_service64.exe|d:\\$RECYCLE.BIN\S-1-5-21-356255826-206119901-504846942-1001\$RCHU8ZR\crash_service64.exe|crash_service64.exe:crash_service64.exe:crash_service64.exe|0000
+dcomcnfg.exe|C:\Windows\system32\dcomcnfg.exe|dcomcnfg.exe:dcomcnfg.exe:dcomcnfg.exe|0000
+cvtres.exe|d:\\vs8\VC\bin\cvtres.exe|cvtres.exe:cvtres.exe:cvtres.exe|0000
+git-write-tree.exe|d:\\git\libexec\git-core\git-write-tree.exe|git-write-tree.exe:git-write-tree.exe:git-write-tree.exe|0000
+GetAV.exe|d:\\DriveTheLife\Bind\GetAV.exe|getav.exe:getav.exe:getav.exe|0000
+tclsh.exe|d:\\git\bin\tclsh.exe|tclsh.exe:tclsh.exe:tclsh.exe|0000
+syskey.exe|C:\Windows\system32\syskey.exe|syskey.exe:syskey.exe:syskey.exe|0000
+rebase.exe|d:\\git\bin\rebase.exe|rebase.exe:rebase.exe:rebase.exe|0000
+autoconv.exe|C:\Windows\system32\autoconv.exe|autoconv.exe:autoconv.exe:autoconv.exe|0000
+certreq.exe|C:\Windows\system32\certreq.exe|certreq.exe:certreq.exe:certreq.exe|0000
+mctadmin.exe|C:\Windows\system32\mctadmin.exe|mctadmin.exe:mctadmin.exe:mctadmin.exe|0000
+uninstall_elaborview.exe|d:\\VP Suite 5.3\uninstaller\uninstall_elaborview.exe|uninstall_elaborview.exe:uninstall_elaborview.exe:uninstall_elaborview.exe|0000
+PerfMtr.Exe|d:\\vs8\Common7\Tools\Bin\winnt\PerfMtr.Exe|perfmtr.exe:perfmtr.exe:perfmtr.exe|0000
+Backup and Restore Center.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Maintenance\Backup and Restore Center.lnk|backup and restore center.lnk:backup and restore center.lnk:backup and restore center.lnk|0000
+pdftotext.exe|d:\\git\bin\pdftotext.exe|pdftotext.exe:pdftotext.exe:pdftotext.exe|0000
+mt.exe|d:\\vs8\VC\bin\mt.exe|mt.exe:mt.exe:mt.exe|0000
+msdtc.exe|C:\Windows\system32\msdtc.exe|msdtc.exe:msdtc.exe:msdtc.exe|0000
+MSTORE.EXE|d:\\office\Office12\MSTORE.EXE|mstore.exe:mstore.exe:mstore.exe|0000
+MSQRY32.EXE|d:\\office\Office12\MSQRY32.EXE|msqry32.exe:msqry32.exe:msqry32.exe|0000
+Standard C++ Library Help.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\Standard C++ Library Help.lnk|standard c++ library help.lnk:standard c++ library help.lnk:standard c++ library help.lnk|0000
+winhelp.exe|C:\Windows\winhelp.exe|winhelp.exe:winhelp.exe:winhelp.exe|0000
+VMware Player.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\VMware\VMware Player.lnk|vmware player.lnk:vmware player.lnk:vmware player.lnk|0000
+netiougc.exe|C:\Windows\system32\netiougc.exe|netiougc.exe:netiougc.exe:netiougc.exe|0000
+fsutil.exe|C:\Windows\system32\fsutil.exe|fsutil.exe:fsutil.exe:fsutil.exe|0000
+vcredist_IA64.exe|d:\\vs8\SDK\v2.0\BootStrapper\Packages\vcredist_IA64\vcredist_IA64.exe|vcredist_ia64.exe:vcredist_ia64.exe:vcredist_ia64.exe|0000
+UserAccountControlSettings.exe|C:\Windows\system32\UserAccountControlSettings.exe|useraccountcontrolsettings.exe:useraccountcontrolsettings.exe:useraccountcontrolsettings.exe|0000
+shared.lnk|d:\\VMware\VMware Workstation\Resources\shared.lnk|shared.lnk:shared.lnk:shared.lnk|0000
+Datapump.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Datapump.lnk|datapump.lnk:datapump.lnk:datapump.lnk|0000
+git-merge-file.exe|d:\\git\libexec\git-core\git-merge-file.exe|git-merge-file.exe:git-merge-file.exe:git-merge-file.exe|0000
+Windows PowerShell ISE.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows PowerShell\Windows PowerShell ISE.lnk|windows powershell ise.lnk:windows powershell ise.lnk:windows powershell ise.lnk|0000
+Math Input Panel.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Math Input Panel.lnk|math input panel.lnk:math input panel.lnk:math input panel.lnk|0000
+optimizer.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\3.6.0\bin\optimizer.exe|optimizer.exe:optimizer.exe:optimizer.exe|0000
+sppsvc.exe|C:\Windows\system32\sppsvc.exe|sppsvc.exe:sppsvc.exe:sppsvc.exe|0000
+adl.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\4.5.0\bin\adl.exe|adl.exe:adl.exe:adl.exe|0000
+Visual Studio 2005 Command Prompt.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Visual Studio 2005\Visual Studio Tools\Visual Studio 2005 Command Prompt.lnk|visual studio 2005 command prompt.lnk:visual studio 2005 command prompt.lnk:visual studio 2005 command prompt.lnk|0000
+git-var.exe|d:\\git\libexec\git-core\git-var.exe|git-var.exe:git-var.exe:git-var.exe|0000
+QQ旋风.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ旋风\QQ旋风.lnk|qq旋风.lnk:qq旋风.lnk:qqxuanfeng.lnk:qqxuanfeng.lnk|0000
+bulkDeploy.exe|d:\\VMware\VMware Workstation\pkg\bulkDeploy.exe|bulkdeploy.exe:bulkdeploy.exe:bulkdeploy.exe|0000
+ResGen.exe|d:\\vs8\SDK\v2.0\Bin\ResGen.exe|resgen.exe:resgen.exe:resgen.exe|0000
+imgCustPrep64.exe|d:\\VMware\VMware Workstation\Resources\imgCustPrep64.exe|imgcustprep64.exe:imgcustprep64.exe:imgcustprep64.exe|0000
+pvk2pfx.exe|d:\\vs8\Common7\Tools\Bin\pvk2pfx.exe|pvk2pfx.exe:pvk2pfx.exe:pvk2pfx.exe|0000
+cvs.exe|d:\\VP Suite 5.3\bin\vp_windows\cvs\cvs.exe|cvs.exe:cvs.exe:cvs.exe|0000
+gvim.exe|d:\\$RECYCLE.BIN\S-1-5-21-356255826-206119901-504846942-1001\$RQHWQID\gvim.exe|gvim.exe:gvim.exe:gvim.exe|0000
+dfrgui.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\dfrgui.lnk|dfrgui.lnk:dfrgui.lnk:dfrgui.lnk|0000
+appidpolicyconverter.exe|C:\Windows\system32\appidpolicyconverter.exe|appidpolicyconverter.exe:appidpolicyconverter.exe:appidpolicyconverter.exe|0000
+cleanmgr.exe|C:\Windows\system32\cleanmgr.exe|cleanmgr.exe:cleanmgr.exe:cleanmgr.exe|0000
+IFiltTst.Exe|d:\\vs8\Common7\Tools\Bin\winnt\IFiltTst.Exe|ifilttst.exe:ifilttst.exe:ifilttst.exe|0000
+setup.exe|d:\\VMware\VMware Workstation\pkg\setup.exe|setup.exe:setup.exe:setup.exe|0000
+ssh-add.exe|d:\\git\bin\ssh-add.exe|ssh-add.exe:ssh-add.exe:ssh-add.exe|0000
+git-diff-index.exe|d:\\git\libexec\git-core\git-diff-index.exe|git-diff-index.exe:git-diff-index.exe:git-diff-index.exe|0000
+bscmake.exe|d:\\vs8\VC\bin\ia64\bscmake.exe|bscmake.exe:bscmake.exe:bscmake.exe|0000
+uninstall-gui.exe|d:\\$RECYCLE.BIN\S-1-5-21-356255826-206119901-504846942-1001\$RQHWQID\uninstall-gui.exe|uninstall-gui.exe:uninstall-gui.exe:uninstall-gui.exe|0000
+grep.exe|d:\\bcb\CBuilder6\Bin\grep.exe|grep.exe:grep.exe:grep.exe|0000
+Eap3Host.exe|C:\Windows\system32\Eap3Host.exe|eap3host.exe:eap3host.exe:eap3host.exe|0000
+7-Zip File Manager.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip\7-Zip File Manager.lnk|7-zip file manager.lnk:7-zip file manager.lnk:7-zip file manager.lnk|0000
+genasm.exe|d:\\vs8\SDK\v2.0\Bin\genasm.exe|genasm.exe:genasm.exe:genasm.exe|0000
+Remote Spy.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Visual Studio 2005\Visual Studio Remote Tools\Remote Spy.lnk|remote spy.lnk:remote spy.lnk:remote spy.lnk|0000
+Intranet ActiveX Online Help.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\Intranet ActiveX Online Help.lnk|intranet activex online help.lnk:intranet activex online help.lnk:intranet activex online help.lnk|0000
+rxvt.exe|d:\\git\bin\rxvt.exe|rxvt.exe:rxvt.exe:rxvt.exe|0000
+GDI.EXE|C:\Windows\system32\GDI.EXE|gdi.exe:gdi.exe:gdi.exe|0000
+taskeng.exe|C:\Windows\system32\taskeng.exe|taskeng.exe:taskeng.exe:taskeng.exe|0000
+FreeU10.exe|d:\\fg\FreeU10.exe|freeu10.exe:freeu10.exe:freeu10.exe|0000
+nmake.exe|d:\\vs8\VC\bin\ia64\nmake.exe|nmake.exe:nmake.exe:nmake.exe|0000
+cttunesvr.exe|C:\Windows\system32\cttunesvr.exe|cttunesvr.exe:cttunesvr.exe:cttunesvr.exe|0000
+RowsetViewer.exe|d:\\vs8\VC\PlatformSDK\Bin\RowsetViewer.exe|rowsetviewer.exe:rowsetviewer.exe:rowsetviewer.exe|0000
+UserControlTestContainer.exe|d:\\vs8\Common7\IDE\UserControlTestContainer.exe|usercontroltestcontainer.exe:usercontroltestcontainer.exe:usercontroltestcontainer.exe|0000
+userinit.exe|C:\Windows\system32\userinit.exe|userinit.exe:userinit.exe:userinit.exe|0000
+git-update-index.exe|d:\\git\libexec\git-core\git-update-index.exe|git-update-index.exe:git-update-index.exe:git-update-index.exe|0000
+InstTXSSO.exe|d:\\Tencent\QQDownload\InstTXSSO.exe|insttxsso.exe:insttxsso.exe:insttxsso.exe|0000
+SandboxieBITS.exe|d:\\Sandboxie\SandboxieBITS.exe|sandboxiebits.exe:sandboxiebits.exe:sandboxiebits.exe|0000
+SearchFilterHost.exe|C:\Windows\system32\SearchFilterHost.exe|searchfilterhost.exe:searchfilterhost.exe:searchfilterhost.exe|0000
+down.lnk|C:\Users\maconel\desktop\down.lnk|down.lnk:down.lnk:down.lnk|0000
+gpgkeys_ldap.exe|d:\\git\libexec\gnupg\gpgkeys_ldap.exe|gpgkeys_ldap.exe:gpgkeys_ldap.exe:gpgkeys_ldap.exe|0000
+QQPYStrokesHelper.exe|d:\\Tencent\QQPinyin\4.3.1084.400\QQPYStrokesHelper.exe|qqpystrokeshelper.exe:qqpystrokeshelper.exe:qqpystrokeshelper.exe|0000
+git-ls-tree.exe|d:\\git\libexec\git-core\git-ls-tree.exe|git-ls-tree.exe:git-ls-tree.exe:git-ls-tree.exe|0000
+VP Suite License Viewer.exe|d:\\VP Suite 5.3\launcher\VP Suite License Viewer.exe|vp suite license viewer.exe:vp suite license viewer.exe:vp suite license viewer.exe|0000
+vprintproxy.exe|d:\\VMware\VMware Workstation\vprintproxy.exe|vprintproxy.exe:vprintproxy.exe:vprintproxy.exe|0000
+SQL Builder Help.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\SQL Builder Help.lnk|sql builder help.lnk:sql builder help.lnk:sql builder help.lnk|0000
+卸载QQ旋风.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ旋风\卸载QQ旋风.lnk|卸载qq旋风.lnk:卸载qq旋风.lnk:xiezaiqqxuanfeng.lnk:xiezaiqqxuanfeng.lnk:xiezaiqqxuanfeng.lnk:xiezaiqqxuanfeng.lnk|0000
+spoolsv.exe|C:\Windows\system32\spoolsv.exe|spoolsv.exe:spoolsv.exe:spoolsv.exe|0000
+java.exe|d:\\VP Suite 5.3\jre\bin\java.exe|java.exe:java.exe:java.exe|0000
+mv.exe|d:\\git\bin\mv.exe|mv.exe:mv.exe:mv.exe|0000
+YoudaoWSH.exe|d:\\Youdao\Dict4\YoudaoWSH.exe|youdaowsh.exe:youdaowsh.exe:youdaowsh.exe|0000
+win32popenWin9x.exe|d:\\python25\Lib\site-packages\win32\win32popenWin9x.exe|win32popenwin9x.exe:win32popenwin9x.exe:win32popenwin9x.exe|0000
+git-diff-files.exe|d:\\git\libexec\git-core\git-diff-files.exe|git-diff-files.exe:git-diff-files.exe:git-diff-files.exe|0000
+gpgsplit.exe|d:\\git\bin\gpgsplit.exe|gpgsplit.exe:gpgsplit.exe:gpgsplit.exe|0000
+dnscacheugc.exe|C:\Windows\system32\dnscacheugc.exe|dnscacheugc.exe:dnscacheugc.exe:dnscacheugc.exe|0000
+vcbuild.exe|d:\\vs8\VC\bin\amd64\vcbuild.exe|vcbuild.exe:vcbuild.exe:vcbuild.exe|0000
+git-reset.exe|d:\\git\libexec\git-core\git-reset.exe|git-reset.exe:git-reset.exe:git-reset.exe|0000
+extrac32.exe|C:\Windows\system32\extrac32.exe|extrac32.exe:extrac32.exe:extrac32.exe|0000
+sigverif.exe|C:\Windows\system32\sigverif.exe|sigverif.exe:sigverif.exe:sigverif.exe|0000
+RpcPing.exe|C:\Windows\system32\RpcPing.exe|rpcping.exe:rpcping.exe:rpcping.exe|0000
+ddodiag.exe|C:\Windows\system32\ddodiag.exe|ddodiag.exe:ddodiag.exe:ddodiag.exe|0000
+DTLUpg.exe|d:\\DriveTheLife\Autoupdater\DTLUpg.exe|dtlupg.exe:dtlupg.exe:dtlupg.exe|0000
+Template.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\4.5.0\runtimes\air\win\Adobe AIR\Versions\1.0\Resources\Template.exe|template.exe:template.exe:template.exe|0000
+edm.exe|d:\\vs8\SmartDevices\Debugger\target\wce400\mipsiv\edm.exe|edm.exe:edm.exe:edm.exe|0000
+WindowsInstaller-KB893803-v2-x86.exe|d:\\vs8\SDK\v2.0\BootStrapper\Packages\WindowsInstaller3_1\WindowsInstaller-KB893803-v2-x86.exe|windowsinstaller-kb893803-v2-x86.exe:windowsinstaller-kb893803-v2-x86.exe:windowsinstaller-kb893803-v2-x86.exe|0000
+git-send-pack.exe|d:\\git\libexec\git-core\git-send-pack.exe|git-send-pack.exe:git-send-pack.exe:git-send-pack.exe|0000
+Remote Zoom In.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Visual Studio 2005\Visual Studio Remote Tools\Remote Zoom In.lnk|remote zoom in.lnk:remote zoom in.lnk:remote zoom in.lnk|0000
+consume.exe|d:\\vs8\Common7\Tools\Bin\consume.exe|consume.exe:consume.exe:consume.exe|0000
+卸载 UltraISO.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\UltraISO\卸载 UltraISO.lnk|卸载 ultraiso.lnk:卸载 ultraiso.lnk:xiezai ultraiso.lnk:xiezai ultraiso.lnk|0000
+id.exe|d:\\git\bin\id.exe|id.exe:id.exe:id.exe|0000
+plasrv.exe|C:\Windows\system32\plasrv.exe|plasrv.exe:plasrv.exe:plasrv.exe|0000
+ias.exe|d:\\vs8\VC\bin\ia64\ias.exe|ias.exe:ias.exe:ias.exe|0000
+git-show.exe|d:\\git\libexec\git-core\git-show.exe|git-show.exe:git-show.exe:git-show.exe|0000
+PyQt Homepage.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\PyQt GPL v4.8.5 for Python v2.5 (x86)\Links\PyQt Homepage.lnk|pyqt homepage.lnk:pyqt homepage.lnk:pyqt homepage.lnk|0000
+regsetup.py.bak|d:\\python25\Lib\site-packages\win32\scripts\regsetup.py.bak|regsetup.py.bak:regsetup.py.bak:regsetup.py.bak|0000
+bzip2.exe|d:\\git\bin\bzip2.exe|bzip2.exe:bzip2.exe:bzip2.exe|0000
+mspdbsrv.exe|d:\\vs8\Common7\IDE\mspdbsrv.exe|mspdbsrv.exe:mspdbsrv.exe:mspdbsrv.exe|0000
+PING.EXE|C:\Windows\system32\PING.EXE|ping.exe:ping.exe:ping.exe|0000
+javaw.exe|d:\\VP Suite 5.3\jre\bin\javaw.exe|javaw.exe:javaw.exe:javaw.exe|0000
+fveupdate.exe|C:\Windows\fveupdate.exe|fveupdate.exe:fveupdate.exe:fveupdate.exe|0000
+git-remote-fd.exe|d:\\git\libexec\git-core\git-remote-fd.exe|git-remote-fd.exe:git-remote-fd.exe:git-remote-fd.exe|0000
+QQPlayer.exe|d:\\Tencent\QQPlayer\QQPlayer.exe|qqplayer.exe:qqplayer.exe:qqplayer.exe|0000
+uninstall_vpuml.exe|d:\\VP Suite 5.3\uninstaller\uninstall_vpuml.exe|uninstall_vpuml.exe:uninstall_vpuml.exe:uninstall_vpuml.exe|0000
+excelcnv.exe|d:\\office\Office12\excelcnv.exe|excelcnv.exe:excelcnv.exe:excelcnv.exe|0000
+Magnify.exe|C:\Windows\system32\Magnify.exe|magnify.exe:magnify.exe:magnify.exe|0000
+nacl64.exe|d:\\$RECYCLE.BIN\S-1-5-21-356255826-206119901-504846942-1001\$RCHU8ZR\nacl64.exe|nacl64.exe:nacl64.exe:nacl64.exe|0000
+设置向导.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ拼音输入法\设置向导.lnk|设置向导.lnk:设置向导.lnk:shezhixiangdao.lnk:shezhixiangdao.lnk:shedaxiangdao.lnk:shezhixiangdao.lnk:shezhixiangdao.lnk:shedaxiangdao.lnk|0000
+nlsfunc.exe|C:\Windows\system32\nlsfunc.exe|nlsfunc.exe:nlsfunc.exe:nlsfunc.exe|0000
+CW.exe|d:\\VP Suite 5.3\bin\vp_windows\CW.exe|cw.exe:cw.exe:cw.exe|0000
+fg686p.exe|d:\\fg\fg686p.exe|fg686p.exe:fg686p.exe:fg686p.exe|0000
+dumpbin.exe|d:\\vs8\VC\bin\dumpbin.exe|dumpbin.exe:dumpbin.exe:dumpbin.exe|0000
+vmware-acetool.exe|d:\\VMware\VMware Workstation\pkg\vmware-acetool.exe|vmware-acetool.exe:vmware-acetool.exe:vmware-acetool.exe|0000
+Where.Exe|d:\\vs8\Common7\Tools\Bin\Where.Exe|where.exe:where.exe:where.exe|0000
+SandboxieCrypto.exe|d:\\Sandboxie\SandboxieCrypto.exe|sandboxiecrypto.exe:sandboxiecrypto.exe:sandboxiecrypto.exe|0000
+cl.exe|d:\\vs8\VC\bin\ia64\cl.exe|cl.exe:cl.exe:cl.exe|0000
+MapSym.Exe|d:\\vs8\Common7\Tools\Bin\MapSym.Exe|mapsym.exe:mapsym.exe:mapsym.exe|0000
+bugreport.exe|d:\\Tencent\TM2009\Bin\bugreport.exe|bugreport.exe:bugreport.exe:bugreport.exe|0000
+BCB6RegClean.exe|d:\\bcb\CBuilder6\Bin\BCB6RegClean.exe|bcb6regclean.exe:bcb6regclean.exe:bcb6regclean.exe|0000
+git-rev-parse.exe|d:\\git\libexec\git-core\git-rev-parse.exe|git-rev-parse.exe:git-rev-parse.exe:git-rev-parse.exe|0000
+StikyNot.exe|C:\Windows\system32\StikyNot.exe|stikynot.exe:stikynot.exe:stikynot.exe|0000
+pgocvt.exe|d:\\vs8\VC\bin\ia64\pgocvt.exe|pgocvt.exe:pgocvt.exe:pgocvt.exe|0000
+CX.exe|d:\\VP Suite 5.3\bin\vp_windows\CX.exe|cx.exe:cx.exe:cx.exe|0000
+xwizard.exe|C:\Windows\system32\xwizard.exe|xwizard.exe:xwizard.exe:xwizard.exe|0000
+winver.exe|C:\Windows\system32\winver.exe|winver.exe:winver.exe:winver.exe|0000
+driverquery.exe|C:\Windows\system32\driverquery.exe|driverquery.exe:driverquery.exe:driverquery.exe|0000
+smss.exe|C:\Windows\system32\smss.exe|smss.exe:smss.exe:smss.exe|0000
+run_ag.exe|d:\\VP Suite 5.3\launcher\run_ag.exe|run_ag.exe:run_ag.exe:run_ag.exe|0000
+mstsc.exe|C:\Windows\system32\mstsc.exe|mstsc.exe:mstsc.exe:mstsc.exe|0000
+cl.exe|d:\\vs8\VC\ce\bin\x86_arm\cl.exe|cl.exe:cl.exe:cl.exe|0000
+PnPutil.exe|C:\Windows\system32\PnPutil.exe|pnputil.exe:pnputil.exe:pnputil.exe|0000
+SetupVS.exe|d:\\VP Suite 5.3\dbva\dbvavs2005\SetupVS.exe|setupvs.exe:setupvs.exe:setupvs.exe|0000
+WinSight Users Guide.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\WinSight Users Guide.lnk|winsight users guide.lnk:winsight users guide.lnk:winsight users guide.lnk|0000
+mspdbsrv.exe|d:\\vs8\VC\bin\amd64\mspdbsrv.exe|mspdbsrv.exe:mspdbsrv.exe:mspdbsrv.exe|0000
+expr.exe|d:\\git\bin\expr.exe|expr.exe:expr.exe:expr.exe|0000
+git-check-ref-format.exe|d:\\git\libexec\git-core\git-check-ref-format.exe|git-check-ref-format.exe:git-check-ref-format.exe:git-check-ref-format.exe|0000
+chglogon.exe|C:\Windows\system32\chglogon.exe|chglogon.exe:chglogon.exe:chglogon.exe|0000
+mshta.exe|C:\Windows\system32\mshta.exe|mshta.exe:mshta.exe:mshta.exe|0000
+PyQt Reference Guide.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\PyQt GPL v4.8.5 for Python v2.5 (x86)\Documentation\PyQt Reference Guide.lnk|pyqt reference guide.lnk:pyqt reference guide.lnk:pyqt reference guide.lnk|0000
+NAPSTAT.EXE|C:\Windows\system32\NAPSTAT.EXE|napstat.exe:napstat.exe:napstat.exe|0000
+bison.exe|d:\\git\bin\bison.exe|bison.exe:bison.exe:bison.exe|0000
+qhelpgenerator.exe|d:\\python25\Lib\site-packages\PyQt4\qhelpgenerator.exe|qhelpgenerator.exe:qhelpgenerator.exe:qhelpgenerator.exe|0000
+剪贴板.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ拼音输入法\剪贴板.lnk|剪贴板.lnk:剪贴板.lnk:jiantieban.lnk:jiantieban.lnk:jiantieban.lnk|0000
+CodeGuard User's Guide.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\CodeGuard User's Guide.lnk|codeguard user's guide.lnk:codeguard user's guide.lnk:codeguard user's guide.lnk|0000
+PersonalBankPortal.exe|C:\Windows\system32\PersonalBankPortal.exe|personalbankportal.exe:personalbankportal.exe:personalbankportal.exe|0000
+QQPI.exe|d:\\Tencent\TM2009\Bin\QQPI.exe|qqpi.exe:qqpi.exe:qqpi.exe|0000
+Disk Cleanup.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Disk Cleanup.lnk|disk cleanup.lnk:disk cleanup.lnk:disk cleanup.lnk|0000
+Uninstall.exe|d:\\python25\Lib\site-packages\PyQt4\Uninstall.exe|uninstall.exe:uninstall.exe:uninstall.exe|0000
+git-fetch-pack.exe|d:\\git\libexec\git-core\git-fetch-pack.exe|git-fetch-pack.exe:git-fetch-pack.exe:git-fetch-pack.exe|0000
+uninstall_dbvanb.exe|d:\\VP Suite 5.3\uninstaller\uninstall_dbvanb.exe|uninstall_dbvanb.exe:uninstall_dbvanb.exe:uninstall_dbvanb.exe|0000
+vssadmin.exe|C:\Windows\system32\vssadmin.exe|vssadmin.exe:vssadmin.exe:vssadmin.exe|0000
+WerFaultSecure.exe|C:\Windows\system32\WerFaultSecure.exe|werfaultsecure.exe:werfaultsecure.exe:werfaultsecure.exe|0000
+git-annotate.exe|d:\\git\libexec\git-core\git-annotate.exe|git-annotate.exe:git-annotate.exe:git-annotate.exe|0000
+tlibimp.exe|d:\\bcb\CBuilder6\Bin\tlibimp.exe|tlibimp.exe:tlibimp.exe:tlibimp.exe|0000
+msvsmon.exe|d:\\vs8\Common7\IDE\Remote Debugger\x64\msvsmon.exe|msvsmon.exe:msvsmon.exe:msvsmon.exe|0000
+VP Suite Product Selector.exe|d:\\VP Suite 5.3\launcher\VP Suite Product Selector.exe|vp suite product selector.exe:vp suite product selector.exe:vp suite product selector.exe|0000
+timeout.exe|C:\Windows\system32\timeout.exe|timeout.exe:timeout.exe:timeout.exe|0000
+subst.exe|C:\Windows\system32\subst.exe|subst.exe:subst.exe:subst.exe|0000
+SETLANG.EXE|d:\\office\Office12\SETLANG.EXE|setlang.exe:setlang.exe:setlang.exe|0000
+CompMgmtLauncher.exe|C:\Windows\system32\CompMgmtLauncher.exe|compmgmtlauncher.exe:compmgmtlauncher.exe:compmgmtlauncher.exe|0000
+Python Manuals.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Python 2.5\Python Manuals.lnk|python manuals.lnk:python manuals.lnk:python manuals.lnk|0000
+ace_upgrade.exe|d:\\VMware\VMware Workstation\ace_upgrade.exe|ace_upgrade.exe:ace_upgrade.exe:ace_upgrade.exe|0000
+deletetemp.exe|d:\\vs8\Microsoft Visual Studio 2005 Team Edition for Software Developers - ENU\deletetemp.exe|deletetemp.exe:deletetemp.exe:deletetemp.exe|0000
+rmid.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\rmid.exe|rmid.exe:rmid.exe:rmid.exe|0000
+What's New in C++Builder.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\What's New in C++Builder.lnk|what's new in c++builder.lnk:what's new in c++builder.lnk:what's new in c++builder.lnk|0000
+hqtray.exe|d:\\VMware\VMware Workstation\hqtray.exe|hqtray.exe:hqtray.exe:hqtray.exe|0000
+kinit.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\kinit.exe|kinit.exe:kinit.exe:kinit.exe|0000
+vmware-vmx-stats.exe|d:\\VMware\VMware Workstation\vmware-vmx-stats.exe|vmware-vmx-stats.exe:vmware-vmx-stats.exe:vmware-vmx-stats.exe|0000
+DisplaySwitch.exe|C:\Windows\system32\DisplaySwitch.exe|displayswitch.exe:displayswitch.exe:displayswitch.exe|0000
+MakeZipExe.exe|d:\\vs8\Common7\IDE\MakeZipExe.exe|makezipexe.exe:makezipexe.exe:makezipexe.exe|0000
+swcdepends.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\4.5.0\bin\swcdepends.exe|swcdepends.exe:swcdepends.exe:swcdepends.exe|0000
+pkt_run.exe|d:\\VMware\VMware Workstation\pkg\pkt_run.exe|pkt_run.exe:pkt_run.exe:pkt_run.exe|0000
+dumpbin.exe|d:\\vs8\VC\bin\x86_amd64\dumpbin.exe|dumpbin.exe:dumpbin.exe:dumpbin.exe|0000
+doxygen.exe|d:\\VP Suite 5.3\bin\vp_windows\doxygen.exe|doxygen.exe:doxygen.exe:doxygen.exe|0000
+FXSSVC.exe|C:\Windows\system32\FXSSVC.exe|fxssvc.exe:fxssvc.exe:fxssvc.exe|0000
+dispdiag.exe|C:\Windows\system32\dispdiag.exe|dispdiag.exe:dispdiag.exe:dispdiag.exe|0000
+pipeTestServiceClient.py.bak|d:\\python25\Lib\site-packages\win32\Demos\service\pipeTestServiceClient.py.bak|pipetestserviceclient.py.bak:pipetestserviceclient.py.bak:pipetestserviceclient.py.bak|0000
+slui.exe|C:\Windows\system32\slui.exe|slui.exe:slui.exe:slui.exe|0000
+Virtual Network Editor.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\VMware\Virtual Network Editor.lnk|virtual network editor.lnk:virtual network editor.lnk:virtual network editor.lnk|0000
+jbroker.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\jbroker.exe|jbroker.exe:jbroker.exe:jbroker.exe|0000
+Snipping Tool.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Snipping Tool.lnk|snipping tool.lnk:snipping tool.lnk:snipping tool.lnk|0000
+Internet Checkers.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Games\Internet Checkers.lnk|internet checkers.lnk:internet checkers.lnk:internet checkers.lnk|0000
+a1_mp.exe|d:\\vs8\VC\ce\bin\x86_mips\a1_mp.exe|a1_mp.exe:a1_mp.exe:a1_mp.exe|0000
+bordbg61.exe|d:\\bcb\CBuilder6\Bin\bordbg61.exe|bordbg61.exe:bordbg61.exe:bordbg61.exe|0000
+make.exe|d:\\bcb\CBuilder6\Bin\make.exe|make.exe:make.exe:make.exe|0000
+sdbinst.exe|C:\Windows\system32\sdbinst.exe|sdbinst.exe:sdbinst.exe:sdbinst.exe|0000
+rc.exe|d:\\vs8\VC\bin\rc.exe|rc.exe:rc.exe:rc.exe|0000
+MpSigStub.exe|C:\Windows\system32\MpSigStub.exe|mpsigstub.exe:mpsigstub.exe:mpsigstub.exe|0000
+Developing Distributed Applications.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\Developing Distributed Applications.lnk|developing distributed applications.lnk:developing distributed applications.lnk:developing distributed applications.lnk|0000
+VPUML.exe|d:\\VP Suite 5.3\bin\vp_windows\VPUML.exe|vpuml.exe:vpuml.exe:vpuml.exe|0000
+vim.exe|d:\\$RECYCLE.BIN\S-1-5-21-356255826-206119901-504846942-1001\$RQHWQID\vim.exe|vim.exe:vim.exe:vim.exe|0000
+TRACERT.EXE|C:\Windows\system32\TRACERT.EXE|tracert.exe:tracert.exe:tracert.exe|0000
+diskperf.exe|C:\Windows\system32\diskperf.exe|diskperf.exe:diskperf.exe:diskperf.exe|0000
+query.exe|C:\Windows\system32\query.exe|query.exe:query.exe:query.exe|0000
+VMwareToolsUpgraderNT.exe|d:\\VMware\VMware Workstation\tools-upgraders\VMwareToolsUpgraderNT.exe|vmwaretoolsupgradernt.exe:vmwaretoolsupgradernt.exe:vmwaretoolsupgradernt.exe|0000
+DSSM.EXE|d:\\office\Office12\DSSM.EXE|dssm.exe:dssm.exe:dssm.exe|0000
+tar.exe|d:\\git\bin\tar.exe|tar.exe:tar.exe:tar.exe|0000
+tracerpt.exe|C:\Windows\system32\tracerpt.exe|tracerpt.exe:tracerpt.exe:tracerpt.exe|0000
+sproxy.exe|d:\\vs8\VC\bin\amd64\sproxy.exe|sproxy.exe:sproxy.exe:sproxy.exe|0000
+cipher.exe|C:\Windows\system32\cipher.exe|cipher.exe:cipher.exe:cipher.exe|0000
+du.exe|d:\\git\bin\du.exe|du.exe:du.exe:du.exe|0000
+icacls.exe|C:\Windows\system32\icacls.exe|icacls.exe:icacls.exe:icacls.exe|0000
+eventcreate.exe|C:\Windows\system32\eventcreate.exe|eventcreate.exe:eventcreate.exe:eventcreate.exe|0000
+启动有道词典.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\有道\有道词典\启动有道词典.lnk|启动有道词典.lnk:启动有道词典.lnk:qidongyoudaocidian.lnk:qidongyoudaocidian.lnk:qidongyoudaocidian.lnk:qidongyoudaocidian.lnk|0000
+sdclt.exe|C:\Windows\system32\sdclt.exe|sdclt.exe:sdclt.exe:sdclt.exe|0000
+Remote Procedure Call Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\Remote Procedure Call Reference.lnk|remote procedure call reference.lnk:remote procedure call reference.lnk:remote procedure call reference.lnk|0000
+git-config.exe|d:\\git\libexec\git-core\git-config.exe|git-config.exe:git-config.exe:git-config.exe|0000
+ssh-keyscan.exe|d:\\git\bin\ssh-keyscan.exe|ssh-keyscan.exe:ssh-keyscan.exe:ssh-keyscan.exe|0000
+signtool.exe|d:\\vs8\Common7\Tools\Bin\signtool.exe|signtool.exe:signtool.exe:signtool.exe|0000
+问题检测工具.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ旋风\问题检测工具.lnk|问题检测工具.lnk:问题检测工具.lnk:wentijiancegongju.lnk:wentijiancegongyu.lnk:wentijiancegongju.lnk:wentijiancegongyu.lnk|0000
+Locator.exe|C:\Windows\system32\Locator.exe|locator.exe:locator.exe:locator.exe|0000
+AtBroker.exe|C:\Windows\system32\AtBroker.exe|atbroker.exe:atbroker.exe:atbroker.exe|0000
+git-status.exe|d:\\git\libexec\git-core\git-status.exe|git-status.exe:git-status.exe:git-status.exe|0000
+git-pack-objects.exe|d:\\git\libexec\git-core\git-pack-objects.exe|git-pack-objects.exe:git-pack-objects.exe:git-pack-objects.exe|0000
+git-hash-object.exe|d:\\git\libexec\git-core\git-hash-object.exe|git-hash-object.exe:git-hash-object.exe:git-hash-object.exe|0000
+pubdup.exe|d:\\bcb\CBuilder6\Source\Rtl\Tools\pubdup.exe|pubdup.exe:pubdup.exe:pubdup.exe|0000
+vmware.exe|d:\\VMware\VMware Workstation\vmware.exe|vmware.exe:vmware.exe:vmware.exe|0000
+ws32.exe|d:\\bcb\CBuilder6\Bin\ws32.exe|ws32.exe:ws32.exe:ws32.exe|0000
+SystemPropertiesComputerName.exe|C:\Windows\system32\SystemPropertiesComputerName.exe|systempropertiescomputername.exe:systempropertiescomputername.exe:systempropertiescomputername.exe|0000
+run_elaborview.exe|d:\\VP Suite 5.3\launcher\run_elaborview.exe|run_elaborview.exe:run_elaborview.exe:run_elaborview.exe|0000
+drv64.exe|d:\\DriveTheLife\drv64.exe|drv64.exe:drv64.exe:drv64.exe|0000
+git-rerere.exe|d:\\git\libexec\git-core\git-rerere.exe|git-rerere.exe:git-rerere.exe:git-rerere.exe|0000
+FXSCOVER.exe|C:\Windows\system32\FXSCOVER.exe|fxscover.exe:fxscover.exe:fxscover.exe|0000
+LogonUI.exe|C:\Windows\system32\LogonUI.exe|logonui.exe:logonui.exe:logonui.exe|0000
+consent.exe|C:\Windows\system32\consent.exe|consent.exe:consent.exe:consent.exe|0000
+Customizing Help.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\Customizing Help.lnk|customizing help.lnk:customizing help.lnk:customizing help.lnk|0000
+reset.exe|C:\Windows\system32\reset.exe|reset.exe:reset.exe:reset.exe|0000
+trigraph.exe|d:\\bcb\CBuilder6\Bin\trigraph.exe|trigraph.exe:trigraph.exe:trigraph.exe|0000
+Developing COM-based Applications.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\Developing COM-based Applications.lnk|developing com-based applications.lnk:developing com-based applications.lnk:developing com-based applications.lnk|0000
+gpgkeys_curl.exe|d:\\git\libexec\gnupg\gpgkeys_curl.exe|gpgkeys_curl.exe:gpgkeys_curl.exe:gpgkeys_curl.exe|0000
+services.exe|C:\Windows\system32\services.exe|services.exe:services.exe:services.exe|0000
+link.exe|d:\\vs8\VC\bin\link.exe|link.exe:link.exe:link.exe|0000
+Visual Paradigm Shape Editor.exe|d:\\VP Suite 5.3\launcher\Visual Paradigm Shape Editor.exe|visual paradigm shape editor.exe:visual paradigm shape editor.exe:visual paradigm shape editor.exe|0000
+git-count-objects.exe|d:\\git\libexec\git-core\git-count-objects.exe|git-count-objects.exe:git-count-objects.exe:git-count-objects.exe|0000
+dwtrig20.exe|d:\\MSOCache\All Users\{90120000-006E-0804-0000-0000000FF1CE}-D\dwtrig20.exe|dwtrig20.exe:dwtrig20.exe:dwtrig20.exe|0000
+CLVIEW.EXE|d:\\office\Office12\CLVIEW.EXE|clview.exe:clview.exe:clview.exe|0000
+flash builder 4keygen.exe|C:\Users\maconel\desktop\flex_res\flash builder 4keygen.exe|flash builder 4keygen.exe:flash builder 4keygen.exe:flash builder 4keygen.exe|0000
+SbieSvc.exe|d:\\Sandboxie\SbieSvc.exe|sbiesvc.exe:sbiesvc.exe:sbiesvc.exe|0000
+符号&表情.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ拼音输入法\符号&表情.lnk|符号&表情.lnk:符号&表情.lnk:fuhao&biaoqing.lnk:fuhao&biaoqing.lnk:fuhao&biaoqing.lnk:fuhao&biaoqing.lnk|0000
+Microsoft Windows Performance Data Helper Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\Microsoft Windows Performance Data Helper Reference.lnk|microsoft windows performance data helper reference.lnk:microsoft windows performance data helper reference.lnk:microsoft windows performance data helper reference.lnk|0000
+msdt.exe|C:\Windows\system32\msdt.exe|msdt.exe:msdt.exe:msdt.exe|0000
+WPDShextAutoplay.exe|C:\Windows\system32\WPDShextAutoplay.exe|wpdshextautoplay.exe:wpdshextautoplay.exe:wpdshextautoplay.exe|0000
+msra.exe|C:\Windows\system32\msra.exe|msra.exe:msra.exe:msra.exe|0000
+fcsh.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\4.5.0\bin\fcsh.exe|fcsh.exe:fcsh.exe:fcsh.exe|0000
+VSSVC.exe|C:\Windows\system32\VSSVC.exe|vssvc.exe:vssvc.exe:vssvc.exe|0000
+rasautou.exe|C:\Windows\system32\rasautou.exe|rasautou.exe:rasautou.exe:rasautou.exe|0000
+guidgen.exe|d:\\vs8\Common7\Tools\guidgen.exe|guidgen.exe:guidgen.exe:guidgen.exe|0000
+QDAutoUpdate.exe|d:\\Tencent\QQDownload\QDAutoUpdate.exe|qdautoupdate.exe:qdautoupdate.exe:qdautoupdate.exe|0000
+setupSNK.exe|C:\Windows\system32\setupSNK.exe|setupsnk.exe:setupsnk.exe:setupsnk.exe|0000
+WFS.exe|C:\Windows\system32\WFS.exe|wfs.exe:wfs.exe:wfs.exe|0000
+midl.exe|d:\\vs8\VC\PlatformSDK\Bin\win64\AMD64\midl.exe|midl.exe:midl.exe:midl.exe|0000
+QQImeDownload.exe|d:\\Tencent\QQPinyin\4.3.1084.400\QQImeDownload.exe|qqimedownload.exe:qqimedownload.exe:qqimedownload.exe|0000
+XFDoctor.exe|d:\\Tencent\QQDownload\XFDoctor.exe|xfdoctor.exe:xfdoctor.exe:xfdoctor.exe|0000
+cl.exe|d:\\vs8\VC\ce\bin\x86_mips\cl.exe|cl.exe:cl.exe:cl.exe|0000
+pack200.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\pack200.exe|pack200.exe:pack200.exe:pack200.exe|0000
+SQL Monitor.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\SQL Monitor.lnk|sql monitor.lnk:sql monitor.lnk:sql monitor.lnk|0000
+serverinfo.exe|d:\\bcb\CBuilder6\Bin\serverinfo.exe|serverinfo.exe:serverinfo.exe:serverinfo.exe|0000
+Spy++.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Visual Studio 2005\Visual Studio Tools\Spy++.lnk|spy++.lnk:spy++.lnk:spy++.lnk|0000
+chkdsk.exe|C:\Windows\system32\chkdsk.exe|chkdsk.exe:chkdsk.exe:chkdsk.exe|0000
+setup.exe|d:\\MSOCache\All Users\{90120000-0051-0000-0000-0000000FF1CE}-D\setup.exe|setup.exe:setup.exe:setup.exe|0000
+git-fsck-objects.exe|d:\\git\libexec\git-core\git-fsck-objects.exe|git-fsck-objects.exe:git-fsck-objects.exe:git-fsck-objects.exe|0000
+antiword.exe|d:\\git\bin\antiword.exe|antiword.exe:antiword.exe:antiword.exe|0000
+upgrade.exe|d:\\vs8\SmartDevices\SDK\SQL Server\Mobile\v3.0\wce500\mipsii_fp\upgrade.exe|upgrade.exe:upgrade.exe:upgrade.exe|0000
+ZipExeStub.exe|d:\\vs8\Common7\IDE\ZipExeStub.exe|zipexestub.exe:zipexestub.exe:zipexestub.exe|0000
+FreeU20.exe|d:\\fg\FreeU20.exe|freeu20.exe:freeu20.exe:freeu20.exe|0000
+wc.exe|d:\\git\bin\wc.exe|wc.exe:wc.exe:wc.exe|0000
+grpconv.exe|C:\Windows\system32\grpconv.exe|grpconv.exe:grpconv.exe:grpconv.exe|0000
+pgocvt.exe|d:\\vs8\VC\bin\amd64\pgocvt.exe|pgocvt.exe:pgocvt.exe:pgocvt.exe|0000
+sbunattend.exe|C:\Windows\system32\sbunattend.exe|sbunattend.exe:sbunattend.exe:sbunattend.exe|0000
+remove.exe|d:\\editplus\remove.exe|remove.exe:remove.exe:remove.exe|0000
+wextract.exe|C:\Windows\system32\wextract.exe|wextract.exe:wextract.exe:wextract.exe|0000
+tstcon32.exe|d:\\vs8\Common7\Tools\tstcon32.exe|tstcon32.exe:tstcon32.exe:tstcon32.exe|0000
+Default Programs.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Default Programs.lnk|default programs.lnk:default programs.lnk:default programs.lnk|0000
+Microsoft Windows Developers Guide.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\Microsoft Windows Developers Guide.lnk|microsoft windows developers guide.lnk:microsoft windows developers guide.lnk:microsoft windows developers guide.lnk|0000
+jqs.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\jqs.exe|jqs.exe:jqs.exe:jqs.exe|0000
+lib.exe|d:\\vs8\VC\bin\x86_amd64\lib.exe|lib.exe:lib.exe:lib.exe|0000
+poqexec.exe|C:\Windows\system32\poqexec.exe|poqexec.exe:poqexec.exe:poqexec.exe|0000
+link.exe|d:\\vs8\VC\bin\x86_amd64\link.exe|link.exe:link.exe:link.exe|0000
+git-merge-subtree.exe|d:\\git\libexec\git-core\git-merge-subtree.exe|git-merge-subtree.exe:git-merge-subtree.exe:git-merge-subtree.exe|0000
+find.exe|d:\\git\bin\find.exe|find.exe:find.exe:find.exe|0000
+git-stage.exe|d:\\git\libexec\git-core\git-stage.exe|git-stage.exe:git-stage.exe:git-stage.exe|0000
+resmon.exe|C:\Windows\system32\resmon.exe|resmon.exe:resmon.exe:resmon.exe|0000
+raserver.exe|C:\Windows\system32\raserver.exe|raserver.exe:raserver.exe:raserver.exe|0000
+ktab.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\ktab.exe|ktab.exe:ktab.exe:ktab.exe|0000
+shutdown.exe|C:\Windows\system32\shutdown.exe|shutdown.exe:shutdown.exe:shutdown.exe|0000
+AxImp.exe|d:\\vs8\SDK\v2.0\Bin\AxImp.exe|aximp.exe:aximp.exe:aximp.exe|0000
+emulatorstub.exe|d:\\vs8\SmartDevices\Emulators\DeviceEmulator\armv4\emulatorstub.exe|emulatorstub.exe:emulatorstub.exe:emulatorstub.exe|0000
+git-unpack-objects.exe|d:\\git\libexec\git-core\git-unpack-objects.exe|git-unpack-objects.exe:git-unpack-objects.exe:git-unpack-objects.exe|0000
+impdef.exe|d:\\bcb\CBuilder6\Bin\impdef.exe|impdef.exe:impdef.exe:impdef.exe|0000
+odbcte32.exe|d:\\vs8\VC\PlatformSDK\Bin\odbcte32.exe|odbcte32.exe:odbcte32.exe:odbcte32.exe|0000
+YoudaoEH.exe|d:\\Youdao\Dict4\YoudaoEH.exe|youdaoeh.exe:youdaoeh.exe:youdaoeh.exe|0000
+MigAutoPlay.exe|C:\Windows\system32\MigAutoPlay.exe|migautoplay.exe:migautoplay.exe:migautoplay.exe|0000
+rc.exe|d:\\vs8\VC\PlatformSDK\Bin\win64\AMD64\rc.exe|rc.exe:rc.exe:rc.exe|0000
+Remote Process Viewer.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Visual Studio 2005\Visual Studio Remote Tools\Remote Process Viewer.lnk|remote process viewer.lnk:remote process viewer.lnk:remote process viewer.lnk|0000
+eclipsec.exe|d:\\adobe\Adobe Flash Builder 4.5\eclipse\eclipsec.exe|eclipsec.exe:eclipsec.exe:eclipsec.exe|0000
+Qt Documentation.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\PyQt GPL v4.8.5 for Python v2.5 (x86)\Documentation\Qt Documentation.lnk|qt documentation.lnk:qt documentation.lnk:qt documentation.lnk|0000
+mcbuilder.exe|C:\Windows\system32\mcbuilder.exe|mcbuilder.exe:mcbuilder.exe:mcbuilder.exe|0000
+pythonw.exe|d:\\python25\pythonw.exe|pythonw.exe:pythonw.exe:pythonw.exe|0000
+git-reflog.exe|d:\\git\libexec\git-core\git-reflog.exe|git-reflog.exe:git-reflog.exe:git-reflog.exe|0000
+bitsadmin.exe|C:\Windows\system32\bitsadmin.exe|bitsadmin.exe:bitsadmin.exe:bitsadmin.exe|0000
+odbcad32.exe|C:\Windows\system32\odbcad32.exe|odbcad32.exe:odbcad32.exe:odbcad32.exe|0000
+lib.exe|d:\\vs8\VC\bin\x86_ia64\lib.exe|lib.exe:lib.exe:lib.exe|0000
+Everything-1.2.1.371.exe|d:\\everything\Everything-1.2.1.371.exe|everything-1.2.1.371.exe:everything-1.2.1.371.exe:everything-1.2.1.371.exe|0000
+QPUpSlim.exe|d:\\Tencent\QQDownload\SlimPlayer\QPUpSlim.exe|qpupslim.exe:qpupslim.exe:qpupslim.exe|0000
+卸载QQ输入法纯净版.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ输入法纯净版\卸载QQ输入法纯净版.lnk|卸载qq输入法纯净版.lnk:卸载qq输入法纯净版.lnk:xiezaiqqshurufachunjingban.lnk:xiezaiqqshurufachunjingban.lnk:xiezaiqqshurufachunjingban.lnk:xiezaiqqshurufachunjingban.lnk:xiezaiqqshurufachunjingban.lnk:xiezaiqqshurufachunjingban.lnk:xiezaiqqshurufachunjingban.lnk:xiezaiqqshurufachunjingban.lnk|0000
+tabcal.exe|C:\Windows\system32\tabcal.exe|tabcal.exe:tabcal.exe:tabcal.exe|0000
+osk.exe|C:\Windows\system32\osk.exe|osk.exe:osk.exe:osk.exe|0000
+assistant.exe|d:\\python25\Lib\site-packages\PyQt4\assistant.exe|assistant.exe:assistant.exe:assistant.exe|0000
+Dism.exe|C:\Windows\system32\Dism.exe|dism.exe:dism.exe:dism.exe|0000
+Sidebar.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Sidebar.lnk|sidebar.lnk:sidebar.lnk:sidebar.lnk|0000
+dotnetchk.exe|d:\\vs8\SDK\v2.0\BootStrapper\Packages\VJSharpRDP\dotnetchk.exe|dotnetchk.exe:dotnetchk.exe:dotnetchk.exe|0000
+Sandboxie Control.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Sandboxie\Sandboxie Control.lnk|sandboxie control.lnk:sandboxie control.lnk:sandboxie control.lnk|0000
+qprocess.exe|C:\Windows\system32\qprocess.exe|qprocess.exe:qprocess.exe:qprocess.exe|0000
+PATHPING.EXE|C:\Windows\system32\PATHPING.EXE|pathping.exe:pathping.exe:pathping.exe|0000
+git-remote-ext.exe|d:\\git\libexec\git-core\git-remote-ext.exe|git-remote-ext.exe:git-remote-ext.exe:git-remote-ext.exe|0000
+mtsinst.exe|d:\\bcb\CBuilder6\Bin\mtsinst.exe|mtsinst.exe:mtsinst.exe:mtsinst.exe|0000
+optimizer.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\4.5.0\bin\optimizer.exe|optimizer.exe:optimizer.exe:optimizer.exe|0000
+debug.exe|C:\Windows\system32\debug.exe|debug.exe:debug.exe:debug.exe|0000
+微博.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ拼音输入法\微博.lnk|微博.lnk:微博.lnk:weibo.lnk|0000
+VMware Workstation.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\VMware\VMware Workstation.lnk|vmware workstation.lnk:vmware workstation.lnk:vmware workstation.lnk|0000
+vmware-acetool.exe|d:\\VMware\VMware Workstation\vmware-acetool.exe|vmware-acetool.exe:vmware-acetool.exe:vmware-acetool.exe|0000
+pgosweep.exe|d:\\vs8\VC\bin\amd64\pgosweep.exe|pgosweep.exe:pgosweep.exe:pgosweep.exe|0000
+patch.exe|d:\\git\bin\patch.exe|patch.exe:patch.exe:patch.exe|0000
+Robocopy.exe|C:\Windows\system32\Robocopy.exe|robocopy.exe:robocopy.exe:robocopy.exe|0000
+Windows Telephony API Programmer's Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\Windows Telephony API Programmer's Reference.lnk|windows telephony api programmer's reference.lnk:windows telephony api programmer's reference.lnk:windows telephony api programmer's reference.lnk|0000
+designer.exe|d:\\python25\Lib\site-packages\PyQt4\designer.exe|designer.exe:designer.exe:designer.exe|0000
+tregsvr.exe|d:\\bcb\CBuilder6\Bin\tregsvr.exe|tregsvr.exe:tregsvr.exe:tregsvr.exe|0000
+fg684p.exe|d:\\fg\fg684p.exe|fg684p.exe:fg684p.exe:fg684p.exe|0000
+csrss.exe|C:\Windows\system32\csrss.exe|csrss.exe:csrss.exe:csrss.exe|0000
+SandboxieDcomLaunch.exe|d:\\Sandboxie\SandboxieDcomLaunch.exe|sandboxiedcomlaunch.exe:sandboxiedcomlaunch.exe:sandboxiedcomlaunch.exe|0000
+SyncHost.exe|C:\Windows\system32\SyncHost.exe|synchost.exe:synchost.exe:synchost.exe|0000
+PView.Exe|d:\\vs8\Common7\Tools\Bin\winnt\PView.Exe|pview.exe:pview.exe:pview.exe|0000
+IsoCmd.exe|d:\\UltraISO\drivers\IsoCmd.exe|isocmd.exe:isocmd.exe:isocmd.exe|0000
+unpack200.exe|d:\\VP Suite 5.3\jre\bin\unpack200.exe|unpack200.exe:unpack200.exe:unpack200.exe|0000
+Remote Registry Editor.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Visual Studio 2005\Visual Studio Remote Tools\Remote Registry Editor.lnk|remote registry editor.lnk:remote registry editor.lnk:remote registry editor.lnk|0000
+run_vpuml.exe|d:\\VP Suite 5.3\launcher\run_vpuml.exe|run_vpuml.exe:run_vpuml.exe:run_vpuml.exe|0000
+cmp.exe|d:\\git\bin\cmp.exe|cmp.exe:cmp.exe:cmp.exe|0000
+chrome_frame_helper.exe|d:\\chromium\chrome_frame_helper.exe|chrome_frame_helper.exe:chrome_frame_helper.exe:chrome_frame_helper.exe|0000
+RunLegacyCPLElevated.exe|C:\Windows\system32\RunLegacyCPLElevated.exe|runlegacycplelevated.exe:runlegacycplelevated.exe:runlegacycplelevated.exe|0000
+net1.exe|C:\Windows\system32\net1.exe|net1.exe:net1.exe:net1.exe|0000
+3D Vision 预览包 1.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\NVIDIA Corporation\3D Vision\3D Vision 预览包 1.lnk|3d vision 预览包 1.lnk:3d vision 预览包 1.lnk:3d vision yulanbao 1.lnk|0000
+getcp.exe|d:\\git\bin\getcp.exe|getcp.exe:getcp.exe:getcp.exe|0000
+git-receive-pack.exe|d:\\git\libexec\git-core\git-receive-pack.exe|git-receive-pack.exe:git-receive-pack.exe:git-receive-pack.exe|0000
+ISAPI Programmer's Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\ISAPI Programmer's Reference.lnk|isapi programmer's reference.lnk:isapi programmer's reference.lnk:isapi programmer's reference.lnk|0000
+Tencentdl.exe|d:\\Tencent\QQPinyin\4.3.1084.400\QQDownload\Tencentdl.exe|tencentdl.exe:tencentdl.exe:tencentdl.exe|0000
+Visual Component Library Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\Visual Component Library Reference.lnk|visual component library reference.lnk:visual component library reference.lnk:visual component library reference.lnk|0000
+dllhost.exe|C:\Windows\system32\dllhost.exe|dllhost.exe:dllhost.exe:dllhost.exe|0000
+policytool.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\policytool.exe|policytool.exe:policytool.exe:policytool.exe|0000
+ilink32.exe|d:\\bcb\CBuilder6\Bin\ilink32.exe|ilink32.exe:ilink32.exe:ilink32.exe|0000
+run_sdenb.exe|d:\\VP Suite 5.3\launcher\run_sdenb.exe|run_sdenb.exe:run_sdenb.exe:run_sdenb.exe|0000
+pylupdate4.exe|d:\\python25\Lib\site-packages\PyQt4\pylupdate4.exe|pylupdate4.exe:pylupdate4.exe:pylupdate4.exe|0000
+vnetsniffer.exe|d:\\VMware\VMware Workstation\vnetsniffer.exe|vnetsniffer.exe:vnetsniffer.exe:vnetsniffer.exe|0000
+属性设置.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ输入法纯净版\属性设置.lnk|属性设置.lnk:属性设置.lnk:shuxingshezhi.lnk:shuxingshezhi.lnk:shuxingsheda.lnk:shuxingshezhi.lnk:shuxingshezhi.lnk:shuxingsheda.lnk|0000
+git-remote-http.exe|d:\\git\libexec\git-core\git-remote-http.exe|git-remote-http.exe:git-remote-http.exe:git-remote-http.exe|0000
+rm.exe|d:\\git\bin\rm.exe|rm.exe:rm.exe:rm.exe|0000
+C++Builder 6.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\C++Builder 6.lnk|c++builder 6.lnk:c++builder 6.lnk:c++builder 6.lnk|0000
+wlanext.exe|C:\Windows\system32\wlanext.exe|wlanext.exe:wlanext.exe:wlanext.exe|0000
+finger.exe|C:\Windows\system32\finger.exe|finger.exe:finger.exe:finger.exe|0000
+Wordpad.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Wordpad.lnk|wordpad.lnk:wordpad.lnk:wordpad.lnk|0000
+ReBase.Exe|d:\\vs8\Common7\Tools\Bin\ReBase.Exe|rebase.exe:rebase.exe:rebase.exe|0000
+midl.exe|d:\\vs8\VC\ce\bin\x86_mips\midl.exe|midl.exe:midl.exe:midl.exe|0000
+MRINFO.EXE|C:\Windows\system32\MRINFO.EXE|mrinfo.exe:mrinfo.exe:mrinfo.exe|0000
+fveprompt.exe|C:\Windows\system32\fveprompt.exe|fveprompt.exe:fveprompt.exe:fveprompt.exe|0000
+naib.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\4.5.0\lib\nai\lib\naib.exe|naib.exe:naib.exe:naib.exe|0000
+lib.exe|d:\\vs8\VC\bin\lib.exe|lib.exe:lib.exe:lib.exe|0000
+git-upload-archive.exe|d:\\git\libexec\git-core\git-upload-archive.exe|git-upload-archive.exe:git-upload-archive.exe:git-upload-archive.exe|0000
+makehm.exe|d:\\vs8\Common7\Tools\makehm.exe|makehm.exe:makehm.exe:makehm.exe|0000
+irftp.exe|C:\Windows\system32\irftp.exe|irftp.exe:irftp.exe:irftp.exe|0000
+mxmlc.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\4.5.0\bin\mxmlc.exe|mxmlc.exe:mxmlc.exe:mxmlc.exe|0000
+FiltDump.Exe|d:\\vs8\Common7\Tools\Bin\FiltDump.Exe|filtdump.exe:filtdump.exe:filtdump.exe|0000
+cliconfg.exe|C:\Windows\system32\cliconfg.exe|cliconfg.exe:cliconfg.exe:cliconfg.exe|0000
+touch.exe|d:\\git\bin\touch.exe|touch.exe:touch.exe:touch.exe|0000
+有道单词本.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\有道\有道词典\有道单词本.lnk|有道单词本.lnk:有道单词本.lnk:youdaodanciben.lnk:youdaochanciben.lnk:youdaoshanciben.lnk:youdaodanciben.lnk:youdaochanciben.lnk:youdaoshanciben.lnk|0000
+fltMC.exe|C:\Windows\system32\fltMC.exe|fltmc.exe:fltmc.exe:fltmc.exe|0000
+tdump.exe|d:\\bcb\CBuilder6\Bin\tdump.exe|tdump.exe:tdump.exe:tdump.exe|0000
+git-shortlog.exe|d:\\git\libexec\git-core\git-shortlog.exe|git-shortlog.exe:git-shortlog.exe:git-shortlog.exe|0000
+cg.exe|d:\\VP Suite 5.3\bin\vp_windows\cg.exe|cg.exe:cg.exe:cg.exe|0000
+Visual Studio 2005 Remote Debugger Configuration Wizard.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Visual Studio 2005\Visual Studio Tools\Visual Studio 2005 Remote Debugger Configuration Wizard.lnk|visual studio 2005 remote debugger configuration wizard.lnk:visual studio 2005 remote debugger configuration wizard.lnk:visual studio 2005 remote debugger configuration wizard.lnk|0000
+clstencil.exe|d:\\vs8\VC\bin\ia64\clstencil.exe|clstencil.exe:clstencil.exe:clstencil.exe|0000
+DW20.EXE|d:\\MSOCache\All Users\{90120000-006E-0804-0000-0000000FF1CE}-D\DW20.EXE|dw20.exe:dw20.exe:dw20.exe|0000
+crash_service.exe|d:\\$RECYCLE.BIN\S-1-5-21-356255826-206119901-504846942-1001\$RCHU8ZR\crash_service.exe|crash_service.exe:crash_service.exe:crash_service.exe|0000
+Netplwiz.exe|C:\Windows\system32\Netplwiz.exe|netplwiz.exe:netplwiz.exe:netplwiz.exe|0000
+tasklist.exe|C:\Windows\system32\tasklist.exe|tasklist.exe:tasklist.exe:tasklist.exe|0000
+eudcedit.exe|C:\Windows\system32\eudcedit.exe|eudcedit.exe:eudcedit.exe:eudcedit.exe|0000
+UpdateSynchronizerConfiguration5.3.exe|d:\\VP Suite 5.3\updatesynchronizer\UpdateSynchronizerConfiguration5.3.exe|updatesynchronizerconfiguration5.3.exe:updatesynchronizerconfiguration5.3.exe:updatesynchronizerconfiguration5.3.exe|0000
+bscmake.exe|d:\\vs8\VC\bin\amd64\bscmake.exe|bscmake.exe:bscmake.exe:bscmake.exe|0000
+WinSAT.exe|C:\Windows\system32\WinSAT.exe|winsat.exe:winsat.exe:winsat.exe|0000
+klist.exe|d:\\VP Suite 5.3\jre\bin\klist.exe|klist.exe:klist.exe:klist.exe|0000
+git-replace.exe|d:\\git\libexec\git-core\git-replace.exe|git-replace.exe:git-replace.exe:git-replace.exe|0000
+tzutil.exe|C:\Windows\system32\tzutil.exe|tzutil.exe:tzutil.exe:tzutil.exe|0000
+fastopen.exe|C:\Windows\system32\fastopen.exe|fastopen.exe:fastopen.exe:fastopen.exe|0000
+pcaui.exe|C:\Windows\system32\pcaui.exe|pcaui.exe:pcaui.exe:pcaui.exe|0000
+QPToolbox.exe|d:\\Tencent\QQPlayer\QPToolbox.exe|qptoolbox.exe:qptoolbox.exe:qptoolbox.exe|0000
+Uuidgen.Exe|d:\\vs8\Common7\Tools\Bin\Uuidgen.Exe|uuidgen.exe:uuidgen.exe:uuidgen.exe|0000
+sort.exe|C:\Windows\system32\sort.exe|sort.exe:sort.exe:sort.exe|0000
+Sync Center.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Sync Center.lnk|sync center.lnk:sync center.lnk:sync center.lnk|0000
+bcb6reg.exe|d:\\bcb\CBuilder6\Bin\bcb6reg.exe|bcb6reg.exe:bcb6reg.exe:bcb6reg.exe|0000
+dos2unix.exe|d:\\git\bin\dos2unix.exe|dos2unix.exe:dos2unix.exe:dos2unix.exe|0000
+edm.exe|d:\\vs8\SmartDevices\Debugger\target\wce400\mipsii\edm.exe|edm.exe:edm.exe:edm.exe|0000
+regedt32.exe|C:\Windows\system32\regedt32.exe|regedt32.exe:regedt32.exe:regedt32.exe|0000
+upgrade.exe|d:\\vs8\SmartDevices\SDK\SQL Server\Mobile\v3.0\wce500\mipsiv\upgrade.exe|upgrade.exe:upgrade.exe:upgrade.exe|0000
+git-peek-remote.exe|d:\\git\libexec\git-core\git-peek-remote.exe|git-peek-remote.exe:git-peek-remote.exe:git-peek-remote.exe|0000
+w32tm.exe|C:\Windows\system32\w32tm.exe|w32tm.exe:w32tm.exe:w32tm.exe|0000
+spyxx.exe|d:\\vs8\Common7\Tools\spyxx.exe|spyxx.exe:spyxx.exe:spyxx.exe|0000
+Create Recovery Disc.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Maintenance\Create Recovery Disc.lnk|create recovery disc.lnk:create recovery disc.lnk:create recovery disc.lnk|0000
+git-merge-recursive.exe|d:\\git\libexec\git-core\git-merge-recursive.exe|git-merge-recursive.exe:git-merge-recursive.exe:git-merge-recursive.exe|0000
+odbcte32.exe|d:\\vs8\VC\PlatformSDK\Bin\win64\IA64\odbcte32.exe|odbcte32.exe:odbcte32.exe:odbcte32.exe|0000
+Private Character Editor.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Private Character Editor.lnk|private character editor.lnk:private character editor.lnk:private character editor.lnk|0000
+fixmapi.exe|C:\Windows\system32\fixmapi.exe|fixmapi.exe:fixmapi.exe:fixmapi.exe|0000
+pkt_app.exe|d:\\VMware\VMware Workstation\pkg\pkt_app.exe|pkt_app.exe:pkt_app.exe:pkt_app.exe|0000
+spinstall.exe|C:\Windows\system32\spinstall.exe|spinstall.exe:spinstall.exe:spinstall.exe|0000
+Chess.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Games\Chess.lnk|chess.lnk:chess.lnk:chess.lnk|0000
+uninstall_dbvaec.exe|d:\\VP Suite 5.3\uninstaller\uninstall_dbvaec.exe|uninstall_dbvaec.exe:uninstall_dbvaec.exe:uninstall_dbvaec.exe|0000
+SetupVS.exe|d:\\VP Suite 5.3\sde\sdevs2005\SetupVS.exe|setupvs.exe:setupvs.exe:setupvs.exe|0000
+fdb.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\4.5.0\bin\fdb.exe|fdb.exe:fdb.exe:fdb.exe|0000
+ico.exe|d:\\DriveTheLife\Res\ico.exe|ico.exe:ico.exe:ico.exe|0000
+lpksetup.exe|C:\Windows\system32\lpksetup.exe|lpksetup.exe:lpksetup.exe:lpksetup.exe|0000
+instmsiW.exe|d:\\vs8\SDK\v2.0\BootStrapper\Packages\InstMSI\instmsiW.exe|instmsiw.exe:instmsiw.exe:instmsiw.exe|0000
+shadow.exe|C:\Windows\system32\shadow.exe|shadow.exe:shadow.exe:shadow.exe|0000
+Internet Explorer (No Add-ons).lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Internet Explorer (No Add-ons).lnk|internet explorer (no add-ons).lnk:internet explorer (no add-ons).lnk:internet explorer (no add-ons).lnk|0000
+dotnetfx.exe|d:\\vs8\SDK\v2.0\BootStrapper\Packages\dotnetfx\dotnetfx.exe|dotnetfx.exe:dotnetfx.exe:dotnetfx.exe|0000
+split.exe|d:\\git\bin\split.exe|split.exe:split.exe:split.exe|0000
+runonce.exe|C:\Windows\system32\runonce.exe|runonce.exe:runonce.exe:runonce.exe|0000
+vmware-fullscreen.exe|d:\\VMware\VMware Workstation\vmware-fullscreen.exe|vmware-fullscreen.exe:vmware-fullscreen.exe:vmware-fullscreen.exe|0000
+Git GUI.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\git\Git GUI.lnk|git gui.lnk:git gui.lnk:git gui.lnk|0000
+instmsiw.exe|d:\\VMware\VMware Workstation\pkg\instmsiw.exe|instmsiw.exe:instmsiw.exe:instmsiw.exe|0000
+git-cat-file.exe|d:\\git\libexec\git-core\git-cat-file.exe|git-cat-file.exe:git-cat-file.exe:git-cat-file.exe|0000
+winrshost.exe|C:\Windows\system32\winrshost.exe|winrshost.exe:winrshost.exe:winrshost.exe|0000
+笔画输入.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ拼音输入法\笔画输入.lnk|笔画输入.lnk:笔画输入.lnk:bihuashuru.lnk|0000
+vmrun.exe|d:\\VMware\VMware Workstation\vmrun.exe|vmrun.exe:vmrun.exe:vmrun.exe|0000
+VcBuildHelper.exe|d:\\vs8\VC\vcpackages\VcBuildHelper.exe|vcbuildhelper.exe:vcbuildhelper.exe:vcbuildhelper.exe|0000
+SystemPropertiesPerformance.exe|C:\Windows\system32\SystemPropertiesPerformance.exe|systempropertiesperformance.exe:systempropertiesperformance.exe:systempropertiesperformance.exe|0000
+kill.exe|d:\\git\bin\kill.exe|kill.exe:kill.exe:kill.exe|0000
+wiaacmgr.exe|C:\Windows\system32\wiaacmgr.exe|wiaacmgr.exe:wiaacmgr.exe:wiaacmgr.exe|0000
+Microsoft Office Visio 2007.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office Visio 2007.lnk|microsoft office visio 2007.lnk:microsoft office visio 2007.lnk:microsoft office visio 2007.lnk|0000
+jucheck.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\jucheck.exe|jucheck.exe:jucheck.exe:jucheck.exe|0000
+odbcte32.exe|d:\\vs8\VC\PlatformSDK\Bin\win64\AMD64\odbcte32.exe|odbcte32.exe:odbcte32.exe:odbcte32.exe|0000
+GRAPH.EXE|d:\\office\Office12\GRAPH.EXE|graph.exe:graph.exe:graph.exe|0000
+mmc.exe|C:\Windows\system32\mmc.exe|mmc.exe:mmc.exe:mmc.exe|0000
+git-commit.exe|d:\\git\libexec\git-core\git-commit.exe|git-commit.exe:git-commit.exe:git-commit.exe|0000
+VaDump.Exe|d:\\vs8\Common7\Tools\Bin\winnt\VaDump.Exe|vadump.exe:vadump.exe:vadump.exe|0000
+m4.exe|d:\\git\bin\m4.exe|m4.exe:m4.exe:m4.exe|0000
+dllhst3g.exe|C:\Windows\system32\dllhst3g.exe|dllhst3g.exe:dllhst3g.exe:dllhst3g.exe|0000
+TeeChart Help.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\TeeChart Help.lnk|teechart help.lnk:teechart help.lnk:teechart help.lnk|0000
+bthudtask.exe|C:\Windows\system32\bthudtask.exe|bthudtask.exe:bthudtask.exe:bthudtask.exe|0000
+winrs.exe|C:\Windows\system32\winrs.exe|winrs.exe:winrs.exe:winrs.exe|0000
+wimserv.exe|C:\Windows\system32\wimserv.exe|wimserv.exe:wimserv.exe:wimserv.exe|0000
+sort.exe|d:\\git\bin\sort.exe|sort.exe:sort.exe:sort.exe|0000
+twunk_16.exe|C:\Windows\twunk_16.exe|twunk_16.exe:twunk_16.exe:twunk_16.exe|0000
+link.exe|d:\\vs8\VC\bin\ia64\link.exe|link.exe:link.exe:link.exe|0000
+uname.exe|d:\\git\bin\uname.exe|uname.exe:uname.exe:uname.exe|0000
+instmsia.exe|d:\\vs8\SDK\v2.0\BootStrapper\Packages\dotnetfx\instmsia.exe|instmsia.exe:instmsia.exe:instmsia.exe|0000
+vsjitdebugger.exe|C:\Windows\system32\vsjitdebugger.exe|vsjitdebugger.exe:vsjitdebugger.exe:vsjitdebugger.exe|0000
+sip.exe|d:\\python25\Lib\site-packages\PyQt4\sip.exe|sip.exe:sip.exe:sip.exe|0000
+auclt.exe|d:\\Tencent\TM2009\Bin\auclt.exe|auclt.exe:auclt.exe:auclt.exe|0000
+sdchange.exe|C:\Windows\system32\sdchange.exe|sdchange.exe:sdchange.exe:sdchange.exe|0000
+run_sdeec.exe|d:\\VP Suite 5.3\launcher\run_sdeec.exe|run_sdeec.exe:run_sdeec.exe:run_sdeec.exe|0000
+comp.exe|C:\Windows\system32\comp.exe|comp.exe:comp.exe:comp.exe|0000
+iscsicli.exe|C:\Windows\system32\iscsicli.exe|iscsicli.exe:iscsicli.exe:iscsicli.exe|0000
+DeviceProperties.exe|C:\Windows\system32\DeviceProperties.exe|deviceproperties.exe:deviceproperties.exe:deviceproperties.exe|0000
+mem.exe|C:\Windows\system32\mem.exe|mem.exe:mem.exe:mem.exe|0000
+unzip.exe|d:\\VMware\VMware Workstation\unzip.exe|unzip.exe:unzip.exe:unzip.exe|0000
+unpack200.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\unpack200.exe|unpack200.exe:unpack200.exe:unpack200.exe|0000
+swfdump.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\4.5.0\bin\swfdump.exe|swfdump.exe:swfdump.exe:swfdump.exe|0000
+VP Suite Product Edition Manager.exe|d:\\VP Suite 5.3\bin\VP Suite Product Edition Manager.exe|vp suite product edition manager.exe:vp suite product edition manager.exe:vp suite product edition manager.exe|0000
+mblctr.exe|C:\Windows\system32\mblctr.exe|mblctr.exe:mblctr.exe:mblctr.exe|0000
+alg.exe|C:\Windows\system32\alg.exe|alg.exe:alg.exe:alg.exe|0000
+在沙盘中运行 Windows 资源管理器.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Sandboxie\在沙盘中运行 Windows 资源管理器.lnk|在沙盘中运行 windows 资源管理器.lnk:在沙盘中运行 windows 资源管理器.lnk:zaishapanzhongyunxing windows ziyuanguanliqi.lnk:zaishapanzhongyunxing windows ziyuanguanliqi.lnk:zaishapanzhongyunhang windows ziyuanguanliqi.lnk:zaishapanzhongyunhang windows ziyuanguanliqi.lnk:zaishapanzhongyunhang windows ziyuanguanliqi.lnk:zaishapanzhongyunhang windows ziyuanguanliqi.lnk:zaishapanzhongyunheng windows ziyuanguanliqi.lnk:zaishapanzhongyunheng windows ziyuanguanliqi.lnk:zaishapanzhongyunxing windows ziyuanguanliqi.lnk:zaishapanzhongyunxing windows ziyuanguanliqi.lnk:zaishapanzhongyunhang windows ziyuanguanliqi.lnk:zaishapanzhongyunhang windows ziyuanguanliqi.lnk:zaishapanzhongyunhang windows ziyuanguanliqi.lnk:zaishapanzhongyunhang windows ziyuanguanliqi.lnk:zaishapanzhongyunheng windows ziyuanguanliqi.lnk:zaishapanzhongyunheng windows ziyuanguanliqi.lnk:zaishapanzhongyunxing windows ziyuanguanliqi.lnk:zaishapanzhongyunxing windows ziyuanguanliqi.lnk:zaishapanzhongyunhang windows ziyuanguanliqi.lnk:zaishapanzhongyunhang windows ziyuanguanliqi.lnk:zaishapanzhongyunhang windows ziyuanguanliqi.lnk:zaishapanzhongyunhang windows ziyuanguanliqi.lnk:zaishapanzhongyunheng windows ziyuanguanliqi.lnk:zaishapanzhongyunheng windows ziyuanguanliqi.lnk:zaishapanzhongyunxing windows ziyuanguanliqi.lnk:zaishapanzhongyunxing windows ziyuanguanliqi.lnk:zaishapanzhongyunhang windows ziyuanguanliqi.lnk:zaishapanzhongyunhang windows ziyuanguanliqi.lnk:zaishapanzhongyunhang windows ziyuanguanliqi.lnk:zaishapanzhongyunhang windows ziyuanguanliqi.lnk:zaishapanzhongyunheng windows ziyuanguanliqi.lnk:zaishapanzhongyunheng windows ziyuanguanliqi.lnk|0000
+SnapShot.exe|d:\\Tencent\QQPinyin\4.3.1084.400\SnapShot.exe|snapshot.exe:snapshot.exe:snapshot.exe|0000
+wbengine.exe|C:\Windows\system32\wbengine.exe|wbengine.exe:wbengine.exe:wbengine.exe|0000
+bash.exe|d:\\git\bin\bash.exe|bash.exe:bash.exe:bash.exe|0000
+startdbvavs.exe|d:\\VP Suite 5.3\dbva\dbvavs2008\startdbvavs.exe|startdbvavs.exe:startdbvavs.exe:startdbvavs.exe|0000
+msfeedssync.exe|C:\Windows\system32\msfeedssync.exe|msfeedssync.exe:msfeedssync.exe:msfeedssync.exe|0000
+unins000.exe|d:\\git\unins000.exe|unins000.exe:unins000.exe:unins000.exe|0000
+tscon.exe|C:\Windows\system32\tscon.exe|tscon.exe:tscon.exe:tscon.exe|0000
+false.exe|d:\\git\bin\false.exe|false.exe:false.exe:false.exe|0000
+crash_service.exe|d:\\chromium\crash_service.exe|crash_service.exe:crash_service.exe:crash_service.exe|0000
+prevhost.exe|C:\Windows\system32\prevhost.exe|prevhost.exe:prevhost.exe:prevhost.exe|0000
+gpscript.exe|C:\Windows\system32\gpscript.exe|gpscript.exe:gpscript.exe:gpscript.exe|0000
+wsdlimp.exe|d:\\bcb\CBuilder6\Bin\wsdlimp.exe|wsdlimp.exe:wsdlimp.exe:wsdlimp.exe|0000
+compact.exe|C:\Windows\system32\compact.exe|compact.exe:compact.exe:compact.exe|0000
+edm.exe|d:\\vs8\SmartDevices\Debugger\target\wce400\armv4i\edm.exe|edm.exe:edm.exe:edm.exe|0000
+git-help.exe|d:\\git\libexec\git-core\git-help.exe|git-help.exe:git-help.exe:git-help.exe|0000
+uninstall_ag.exe|d:\\VP Suite 5.3\uninstaller\uninstall_ag.exe|uninstall_ag.exe:uninstall_ag.exe:uninstall_ag.exe|0000
+Minesweeper.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Games\Minesweeper.lnk|minesweeper.lnk:minesweeper.lnk:minesweeper.lnk|0000
+UnInstallClean.exe|d:\\Thunder\MiniThunder\Bin\UnInstallClean.exe|uninstallclean.exe:uninstallclean.exe:uninstallclean.exe|0000
+mspaint.exe|C:\Windows\system32\mspaint.exe|mspaint.exe:mspaint.exe:mspaint.exe|0000
+CabArc.Exe|d:\\vs8\Common7\Tools\Bin\CabArc.Exe|cabarc.exe:cabarc.exe:cabarc.exe|0000
+BHOInstall.exe|d:\\Thunder\MiniThunder\bho\BHOInstall.exe|bhoinstall.exe:bhoinstall.exe:bhoinstall.exe|0000
+openssl.exe|d:\\git\bin\openssl.exe|openssl.exe:openssl.exe:openssl.exe|0000
+odbct32w.exe|d:\\vs8\VC\PlatformSDK\Bin\win64\AMD64\odbct32w.exe|odbct32w.exe:odbct32w.exe:odbct32w.exe|0000
+SoundRecorder.exe|C:\Windows\system32\SoundRecorder.exe|soundrecorder.exe:soundrecorder.exe:soundrecorder.exe|0000
+verifier.exe|C:\Windows\system32\verifier.exe|verifier.exe:verifier.exe:verifier.exe|0000
+spreview.exe|C:\Windows\system32\spreview.exe|spreview.exe:spreview.exe:spreview.exe|0000
+bcb.exe|d:\\bcb\CBuilder6\Bin\bcb.exe|bcb.exe:bcb.exe:bcb.exe|0000
+启动迅雷精简版.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\迅雷软件\迅雷精简版\启动迅雷精简版.lnk|启动迅雷精简版.lnk:启动迅雷精简版.lnk:qidongxunleijingjianban.lnk:qidongxunleijingjianban.lnk:qidongxunleijingjianban.lnk:qidongxunleijingjianban.lnk|0000
+Adobe Flash Builder 4.5.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Flash Builder 4.5\Adobe Flash Builder 4.5.lnk|adobe flash builder 4.5.lnk:adobe flash builder 4.5.lnk:adobe flash builder 4.5.lnk|0000
+gpgkeys_hkp.exe|d:\\git\libexec\gnupg\gpgkeys_hkp.exe|gpgkeys_hkp.exe:gpgkeys_hkp.exe:gpgkeys_hkp.exe|0000
+EXCEL.EXE|d:\\office\Office12\EXCEL.EXE|excel.exe:excel.exe:excel.exe|0000
+uninst.exe|d:\\Youdao\Dict4\uninst.exe|uninst.exe:uninst.exe:uninst.exe|0000
+MuiUnattend.exe|C:\Windows\system32\MuiUnattend.exe|muiunattend.exe:muiunattend.exe:muiunattend.exe|0000
+bootcfg.exe|C:\Windows\system32\bootcfg.exe|bootcfg.exe:bootcfg.exe:bootcfg.exe|0000
+cmdkey.exe|C:\Windows\system32\cmdkey.exe|cmdkey.exe:cmdkey.exe:cmdkey.exe|0000
+ipconfig.exe|C:\Windows\system32\ipconfig.exe|ipconfig.exe:ipconfig.exe:ipconfig.exe|0000
+ml64.exe|d:\\vs8\VC\bin\x86_amd64\ml64.exe|ml64.exe:ml64.exe:ml64.exe|0000
+Ease of Access.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Accessibility\Ease of Access.lnk|ease of access.lnk:ease of access.lnk:ease of access.lnk|0000
+CMBPBUninstall.exe|C:\Windows\system32\CMBPBUninstall.exe|cmbpbuninstall.exe:cmbpbuninstall.exe:cmbpbuninstall.exe|0000
+DpiScaling.exe|C:\Windows\system32\DpiScaling.exe|dpiscaling.exe:dpiscaling.exe:dpiscaling.exe|0000
+undname.exe|d:\\vs8\VC\bin\ia64\undname.exe|undname.exe:undname.exe:undname.exe|0000
+bscmake.exe|d:\\vs8\VC\bin\bscmake.exe|bscmake.exe:bscmake.exe:bscmake.exe|0000
+find.exe|C:\Windows\system32\find.exe|find.exe:find.exe:find.exe|0000
+imgCustPrep.exe|d:\\VMware\VMware Workstation\Resources\imgCustPrep.exe|imgcustprep.exe:imgcustprep.exe:imgcustprep.exe|0000
+wsqmcons.exe|C:\Windows\system32\wsqmcons.exe|wsqmcons.exe:wsqmcons.exe:wsqmcons.exe|0000
+PyQt Examples and Demos.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\PyQt GPL v4.8.5 for Python v2.5 (x86)\Examples\PyQt Examples and Demos.lnk|pyqt examples and demos.lnk:pyqt examples and demos.lnk:pyqt examples and demos.lnk|0000
+fg689p.exe|d:\\fg\fg689p.exe|fg689p.exe:fg689p.exe:fg689p.exe|0000
+lib.exe|d:\\vs8\VC\ce\bin\x86_arm\lib.exe|lib.exe:lib.exe:lib.exe|0000
+efsui.exe|C:\Windows\system32\efsui.exe|efsui.exe:efsui.exe:efsui.exe|0000
+PermCalc.exe|d:\\vs8\SDK\v2.0\Bin\PermCalc.exe|permcalc.exe:permcalc.exe:permcalc.exe|0000
+git-whatchanged.exe|d:\\git\libexec\git-core\git-whatchanged.exe|git-whatchanged.exe:git-whatchanged.exe:git-whatchanged.exe|0000
+Developing Database Applications.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\Developing Database Applications.lnk|developing database applications.lnk:developing database applications.lnk:developing database applications.lnk|0000
+xpsrchvw.exe|C:\Windows\system32\xpsrchvw.exe|xpsrchvw.exe:xpsrchvw.exe:xpsrchvw.exe|0000
+WinSight32.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\WinSight32.lnk|winsight32.lnk:winsight32.lnk:winsight32.lnk|0000
+deployPkg.exe|d:\\VMware\VMware Workstation\Resources\deployPkg.exe|deploypkg.exe:deploypkg.exe:deploypkg.exe|0000
+systeminfo.exe|C:\Windows\system32\systeminfo.exe|systeminfo.exe:systeminfo.exe:systeminfo.exe|0000
+FlashPlayerDebugger.exe|d:\\adobe\Adobe Flash Builder 4.5\player\win\10.2\FlashPlayerDebugger.exe|flashplayerdebugger.exe:flashplayerdebugger.exe:flashplayerdebugger.exe|0000
+vmnat.exe|d:\\VMware\VMware Workstation\vmnat.exe|vmnat.exe:vmnat.exe:vmnat.exe|0000
+RMActivate.exe|C:\Windows\system32\RMActivate.exe|rmactivate.exe:rmactivate.exe:rmactivate.exe|0000
+run_dbvanb.exe|d:\\VP Suite 5.3\launcher\run_dbvanb.exe|run_dbvanb.exe:run_dbvanb.exe:run_dbvanb.exe|0000
+git-check-attr.exe|d:\\git\libexec\git-core\git-check-attr.exe|git-check-attr.exe:git-check-attr.exe:git-check-attr.exe|0000
+mt.exe|d:\\vs8\Common7\Tools\Bin\mt.exe|mt.exe:mt.exe:mt.exe|0000
+MakeCtl.Exe|d:\\vs8\Common7\Tools\Bin\MakeCtl.Exe|makectl.exe:makectl.exe:makectl.exe|0000
+Win32 SDK Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\Win32 SDK Reference.lnk|win32 sdk reference.lnk:win32 sdk reference.lnk:win32 sdk reference.lnk|0000
+RMActivate_ssp_isv.exe|C:\Windows\system32\RMActivate_ssp_isv.exe|rmactivate_ssp_isv.exe:rmactivate_ssp_isv.exe:rmactivate_ssp_isv.exe|0000
+vcdeploy.exe|d:\\vs8\VC\bin\vcdeploy.exe|vcdeploy.exe:vcdeploy.exe:vcdeploy.exe|0000
+git.exe|d:\\git\bin\git.exe|git.exe:git.exe:git.exe|0000
+OLE Programmer's Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\OLE Programmer's Reference.lnk|ole programmer's reference.lnk:ole programmer's reference.lnk:ole programmer's reference.lnk|0000
+git-merge-tree.exe|d:\\git\libexec\git-core\git-merge-tree.exe|git-merge-tree.exe:git-merge-tree.exe:git-merge-tree.exe|0000
+Sound Recorder.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Sound Recorder.lnk|sound recorder.lnk:sound recorder.lnk:sound recorder.lnk|0000
+pgosweep.exe|d:\\vs8\VC\bin\ia64\pgosweep.exe|pgosweep.exe:pgosweep.exe:pgosweep.exe|0000
+git-describe.exe|d:\\git\libexec\git-core\git-describe.exe|git-describe.exe:git-describe.exe:git-describe.exe|0000
+git-name-rev.exe|d:\\git\libexec\git-core\git-name-rev.exe|git-name-rev.exe:git-name-rev.exe:git-name-rev.exe|0000
+odbct32w.exe|d:\\vs8\VC\PlatformSDK\Bin\odbct32w.exe|odbct32w.exe:odbct32w.exe:odbct32w.exe|0000
+C++Builder Language Guide.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\C++Builder Language Guide.lnk|c++builder language guide.lnk:c++builder language guide.lnk:c++builder language guide.lnk|0000
+env.exe|d:\\git\bin\env.exe|env.exe:env.exe:env.exe|0000
+git-checkout-index.exe|d:\\git\libexec\git-core\git-checkout-index.exe|git-checkout-index.exe:git-checkout-index.exe:git-checkout-index.exe|0000
+git-fetch.exe|d:\\git\libexec\git-core\git-fetch.exe|git-fetch.exe:git-fetch.exe:git-fetch.exe|0000
+whoami.exe|C:\Windows\system32\whoami.exe|whoami.exe:whoami.exe:whoami.exe|0000
+gacutil.exe|d:\\vs8\SDK\v2.0\Bin\gacutil.exe|gacutil.exe:gacutil.exe:gacutil.exe|0000
+kinit.exe|d:\\VP Suite 5.3\jre\bin\kinit.exe|kinit.exe:kinit.exe:kinit.exe|0000
+Python (command line).lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Python 2.5\Python (command line).lnk|python (command line).lnk:python (command line).lnk:python (command line).lnk|0000
+Tencentdl.exe|d:\\Tencent\QQDownload\Tencentdl.exe|tencentdl.exe:tencentdl.exe:tencentdl.exe|0000
+Remote Heap Walker.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Visual Studio 2005\Visual Studio Remote Tools\Remote Heap Walker.lnk|remote heap walker.lnk:remote heap walker.lnk:remote heap walker.lnk|0000
+bfsvc.exe|C:\Windows\bfsvc.exe|bfsvc.exe:bfsvc.exe:bfsvc.exe|0000
+jqsnotify.exe|d:\\VP Suite 5.3\jre\bin\jqsnotify.exe|jqsnotify.exe:jqsnotify.exe:jqsnotify.exe|0000
+Using C++Builder.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\Using C++Builder.lnk|using c++builder.lnk:using c++builder.lnk:using c++builder.lnk|0000
+OptionalFeatures.exe|C:\Windows\system32\OptionalFeatures.exe|optionalfeatures.exe:optionalfeatures.exe:optionalfeatures.exe|0000
+colorcpl.exe|C:\Windows\system32\colorcpl.exe|colorcpl.exe:colorcpl.exe:colorcpl.exe|0000
+linguist.exe|d:\\python25\Lib\site-packages\PyQt4\linguist.exe|linguist.exe:linguist.exe:linguist.exe|0000
+git-show-index.exe|d:\\git\libexec\git-core\git-show-index.exe|git-show-index.exe:git-show-index.exe:git-show-index.exe|0000
+unins000.exe|d:\\DriveTheLife\unins000.exe|unins000.exe:unins000.exe:unins000.exe|0000
+config.xml.bak|d:\\Tencent\QQDownload\Skins\Default\Portal\config.xml.bak|config.xml.bak:config.xml.bak:config.xml.bak|0000
+Microsoft Office 诊断.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office 工具\Microsoft Office 诊断.lnk|microsoft office 诊断.lnk:microsoft office 诊断.lnk:microsoft office zhenduan.lnk|0000
+vcdeploy.exe|d:\\vs8\VC\bin\ia64\vcdeploy.exe|vcdeploy.exe:vcdeploy.exe:vcdeploy.exe|0000
+PrintIsolationHost.exe|C:\Windows\system32\PrintIsolationHost.exe|printisolationhost.exe:printisolationhost.exe:printisolationhost.exe|0000
+git-notes.exe|d:\\git\libexec\git-core\git-notes.exe|git-notes.exe:git-notes.exe:git-notes.exe|0000
+VP Suite Update.exe|d:\\VP Suite 5.3\launcher\VP Suite Update.exe|vp suite update.exe:vp suite update.exe:vp suite update.exe|0000
+charmap.exe|C:\Windows\system32\charmap.exe|charmap.exe:charmap.exe:charmap.exe|0000
+javaws.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\javaws.exe|javaws.exe:javaws.exe:javaws.exe|0000
+lib.exe|d:\\vs8\VC\ce\bin\x86_mips\lib.exe|lib.exe:lib.exe:lib.exe|0000
+SetupVS.exe|d:\\VP Suite 5.3\dbva\dbvavs2010\SetupVS.exe|setupvs.exe:setupvs.exe:setupvs.exe|0000
+wlrmdr.exe|C:\Windows\system32\wlrmdr.exe|wlrmdr.exe:wlrmdr.exe:wlrmdr.exe|0000
+msinfo32.exe|C:\Windows\system32\msinfo32.exe|msinfo32.exe:msinfo32.exe:msinfo32.exe|0000
+vjredist.exe|d:\\vs8\SDK\v2.0\BootStrapper\Packages\VJSharpRDP\vjredist.exe|vjredist.exe:vjredist.exe:vjredist.exe|0000
+javacpl.exe|d:\\VP Suite 5.3\jre\bin\javacpl.exe|javacpl.exe:javacpl.exe:javacpl.exe|0000
+advtstub.exe|d:\\msdn2005\MSDN8.0\Common\advtstub.exe|advtstub.exe:advtstub.exe:advtstub.exe|0000
+vcbuild.exe|d:\\vs8\VC\bin\ia64\vcbuild.exe|vcbuild.exe:vcbuild.exe:vcbuild.exe|0000
+UltraISO.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\UltraISO\UltraISO.lnk|ultraiso.lnk:ultraiso.lnk:ultraiso.lnk|0000
+label.exe|C:\Windows\system32\label.exe|label.exe:label.exe:label.exe|0000
+LTM.EXE|d:\\vs8\VC\PlatformSDK\Bin\LTM.EXE|ltm.exe:ltm.exe:ltm.exe|0000
+wanyixia.exe|d:\\DriveTheLife\wanyixia\wanyixia.exe|wanyixia.exe:wanyixia.exe:wanyixia.exe|0000
+QQDownload.exe|d:\\Tencent\QQDownload\QQDownload.exe|qqdownload.exe:qqdownload.exe:qqdownload.exe|0000
+AxInstUI.exe|C:\Windows\system32\AxInstUI.exe|axinstui.exe:axinstui.exe:axinstui.exe|0000
+gzip.exe|d:\\git\bin\gzip.exe|gzip.exe:gzip.exe:gzip.exe|0000
+NVUNINST.EXE|C:\Windows\system32\NVUNINST.EXE|nvuninst.exe:nvuninst.exe:nvuninst.exe|0000
+InterBase Express Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\InterBase Express Reference.lnk|interbase express reference.lnk:interbase express reference.lnk:interbase express reference.lnk|0000
+pdfinfo.exe|d:\\git\bin\pdfinfo.exe|pdfinfo.exe:pdfinfo.exe:pdfinfo.exe|0000
+VMwareToolsUpgrader.exe|d:\\VMware\VMware Workstation\tools-upgraders\VMwareToolsUpgrader.exe|vmwaretoolsupgrader.exe:vmwaretoolsupgrader.exe:vmwaretoolsupgrader.exe|0000
+pgocvt.exe|d:\\vs8\VC\bin\pgocvt.exe|pgocvt.exe:pgocvt.exe:pgocvt.exe|0000
+shasm.exe|d:\\vs8\VC\ce\bin\x86_sh\shasm.exe|shasm.exe:shasm.exe:shasm.exe|0000
+More Games from Microsoft.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Games\More Games from Microsoft.lnk|more games from microsoft.lnk:more games from microsoft.lnk:more games from microsoft.lnk|0000
+brcc32.exe|d:\\bcb\CBuilder6\Bin\brcc32.exe|brcc32.exe:brcc32.exe:brcc32.exe|0000
+NetworkProjection.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\NetworkProjection.lnk|networkprojection.lnk:networkprojection.lnk:networkprojection.lnk|0000
+edm.exe|d:\\vs8\SmartDevices\Debugger\target\wce400\sh4\edm.exe|edm.exe:edm.exe:edm.exe|0000
+SbieCtrl.exe|d:\\Sandboxie\SbieCtrl.exe|sbiectrl.exe:sbiectrl.exe:sbiectrl.exe|0000
+write.exe|C:\Windows\write.exe|write.exe:write.exe:write.exe|0000
+dxdiag.exe|C:\Windows\system32\dxdiag.exe|dxdiag.exe:dxdiag.exe:dxdiag.exe|0000
+QQPYLiveup.exe|d:\\Tencent\QQPinyin\4.3.1084.400\QQPYLiveup.exe|qqpyliveup.exe:qqpyliveup.exe:qqpyliveup.exe|0000
+dplaysvr.exe|C:\Windows\system32\dplaysvr.exe|dplaysvr.exe:dplaysvr.exe:dplaysvr.exe|0000
+dumpbin.exe|d:\\vs8\VC\bin\x86_ia64\dumpbin.exe|dumpbin.exe:dumpbin.exe:dumpbin.exe|0000
+MdSched.exe|C:\Windows\system32\MdSched.exe|mdsched.exe:mdsched.exe:mdsched.exe|0000
+twunk_32.exe|C:\Windows\twunk_32.exe|twunk_32.exe:twunk_32.exe:twunk_32.exe|0000
+cacls.exe|C:\Windows\system32\cacls.exe|cacls.exe:cacls.exe:cacls.exe|0000
+editbin.exe|d:\\vs8\VC\bin\x86_amd64\editbin.exe|editbin.exe:editbin.exe:editbin.exe|0000
+gawk.exe|d:\\git\bin\gawk.exe|gawk.exe:gawk.exe:gawk.exe|0000
+RMActivate_isv.exe|C:\Windows\system32\RMActivate_isv.exe|rmactivate_isv.exe:rmactivate_isv.exe:rmactivate_isv.exe|0000
+YodaoDict.exe|d:\\Youdao\Dict4\YodaoDict.exe|yodaodict.exe:yodaodict.exe:yodaodict.exe|0000
+Windows PowerShell.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows PowerShell\Windows PowerShell.lnk|windows powershell.lnk:windows powershell.lnk:windows powershell.lnk|0000
+midlc.exe|d:\\vs8\VC\PlatformSDK\Bin\win64\AMD64\midlc.exe|midlc.exe:midlc.exe:midlc.exe|0000
+esentutl.exe|C:\Windows\system32\esentutl.exe|esentutl.exe:esentutl.exe:esentutl.exe|0000
+proquota.exe|C:\Windows\system32\proquota.exe|proquota.exe:proquota.exe:proquota.exe|0000
+msiexec.exe|C:\Windows\system32\msiexec.exe|msiexec.exe:msiexec.exe:msiexec.exe|0000
+sxstrace.exe|C:\Windows\system32\sxstrace.exe|sxstrace.exe:sxstrace.exe:sxstrace.exe|0000
+hwrreg.exe|C:\Windows\system32\hwrreg.exe|hwrreg.exe:hwrreg.exe:hwrreg.exe|0000
+Dbmon.Exe|d:\\vs8\Common7\Tools\Bin\winnt\Dbmon.Exe|dbmon.exe:dbmon.exe:dbmon.exe|0000
+undname.exe|d:\\vs8\VC\bin\undname.exe|undname.exe:undname.exe:undname.exe|0000
+cut.exe|d:\\git\bin\cut.exe|cut.exe:cut.exe:cut.exe|0000
+netcfg.exe|C:\Windows\system32\netcfg.exe|netcfg.exe:netcfg.exe:netcfg.exe|0000
+VaultCmd.exe|C:\Windows\system32\VaultCmd.exe|vaultcmd.exe:vaultcmd.exe:vaultcmd.exe|0000
+eclipse.exe|d:\\adobe\Adobe Flash Builder 4.5\eclipse\eclipse.exe|eclipse.exe:eclipse.exe:eclipse.exe|0000
+ocsetup.exe|C:\Windows\system32\ocsetup.exe|ocsetup.exe:ocsetup.exe:ocsetup.exe|0000
+UltraISO.exe|d:\\UltraISO\UltraISO.exe|ultraiso.exe:ultraiso.exe:ultraiso.exe|0000
+QQ影音.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ影音\QQ影音.lnk|qq影音.lnk:qq影音.lnk:qqyingyin.lnk|0000
+fg710a.exe|d:\\fg\fg710a.exe|fg710a.exe:fg710a.exe:fg710a.exe|0000
+tee.exe|d:\\git\bin\tee.exe|tee.exe:tee.exe:tee.exe|0000
+qwinsta.exe|C:\Windows\system32\qwinsta.exe|qwinsta.exe:qwinsta.exe:qwinsta.exe|0000
+rasphone.exe|C:\Windows\system32\rasphone.exe|rasphone.exe:rasphone.exe:rasphone.exe|0000
+msmtp.exe|d:\\git\bin\msmtp.exe|msmtp.exe:msmtp.exe:msmtp.exe|0000
+qappsrv.exe|C:\Windows\system32\qappsrv.exe|qappsrv.exe:qappsrv.exe:qappsrv.exe|0000
+help.exe|C:\Windows\system32\help.exe|help.exe:help.exe:help.exe|0000
+Assistant.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\PyQt GPL v4.8.5 for Python v2.5 (x86)\Assistant.lnk|assistant.lnk:assistant.lnk:assistant.lnk|0000
+clstencil.exe|d:\\vs8\VC\bin\clstencil.exe|clstencil.exe:clstencil.exe:clstencil.exe|0000
+SystemPropertiesProtection.exe|C:\Windows\system32\SystemPropertiesProtection.exe|systempropertiesprotection.exe:systempropertiesprotection.exe:systempropertiesprotection.exe|0000
+PyQt Examples Source.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\PyQt GPL v4.8.5 for Python v2.5 (x86)\Examples\PyQt Examples Source.lnk|pyqt examples source.lnk:pyqt examples source.lnk:pyqt examples source.lnk|0000
+sdiagnhost.exe|C:\Windows\system32\sdiagnhost.exe|sdiagnhost.exe:sdiagnhost.exe:sdiagnhost.exe|0000
+setupcl.exe|C:\Windows\system32\setupcl.exe|setupcl.exe:setupcl.exe:setupcl.exe|0000
+upgrader.exe|d:\\VMware\VMware Workstation\vmware-tools\upgrader.exe|upgrader.exe:upgrader.exe:upgrader.exe|0000
+SearchIndexer.exe|C:\Windows\system32\SearchIndexer.exe|searchindexer.exe:searchindexer.exe:searchindexer.exe|0000
+vimrun.exe|d:\\vim\vim73\vimrun.exe|vimrun.exe:vimrun.exe:vimrun.exe|0000
+Windows Explorer.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Explorer.lnk|windows explorer.lnk:windows explorer.lnk:windows explorer.lnk|0000
+editbin.exe|d:\\vs8\VC\bin\editbin.exe|editbin.exe:editbin.exe:editbin.exe|0000
+nacl64.exe|d:\\chromium\nacl64.exe|nacl64.exe:nacl64.exe:nacl64.exe|0000
+git-clean.exe|d:\\git\libexec\git-core\git-clean.exe|git-clean.exe:git-clean.exe:git-clean.exe|0000
+SandboxieRpcSs.exe|d:\\Sandboxie\SandboxieRpcSs.exe|sandboxierpcss.exe:sandboxierpcss.exe:sandboxierpcss.exe|0000
+RmClient.exe|C:\Windows\system32\RmClient.exe|rmclient.exe:rmclient.exe:rmclient.exe|0000
+Event Viewer.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Event Viewer.lnk|event viewer.lnk:event viewer.lnk:event viewer.lnk|0000
+fg694p.exe|d:\\fg\fg694p.exe|fg694p.exe:fg694p.exe:fg694p.exe|0000
+ExtidGen.Exe|d:\\vs8\Common7\Tools\Bin\ExtidGen.Exe|extidgen.exe:extidgen.exe:extidgen.exe|0000
+PrintBrmUi.exe|C:\Windows\system32\PrintBrmUi.exe|printbrmui.exe:printbrmui.exe:printbrmui.exe|0000
+vcredist_x64.exe|d:\\vs8\SDK\v2.0\BootStrapper\Packages\vcredist_x64\vcredist_x64.exe|vcredist_x64.exe:vcredist_x64.exe:vcredist_x64.exe|0000
+runas.exe|C:\Windows\system32\runas.exe|runas.exe:runas.exe:runas.exe|0000
+cl.exe|d:\\vs8\VC\bin\x86_ia64\cl.exe|cl.exe:cl.exe:cl.exe|0000
+PkgMgr.exe|C:\Windows\system32\PkgMgr.exe|pkgmgr.exe:pkgmgr.exe:pkgmgr.exe|0000
+属性设置.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ拼音输入法\属性设置.lnk|属性设置.lnk:属性设置.lnk:shuxingshezhi.lnk:shuxingshezhi.lnk:shuxingsheda.lnk:shuxingshezhi.lnk:shuxingshezhi.lnk:shuxingsheda.lnk|0000
+AtlTraceTool8.exe|d:\\vs8\Common7\Tools\AtlTraceTool8.exe|atltracetool8.exe:atltracetool8.exe:atltracetool8.exe|0000
+sh.exe|d:\\git\bin\sh.exe|sh.exe:sh.exe:sh.exe|0000
+PresentationSettings.exe|C:\Windows\system32\PresentationSettings.exe|presentationsettings.exe:presentationsettings.exe:presentationsettings.exe|0000
+wevtutil.exe|C:\Windows\system32\wevtutil.exe|wevtutil.exe:wevtutil.exe:wevtutil.exe|0000
+fconvert.exe|d:\\bcb\CBuilder6\Bin\fconvert.exe|fconvert.exe:fconvert.exe:fconvert.exe|0000
+WOWEXEC.EXE|C:\Windows\system32\WOWEXEC.EXE|wowexec.exe:wowexec.exe:wowexec.exe|0000
+POWERPNT.EXE|d:\\office\Office12\POWERPNT.EXE|powerpnt.exe:powerpnt.exe:powerpnt.exe|0000
+repair-bde.exe|C:\Windows\system32\repair-bde.exe|repair-bde.exe:repair-bde.exe:repair-bde.exe|0000
+QQPYMBlog.exe|d:\\Tencent\QQPinyin\4.3.1084.400\QQPYMBlog.exe|qqpymblog.exe:qqpymblog.exe:qqpymblog.exe|0000
+Windows Fax and Scan.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Fax and Scan.lnk|windows fax and scan.lnk:windows fax and scan.lnk:windows fax and scan.lnk|0000
+Component Services.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Component Services.lnk|component services.lnk:component services.lnk:component services.lnk|0000
+aitagent.exe|C:\Windows\system32\aitagent.exe|aitagent.exe:aitagent.exe:aitagent.exe|0000
+MAPI Programmer's Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\MAPI Programmer's Reference.lnk|mapi programmer's reference.lnk:mapi programmer's reference.lnk:mapi programmer's reference.lnk|0000
+Python for Windows Documentation.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Python 2.5\Python for Windows Documentation.lnk|python for windows documentation.lnk:python for windows documentation.lnk:python for windows documentation.lnk|0000
+startdbvavs.exe|d:\\VP Suite 5.3\dbva\dbvavs\startdbvavs.exe|startdbvavs.exe:startdbvavs.exe:startdbvavs.exe|0000
+setx.exe|C:\Windows\system32\setx.exe|setx.exe:setx.exe:setx.exe|0000
+attrib.exe|C:\Windows\system32\attrib.exe|attrib.exe:attrib.exe:attrib.exe|0000
+wininst-7.1.exe|d:\\python25\Lib\distutils\command\wininst-7.1.exe|wininst-7.1.exe:wininst-7.1.exe:wininst-7.1.exe|0000
+nmake.exe|d:\\vs8\VC\bin\amd64\nmake.exe|nmake.exe:nmake.exe:nmake.exe|0000
+upgrade.exe|d:\\vs8\SmartDevices\SDK\SQL Server\Mobile\v3.0\wce400\armv4\upgrade.exe|upgrade.exe:upgrade.exe:upgrade.exe|0000
+UltraISO 简介.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\UltraISO\UltraISO 简介.lnk|ultraiso 简介.lnk:ultraiso 简介.lnk:ultraiso jianjie.lnk|0000
+git-bisect--helper.exe|d:\\git\libexec\git-core\git-bisect--helper.exe|git-bisect--helper.exe:git-bisect--helper.exe:git-bisect--helper.exe|0000
+diantz.exe|C:\Windows\system32\diantz.exe|diantz.exe:diantz.exe:diantz.exe|0000
+cscript.exe|C:\Windows\system32\cscript.exe|cscript.exe:cscript.exe:cscript.exe|0000
+mkisofs.exe|d:\\VMware\VMware Workstation\mkisofs.exe|mkisofs.exe:mkisofs.exe:mkisofs.exe|0000
+FlashBuilderTypeAssocUtil.exe|d:\\adobe\Adobe Flash Builder 4.5\eclipse\plugins\com.adobe.flexbuilder.ui_4.5.0.308971\tools\FlashBuilderTypeAssocUtil.exe|flashbuildertypeassocutil.exe:flashbuildertypeassocutil.exe:flashbuildertypeassocutil.exe|0000
+QQPYCloud.exe|d:\\Tencent\QQPinyin\4.3.1084.400\QQPYCloud.exe|qqpycloud.exe:qqpycloud.exe:qqpycloud.exe|0000
+On-Screen Keyboard.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Accessibility\On-Screen Keyboard.lnk|on-screen keyboard.lnk:on-screen keyboard.lnk:on-screen keyboard.lnk|0000
+VPREVIEW.EXE|d:\\office\Office12\VPREVIEW.EXE|vpreview.exe:vpreview.exe:vpreview.exe|0000
+VMnetDHCP.exe|d:\\VMware\VMware Workstation\VMnetDHCP.exe|vmnetdhcp.exe:vmnetdhcp.exe:vmnetdhcp.exe|0000
+DeviceEject.exe|C:\Windows\system32\DeviceEject.exe|deviceeject.exe:deviceeject.exe:deviceeject.exe|0000
+makersp.exe|d:\\bcb\CBuilder6\Source\Rtl\Tools\makersp.exe|makersp.exe:makersp.exe:makersp.exe|0000
+guestcustutil.exe|d:\\VMware\VMware Workstation\Resources\guestcustutil.exe|guestcustutil.exe:guestcustutil.exe:guestcustutil.exe|0000
+startsdevs.exe|d:\\VP Suite 5.3\sde\sdevs2008\startsdevs.exe|startsdevs.exe:startsdevs.exe:startsdevs.exe|0000
+卸载TM2009.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\腾讯软件\TM2009\卸载TM2009.lnk|卸载tm2009.lnk:卸载tm2009.lnk:xiezaitm2009.lnk:xiezaitm2009.lnk|0000
+findstr.exe|C:\Windows\system32\findstr.exe|findstr.exe:findstr.exe:findstr.exe|0000
+servertool.exe|d:\\VP Suite 5.3\jre\bin\servertool.exe|servertool.exe:servertool.exe:servertool.exe|0000
+winresume.exe|C:\Windows\system32\winresume.exe|winresume.exe:winresume.exe:winresume.exe|0000
+xsd.exe|d:\\vs8\SDK\v2.0\Bin\xsd.exe|xsd.exe:xsd.exe:xsd.exe|0000
+手写输入.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ拼音输入法\手写输入.lnk|手写输入.lnk:手写输入.lnk:shouxieshuru.lnk:shouxieshuru.lnk|0000
+chrome.exe|d:\\$RECYCLE.BIN\S-1-5-21-356255826-206119901-504846942-1001\$RCHU8ZR\chrome.exe|chrome.exe:chrome.exe:chrome.exe|0000
+dialer.exe|C:\Windows\system32\dialer.exe|dialer.exe:dialer.exe:dialer.exe|0000
+git-prune.exe|d:\\git\libexec\git-core\git-prune.exe|git-prune.exe:git-prune.exe:git-prune.exe|0000
+WerFault.exe|C:\Windows\system32\WerFault.exe|werfault.exe:werfault.exe:werfault.exe|0000
+scktsrvr.exe|d:\\bcb\CBuilder6\Bin\scktsrvr.exe|scktsrvr.exe:scktsrvr.exe:scktsrvr.exe|0000
+Utilman.exe|C:\Windows\system32\Utilman.exe|utilman.exe:utilman.exe:utilman.exe|0000
+openfiles.exe|C:\Windows\system32\openfiles.exe|openfiles.exe:openfiles.exe:openfiles.exe|0000
+cvtres.exe|d:\\vs8\VC\bin\ia64\cvtres.exe|cvtres.exe:cvtres.exe:cvtres.exe|0000
+rasdial.exe|C:\Windows\system32\rasdial.exe|rasdial.exe:rasdial.exe:rasdial.exe|0000
+cmd.exe|C:\Windows\system32\cmd.exe|cmd.exe:cmd.exe:cmd.exe|0000
+CI.exe|d:\\VP Suite 5.3\bin\vp_windows\CI.exe|ci.exe:ci.exe:ci.exe|0000
+QQPYMergeDict.exe|d:\\Tencent\QQPinyin\4.3.1084.400\QQPYMergeDict.exe|qqpymergedict.exe:qqpymergedict.exe:qqpymergedict.exe|0000
+Spider Solitaire.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Games\Spider Solitaire.lnk|spider solitaire.lnk:spider solitaire.lnk:spider solitaire.lnk|0000
+VP Suite Product Edition Manager.exe|d:\\VP Suite 5.3\launcher\VP Suite Product Edition Manager.exe|vp suite product edition manager.exe:vp suite product edition manager.exe:vp suite product edition manager.exe|0000
+vim.exe|d:\\vim\vim73\vim.exe|vim.exe:vim.exe:vim.exe|0000
+setup.exe|d:\\MSOCache\All Users\{90120000-0030-0000-0000-0000000FF1CE}-D\setup.exe|setup.exe:setup.exe:setup.exe|0000
+srdelayed.exe|C:\Windows\system32\srdelayed.exe|srdelayed.exe:srdelayed.exe:srdelayed.exe|0000
+7-Zip Help.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\7-Zip\7-Zip Help.lnk|7-zip help.lnk:7-zip help.lnk:7-zip help.lnk|0000
+midl.exe|d:\\vs8\VC\ce\bin\x86_sh\midl.exe|midl.exe:midl.exe:midl.exe|0000
+Procmon.exe|d:\\ProcessMonitor\Procmon.exe|procmon.exe:procmon.exe:procmon.exe|0000
+append.exe|C:\Windows\system32\append.exe|append.exe:append.exe:append.exe|0000
+TSWbPrxy.exe|C:\Windows\system32\TSWbPrxy.exe|tswbprxy.exe:tswbprxy.exe:tswbprxy.exe|0000
+change.exe|C:\Windows\system32\change.exe|change.exe:change.exe:change.exe|0000
+tclsh85.exe|d:\\git\bin\tclsh85.exe|tclsh85.exe:tclsh85.exe:tclsh85.exe|0000
+TpmInit.exe|C:\Windows\system32\TpmInit.exe|tpminit.exe:tpminit.exe:tpminit.exe|0000
+ls.exe|d:\\git\bin\ls.exe|ls.exe:ls.exe:ls.exe|0000
+jqsnotify.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\jqsnotify.exe|jqsnotify.exe:jqsnotify.exe:jqsnotify.exe|0000
+midlc.exe|d:\\vs8\VC\PlatformSDK\Bin\win64\IA64\midlc.exe|midlc.exe:midlc.exe:midlc.exe|0000
+dumpbin.exe|d:\\vs8\VC\bin\ia64\dumpbin.exe|dumpbin.exe:dumpbin.exe:dumpbin.exe|0000
+git-mailinfo.exe|d:\\git\libexec\git-core\git-mailinfo.exe|git-mailinfo.exe:git-mailinfo.exe:git-mailinfo.exe|0000
+ComputerDefaults.exe|C:\Windows\system32\ComputerDefaults.exe|computerdefaults.exe:computerdefaults.exe:computerdefaults.exe|0000
+git-unpack-file.exe|d:\\git\libexec\git-core\git-unpack-file.exe|git-unpack-file.exe:git-unpack-file.exe:git-unpack-file.exe|0000
+Defrag.exe|C:\Windows\system32\Defrag.exe|defrag.exe:defrag.exe:defrag.exe|0000
+rdpshell.exe|C:\Windows\system32\rdpshell.exe|rdpshell.exe:rdpshell.exe:rdpshell.exe|0000
+Pfmon.Exe|d:\\vs8\Common7\Tools\Bin\winnt\Pfmon.Exe|pfmon.exe:pfmon.exe:pfmon.exe|0000
+Windows PowerShell Modules.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Windows PowerShell Modules.lnk|windows powershell modules.lnk:windows powershell modules.lnk:windows powershell modules.lnk|0000
+git-ls-files.exe|d:\\git\libexec\git-core\git-ls-files.exe|git-ls-files.exe:git-ls-files.exe:git-ls-files.exe|0000
+VP Suite Product Selector.exe|d:\\VP Suite 5.3\bin\VP Suite Product Selector.exe|vp suite product selector.exe:vp suite product selector.exe:vp suite product selector.exe|0000
+diskpart.exe|C:\Windows\system32\diskpart.exe|diskpart.exe:diskpart.exe:diskpart.exe|0000
+javacpl.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\javacpl.exe|javacpl.exe:javacpl.exe:javacpl.exe|0000
+Tencentdl.exe|d:\\Tencent\QQPlayer\Tencentdl.exe|tencentdl.exe:tencentdl.exe:tencentdl.exe|0000
+WindowsAnytimeUpgradeResults.exe|C:\Windows\system32\WindowsAnytimeUpgradeResults.exe|windowsanytimeupgraderesults.exe:windowsanytimeupgraderesults.exe:windowsanytimeupgraderesults.exe|0000
+ReAgentc.exe|C:\Windows\system32\ReAgentc.exe|reagentc.exe:reagentc.exe:reagentc.exe|0000
+卸载迅雷精简版.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\迅雷软件\迅雷精简版\卸载迅雷精简版.lnk|卸载迅雷精简版.lnk:卸载迅雷精简版.lnk:xiezaixunleijingjianban.lnk:xiezaixunleijingjianban.lnk:xiezaixunleijingjianban.lnk:xiezaixunleijingjianban.lnk|0000
+msvsmon.exe|d:\\vs8\Common7\IDE\Remote Debugger\x86\msvsmon.exe|msvsmon.exe:msvsmon.exe:msvsmon.exe|0000
+XDCMake.exe|d:\\vs8\VC\bin\ia64\XDCMake.exe|xdcmake.exe:xdcmake.exe:xdcmake.exe|0000
+digest.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\3.6.0\bin\digest.exe|digest.exe:digest.exe:digest.exe|0000
+Evernote.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Evernote\Evernote.lnk|evernote.lnk:evernote.lnk:evernote.lnk|0000
+NETSTAT.EXE|C:\Windows\system32\NETSTAT.EXE|netstat.exe:netstat.exe:netstat.exe|0000
+Print Management.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Print Management.lnk|print management.lnk:print management.lnk:print management.lnk|0000
+MSDN Library for Visual Studio 2005.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Developer Network\MSDN Library for Visual Studio 2005.lnk|msdn library for visual studio 2005.lnk:msdn library for visual studio 2005.lnk:msdn library for visual studio 2005.lnk|0000
+TlbImp.exe|d:\\vs8\SDK\v2.0\Bin\TlbImp.exe|tlbimp.exe:tlbimp.exe:tlbimp.exe|0000
+control.exe|C:\Windows\system32\control.exe|control.exe:control.exe:control.exe|0000
+cscope.exe|d:\\vim\vim73\cscope.exe|cscope.exe:cscope.exe:cscope.exe|0000
+nbtstat.exe|C:\Windows\system32\nbtstat.exe|nbtstat.exe:nbtstat.exe:nbtstat.exe|0000
+Notepad.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Notepad.lnk|notepad.lnk:notepad.lnk:notepad.lnk|0000
+QScintilla Homepage.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\PyQt GPL v4.8.5 for Python v2.5 (x86)\Links\QScintilla Homepage.lnk|qscintilla homepage.lnk:qscintilla homepage.lnk:qscintilla homepage.lnk|0000
+Dxpserver.exe|C:\Windows\system32\Dxpserver.exe|dxpserver.exe:dxpserver.exe:dxpserver.exe|0000
+pack200.exe|d:\\VP Suite 5.3\jre\bin\pack200.exe|pack200.exe:pack200.exe:pack200.exe|0000
+clip.exe|C:\Windows\system32\clip.exe|clip.exe:clip.exe:clip.exe|0000
+tr.exe|d:\\git\bin\tr.exe|tr.exe:tr.exe:tr.exe|0000
+gvim.exe|d:\\vim\vim73\gvim.exe|gvim.exe:gvim.exe:gvim.exe|0000
+fg711p.exe|d:\\fg\fg711p.exe|fg711p.exe:fg711p.exe:fg711p.exe|0000
+ssh.exe|d:\\git\bin\ssh.exe|ssh.exe:ssh.exe:ssh.exe|0000
+Quick Reports Help.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\Quick Reports Help.lnk|quick reports help.lnk:quick reports help.lnk:quick reports help.lnk|0000
+USER.EXE|C:\Windows\system32\USER.EXE|user.exe:user.exe:user.exe|0000
+convert.exe|C:\Windows\system32\convert.exe|convert.exe:convert.exe:convert.exe|0000
+hcrtf.exe|d:\\bcb\CBuilder6\Help\Tools\hcrtf.exe|hcrtf.exe:hcrtf.exe:hcrtf.exe|0000
+SandboxieWUAU.exe|d:\\Sandboxie\SandboxieWUAU.exe|sandboxiewuau.exe:sandboxiewuau.exe:sandboxiewuau.exe|0000
+xmlmapper.exe|d:\\bcb\CBuilder6\Bin\xmlmapper.exe|xmlmapper.exe:xmlmapper.exe:xmlmapper.exe|0000
+webappdbg.exe|d:\\bcb\CBuilder6\Bin\webappdbg.exe|webappdbg.exe:webappdbg.exe:webappdbg.exe|0000
+Remote Desktop Connection.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Remote Desktop Connection.lnk|remote desktop connection.lnk:remote desktop connection.lnk:remote desktop connection.lnk|0000
+TSTheme.exe|C:\Windows\system32\TSTheme.exe|tstheme.exe:tstheme.exe:tstheme.exe|0000
+Microsoft Office OneNote 2007.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office OneNote 2007.lnk|microsoft office onenote 2007.lnk:microsoft office onenote 2007.lnk:microsoft office onenote 2007.lnk|0000
+PPTVIEW.EXE|d:\\office\Office12\PPTVIEW.EXE|pptview.exe:pptview.exe:pptview.exe|0000
+cl.exe|d:\\vs8\VC\bin\x86_amd64\cl.exe|cl.exe:cl.exe:cl.exe|0000
+drvinst.exe|C:\Windows\system32\drvinst.exe|drvinst.exe:drvinst.exe:drvinst.exe|0000
+edm.exe|d:\\vs8\SmartDevices\Debugger\target\wce400\armv4\edm.exe|edm.exe:edm.exe:edm.exe|0000
+fc.exe|C:\Windows\system32\fc.exe|fc.exe:fc.exe:fc.exe|0000
+dfrgui.exe|C:\Windows\system32\dfrgui.exe|dfrgui.exe:dfrgui.exe:dfrgui.exe|0000
+Microsoft Office PowerPoint 2007.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office PowerPoint 2007.lnk|microsoft office powerpoint 2007.lnk:microsoft office powerpoint 2007.lnk:microsoft office powerpoint 2007.lnk|0000
+upgrade.exe|d:\\vs8\SmartDevices\SDK\SQL Server\Mobile\v3.0\wce500\armv4i\upgrade.exe|upgrade.exe:upgrade.exe:upgrade.exe|0000
+tstcon32.exe|d:\\vs8\VC\bin\amd64\tstcon32.exe|tstcon32.exe:tstcon32.exe:tstcon32.exe|0000
+customize.exe|d:\\VMware\VMware Workstation\Resources\customize.exe|customize.exe:customize.exe:customize.exe|0000
+SndVol.exe|C:\Windows\system32\SndVol.exe|sndvol.exe:sndvol.exe:sndvol.exe|0000
+git-prune-packed.exe|d:\\git\libexec\git-core\git-prune-packed.exe|git-prune-packed.exe:git-prune-packed.exe:git-prune-packed.exe|0000
+wermgr.exe|C:\Windows\system32\wermgr.exe|wermgr.exe:wermgr.exe:wermgr.exe|0000
+undname.exe|d:\\vs8\VC\bin\amd64\undname.exe|undname.exe:undname.exe:undname.exe|0000
+git-blame.exe|d:\\git\libexec\git-core\git-blame.exe|git-blame.exe:git-blame.exe:git-blame.exe|0000
+sfc.exe|C:\Windows\system32\sfc.exe|sfc.exe:sfc.exe:sfc.exe|0000
+datapump.exe|d:\\bcb\Borland Shared\BDE\datapump.exe|datapump.exe:datapump.exe:datapump.exe|0000
+ctfmon.exe|C:\Windows\system32\ctfmon.exe|ctfmon.exe:ctfmon.exe:ctfmon.exe|0000
+rrinstaller.exe|C:\Windows\system32\rrinstaller.exe|rrinstaller.exe:rrinstaller.exe:rrinstaller.exe|0000
+FlashBuilderC.exe|d:\\adobe\Adobe Flash Builder 4.5\FlashBuilderC.exe|flashbuilderc.exe:flashbuilderc.exe:flashbuilderc.exe|0000
+git-log.exe|d:\\git\libexec\git-core\git-log.exe|git-log.exe:git-log.exe:git-log.exe|0000
+RowsetViewer.exe|d:\\vs8\VC\PlatformSDK\Bin\win64\IA64\RowsetViewer.exe|rowsetviewer.exe:rowsetviewer.exe:rowsetviewer.exe|0000
+InstallAX.exe|d:\\adobe\Adobe Flash Builder 4.5\player\win\10.2\InstallAX.exe|installax.exe:installax.exe:installax.exe|0000
+printfilterpipelinesvc.exe|C:\Windows\system32\printfilterpipelinesvc.exe|printfilterpipelinesvc.exe:printfilterpipelinesvc.exe:printfilterpipelinesvc.exe|0000
+git-http-fetch.exe|d:\\git\libexec\git-core\git-http-fetch.exe|git-http-fetch.exe:git-http-fetch.exe:git-http-fetch.exe|0000
+uninstall_dbvavs.exe|d:\\VP Suite 5.3\uninstaller\uninstall_dbvavs.exe|uninstall_dbvavs.exe:uninstall_dbvavs.exe:uninstall_dbvavs.exe|0000
+DFDWiz.exe|C:\Windows\system32\DFDWiz.exe|dfdwiz.exe:dfdwiz.exe:dfdwiz.exe|0000
+ThunderFW.exe|d:\\Thunder\MiniThunder\Bin\ThunderFW.exe|thunderfw.exe:thunderfw.exe:thunderfw.exe|0000
+xxd.exe|d:\\$RECYCLE.BIN\S-1-5-21-356255826-206119901-504846942-1001\$RQHWQID\xxd.exe|xxd.exe:xxd.exe:xxd.exe|0000
+Adobe Help.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Help.lnk|adobe help.lnk:adobe help.lnk:adobe help.lnk|0000
+vmicsvc.exe|C:\Windows\system32\vmicsvc.exe|vmicsvc.exe:vmicsvc.exe:vmicsvc.exe|0000
+doskey.exe|C:\Windows\system32\doskey.exe|doskey.exe:doskey.exe:doskey.exe|0000
+Object Pascal Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\Object Pascal Reference.lnk|object pascal reference.lnk:object pascal reference.lnk:object pascal reference.lnk|0000
+XDCMake.exe|d:\\vs8\VC\bin\amd64\XDCMake.exe|xdcmake.exe:xdcmake.exe:xdcmake.exe|0000
+CX4_x86.exe|d:\\VP Suite 5.3\bin\vp_windows\CX4_x86.exe|cx4_x86.exe:cx4_x86.exe:cx4_x86.exe|0000
+Mahjong.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Games\Mahjong.lnk|mahjong.lnk:mahjong.lnk:mahjong.lnk|0000
+psr.exe|C:\Windows\system32\psr.exe|psr.exe:psr.exe:psr.exe|0000
+jp2launcher.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\jp2launcher.exe|jp2launcher.exe:jp2launcher.exe:jp2launcher.exe|0000
+DynaPass32.exe|d:\\fg\DynaPass32.exe|dynapass32.exe:dynapass32.exe:dynapass32.exe|0000
+winhlp32.exe|C:\Windows\winhlp32.exe|winhlp32.exe:winhlp32.exe:winhlp32.exe|0000
+mscdexnt.exe|C:\Windows\system32\mscdexnt.exe|mscdexnt.exe:mscdexnt.exe:mscdexnt.exe|0000
+AdapterTroubleshooter.exe|C:\Windows\system32\AdapterTroubleshooter.exe|adaptertroubleshooter.exe:adaptertroubleshooter.exe:adaptertroubleshooter.exe|0000
+SelfUpdate.exe|d:\\Tencent\TM2009\Bin\SelfUpdate.exe|selfupdate.exe:selfupdate.exe:selfupdate.exe|0000
+Hearts.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Games\Hearts.lnk|hearts.lnk:hearts.lnk:hearts.lnk|0000
+RDVGHelper.exe|C:\Windows\system32\RDVGHelper.exe|rdvghelper.exe:rdvghelper.exe:rdvghelper.exe|0000
+iexpress.exe|C:\Windows\system32\iexpress.exe|iexpress.exe:iexpress.exe:iexpress.exe|0000
+cttune.exe|C:\Windows\system32\cttune.exe|cttune.exe:cttune.exe:cttune.exe|0000
+Multimedia API Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\Multimedia API Reference.lnk|multimedia api reference.lnk:multimedia api reference.lnk:multimedia api reference.lnk|0000
+ONENOTE.EXE|d:\\office\Office12\ONENOTE.EXE|onenote.exe:onenote.exe:onenote.exe|0000
+uniq.exe|d:\\git\bin\uniq.exe|uniq.exe:uniq.exe:uniq.exe|0000
+adl.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\3.6.0\bin\adl.exe|adl.exe:adl.exe:adl.exe|0000
+MC.Exe|d:\\vs8\Common7\Tools\Bin\MC.Exe|mc.exe:mc.exe:mc.exe|0000
+eppie.exe|d:\\editplus\eppie.exe|eppie.exe:eppie.exe:eppie.exe|0000
+devenv.exe|d:\\vs8\Common7\IDE\devenv.exe|devenv.exe:devenv.exe:devenv.exe|0000
+gpresult.exe|C:\Windows\system32\gpresult.exe|gpresult.exe:gpresult.exe:gpresult.exe|0000
+Win32 Programming Techniques.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\Win32 Programming Techniques.lnk|win32 programming techniques.lnk:win32 programming techniques.lnk:win32 programming techniques.lnk|0000
+at.exe|C:\Windows\system32\at.exe|at.exe:at.exe:at.exe|0000
+VISIO.EXE|d:\\office\Office12\VISIO.EXE|visio.exe:visio.exe:visio.exe|0000
+upnpcont.exe|C:\Windows\system32\upnpcont.exe|upnpcont.exe:upnpcont.exe:upnpcont.exe|0000
+reg.exe|C:\Windows\system32\reg.exe|reg.exe:reg.exe:reg.exe|0000
+hwrcomp.exe|C:\Windows\system32\hwrcomp.exe|hwrcomp.exe:hwrcomp.exe:hwrcomp.exe|0000
+print.exe|C:\Windows\system32\print.exe|print.exe:print.exe:print.exe|0000
+git-clone.exe|d:\\git\libexec\git-core\git-clone.exe|git-clone.exe:git-clone.exe:git-clone.exe|0000
+imagedit.exe|d:\\bcb\CBuilder6\Bin\imagedit.exe|imagedit.exe:imagedit.exe:imagedit.exe|0000
+git-merge-index.exe|d:\\git\libexec\git-core\git-merge-index.exe|git-merge-index.exe:git-merge-index.exe:git-merge-index.exe|0000
+vim.exe|d:\\git\share\vim\vim73\vim.exe|vim.exe:vim.exe:vim.exe|0000
+explorer.exe|C:\Windows\explorer.exe|explorer.exe:explorer.exe:explorer.exe|0000
+ROUTE.EXE|C:\Windows\system32\ROUTE.EXE|route.exe:route.exe:route.exe|0000
+卸载 QQ影音.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ影音\卸载 QQ影音.lnk|卸载 qq影音.lnk:卸载 qq影音.lnk:xiezai qqyingyin.lnk:xiezai qqyingyin.lnk|0000
+orbd.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\orbd.exe|orbd.exe:orbd.exe:orbd.exe|0000
+Sticky Notes.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Sticky Notes.lnk|sticky notes.lnk:sticky notes.lnk:sticky notes.lnk|0000
+git-checkout.exe|d:\\git\libexec\git-core\git-checkout.exe|git-checkout.exe:git-checkout.exe:git-checkout.exe|0000
+chrome.exe|d:\\chromium\chrome.exe|chrome.exe:chrome.exe:chrome.exe|0000
+ThunderLiveUD.exe|d:\\Thunder\MiniThunder\Bin\ThunderLiveUD.exe|thunderliveud.exe:thunderliveud.exe:thunderliveud.exe|0000
+where.exe|C:\Windows\system32\where.exe|where.exe:where.exe:where.exe|0000
+SELFCERT.EXE|d:\\office\Office12\SELFCERT.EXE|selfcert.exe:selfcert.exe:selfcert.exe|0000
+卸载 Sandboxie.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Sandboxie\卸载 Sandboxie.lnk|卸载 sandboxie.lnk:卸载 sandboxie.lnk:xiezai sandboxie.lnk:xiezai sandboxie.lnk|0000
+git-update-server-info.exe|d:\\git\libexec\git-core\git-update-server-info.exe|git-update-server-info.exe:git-update-server-info.exe:git-update-server-info.exe|0000
+link.exe|d:\\vs8\VC\ce\bin\x86_arm\link.exe|link.exe:link.exe:link.exe|0000
+Internet Explorer.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Internet Explorer.lnk|internet explorer.lnk:internet explorer.lnk:internet explorer.lnk|0000
+UpdateSynchronizer5.3.exe|d:\\VP Suite 5.3\updatesynchronizer\UpdateSynchronizer5.3.exe|updatesynchronizer5.3.exe:updatesynchronizer5.3.exe:updatesynchronizer5.3.exe|0000
+brc32.exe|d:\\bcb\CBuilder6\Bin\brc32.exe|brc32.exe:brc32.exe:brc32.exe|0000
+Visual Paradigm for UML 8.3.exe|d:\\VP Suite 5.3\bin\Visual Paradigm for UML 8.3.exe|visual paradigm for uml 8.3.exe:visual paradigm for uml 8.3.exe:visual paradigm for uml 8.3.exe|0000
+computer.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\computer.lnk|computer.lnk:computer.lnk:computer.lnk|0000
+Control Panel.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Control Panel.lnk|control panel.lnk:control panel.lnk:control panel.lnk|0000
+Visual Studio 2005 Remote Debugger.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Visual Studio 2005\Visual Studio Tools\Visual Studio 2005 Remote Debugger.lnk|visual studio 2005 remote debugger.lnk:visual studio 2005 remote debugger.lnk:visual studio 2005 remote debugger.lnk|0000
+Creating Custom Components.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\Creating Custom Components.lnk|creating custom components.lnk:creating custom components.lnk:creating custom components.lnk|0000
+git-grep.exe|d:\\git\libexec\git-core\git-grep.exe|git-grep.exe:git-grep.exe:git-grep.exe|0000
+Remote File Viewer.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Visual Studio 2005\Visual Studio Remote Tools\Remote File Viewer.lnk|remote file viewer.lnk:remote file viewer.lnk:remote file viewer.lnk|0000
+MakeCat.Exe|d:\\vs8\Common7\Tools\Bin\MakeCat.Exe|makecat.exe:makecat.exe:makecat.exe|0000
+Paint.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Paint.lnk|paint.lnk:paint.lnk:paint.lnk|0000
+relog.exe|C:\Windows\system32\relog.exe|relog.exe:relog.exe:relog.exe|0000
+rstrui.exe|C:\Windows\system32\rstrui.exe|rstrui.exe:rstrui.exe:rstrui.exe|0000
+SetupVS.exe|d:\\VP Suite 5.3\sde\sdevs2008\SetupVS.exe|setupvs.exe:setupvs.exe:setupvs.exe|0000
+BdeUnlockWizard.exe|C:\Windows\system32\BdeUnlockWizard.exe|bdeunlockwizard.exe:bdeunlockwizard.exe:bdeunlockwizard.exe|0000
+cgconfig.exe|d:\\bcb\CBuilder6\Bin\cgconfig.exe|cgconfig.exe:cgconfig.exe:cgconfig.exe|0000
+wscript.exe|C:\Windows\system32\wscript.exe|wscript.exe:wscript.exe:wscript.exe|0000
+armasm.exe|d:\\vs8\VC\ce\bin\x86_arm\armasm.exe|armasm.exe:armasm.exe:armasm.exe|0000
+git-merge-base.exe|d:\\git\libexec\git-core\git-merge-base.exe|git-merge-base.exe:git-merge-base.exe:git-merge-base.exe|0000
+waitfor.exe|C:\Windows\system32\waitfor.exe|waitfor.exe:waitfor.exe:waitfor.exe|0000
+Project1.exe|d:\\bcb\CBuilder6\Bin\Project1.exe|project1.exe:project1.exe:project1.exe|0000
+write.exe|C:\Windows\system32\write.exe|write.exe:write.exe:write.exe|0000
+SqlExpressChk.exe|d:\\vs8\SDK\v2.0\BootStrapper\Packages\SqlExpress\SqlExpressChk.exe|sqlexpresschk.exe:sqlexpresschk.exe:sqlexpresschk.exe|0000
+Calculator.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Calculator.lnk|calculator.lnk:calculator.lnk:calculator.lnk|0000
+BCQC.exe|d:\\bc2\BCQC.exe|bcqc.exe:bcqc.exe:bcqc.exe|0000
+mpishim.exe|d:\\vs8\Common7\IDE\Remote Debugger\x86\mpishim.exe|mpishim.exe:mpishim.exe:mpishim.exe|0000
+printui.exe|C:\Windows\system32\printui.exe|printui.exe:printui.exe:printui.exe|0000
+QQPlayerSlim.exe|d:\\Tencent\QQDownload\SlimPlayer\QQPlayerSlim.exe|qqplayerslim.exe:qqplayerslim.exe:qqplayerslim.exe|0000
+install.exe|d:\\$RECYCLE.BIN\S-1-5-21-356255826-206119901-504846942-1001\$RQHWQID\install.exe|install.exe:install.exe:install.exe|0000
+XML Mapper.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\XML Mapper.lnk|xml mapper.lnk:xml mapper.lnk:xml mapper.lnk|0000
+pgosweep.exe|d:\\vs8\VC\bin\pgosweep.exe|pgosweep.exe:pgosweep.exe:pgosweep.exe|0000
+uninstall_sdeec.exe|d:\\VP Suite 5.3\uninstaller\uninstall_sdeec.exe|uninstall_sdeec.exe:uninstall_sdeec.exe:uninstall_sdeec.exe|0000
+ORGWIZ.EXE|d:\\office\Office12\ORGWIZ.EXE|orgwiz.exe:orgwiz.exe:orgwiz.exe|0000
+run_dbvasql.exe|d:\\VP Suite 5.3\launcher\run_dbvasql.exe|run_dbvasql.exe:run_dbvasql.exe:run_dbvasql.exe|0000
+git-merge.exe|d:\\git\libexec\git-core\git-merge.exe|git-merge.exe:git-merge.exe:git-merge.exe|0000
+SQL Explorer.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\SQL Explorer.lnk|sql explorer.lnk:sql explorer.lnk:sql explorer.lnk|0000
+java-rmi.exe|d:\\VP Suite 5.3\jre\bin\java-rmi.exe|java-rmi.exe:java-rmi.exe:java-rmi.exe|0000
+copylocale.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\3.6.0\bin\copylocale.exe|copylocale.exe:copylocale.exe:copylocale.exe|0000
+uninstal.exe|d:\\vim\vim73\uninstal.exe|uninstal.exe:uninstal.exe:uninstal.exe|0000
+git-get-tar-commit-id.exe|d:\\git\libexec\git-core\git-get-tar-commit-id.exe|git-get-tar-commit-id.exe:git-get-tar-commit-id.exe:git-get-tar-commit-id.exe|0000
+less.exe|d:\\git\bin\less.exe|less.exe:less.exe:less.exe|0000
+setupugc.exe|C:\Windows\system32\setupugc.exe|setupugc.exe:setupugc.exe:setupugc.exe|0000
+dpapimig.exe|C:\Windows\system32\dpapimig.exe|dpapimig.exe:dpapimig.exe:dpapimig.exe|0000
+sqlexpr32.exe|d:\\vs8\SDK\v2.0\BootStrapper\Packages\SqlExpress\en\sqlexpr32.exe|sqlexpr32.exe:sqlexpr32.exe:sqlexpr32.exe|0000
+dotnetchk.exe|d:\\vs8\SDK\v2.0\BootStrapper\Packages\dotnetfx\dotnetchk.exe|dotnetchk.exe:dotnetchk.exe:dotnetchk.exe|0000
+rowsetviewer.exe|d:\\vs8\VC\PlatformSDK\Bin\win64\AMD64\rowsetviewer.exe|rowsetviewer.exe:rowsetviewer.exe:rowsetviewer.exe|0000
+es.exe|d:\\everything\es.exe|es.exe:es.exe:es.exe|0000
+svchost.exe|C:\Windows\system32\svchost.exe|svchost.exe:svchost.exe:svchost.exe|0000
+cofire.exe|C:\Windows\system32\cofire.exe|cofire.exe:cofire.exe:cofire.exe|0000
+git-repo-config.exe|d:\\git\libexec\git-core\git-repo-config.exe|git-repo-config.exe:git-repo-config.exe:git-repo-config.exe|0000
+replace.exe|C:\Windows\system32\replace.exe|replace.exe:replace.exe:replace.exe|0000
+QQPYStat.exe|d:\\Tencent\QQPinyin\4.3.1084.400\QQPYStat.exe|qqpystat.exe:qqpystat.exe:qqpystat.exe|0000
+xmlpatterns.exe|d:\\python25\Lib\site-packages\PyQt4\xmlpatterns.exe|xmlpatterns.exe:xmlpatterns.exe:xmlpatterns.exe|0000
+mipsasm.exe|d:\\vs8\VC\ce\bin\x86_mips\mipsasm.exe|mipsasm.exe:mipsasm.exe:mipsasm.exe|0000
+Windows Sockets 2 Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\Windows Sockets 2 Reference.lnk|windows sockets 2 reference.lnk:windows sockets 2 reference.lnk:windows sockets 2 reference.lnk|0000
+Module Docs.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Python 2.5\Module Docs.lnk|module docs.lnk:module docs.lnk:module docs.lnk|0000
+ucsvc.exe|C:\Windows\system32\ucsvc.exe|ucsvc.exe:ucsvc.exe:ucsvc.exe|0000
+redir.exe|C:\Windows\system32\redir.exe|redir.exe:redir.exe:redir.exe|0000
+SystemPropertiesHardware.exe|C:\Windows\system32\SystemPropertiesHardware.exe|systempropertieshardware.exe:systempropertieshardware.exe:systempropertieshardware.exe|0000
+bcc32.exe|d:\\bcb\CBuilder6\Bin\bcc32.exe|bcc32.exe:bcc32.exe:bcc32.exe|0000
+UltraISO 使用说明.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\UltraISO\UltraISO 使用说明.lnk|ultraiso 使用说明.lnk:ultraiso 使用说明.lnk:ultraiso shiyongshuoming.lnk:ultraiso shiyongshuoming.lnk:ultraiso shiyongshuiming.lnk:ultraiso shiyongshuiming.lnk|0000
+eDbgJit.EXE|d:\\vs8\SmartDevices\Debugger\target\wce400\armv4\eDbgJit.EXE|edbgjit.exe:edbgjit.exe:edbgjit.exe|0000
+TCPSVCS.EXE|C:\Windows\system32\TCPSVCS.EXE|tcpsvcs.exe:tcpsvcs.exe:tcpsvcs.exe|0000
+ONENOTEM.EXE|d:\\office\Office12\ONENOTEM.EXE|onenotem.exe:onenotem.exe:onenotem.exe|0000
+HOSTNAME.EXE|C:\Windows\system32\HOSTNAME.EXE|hostname.exe:hostname.exe:hostname.exe|0000
+chrome_launcher.exe|d:\\chromium\servers\chrome_launcher.exe|chrome_launcher.exe:chrome_launcher.exe:chrome_launcher.exe|0000
+BitLockerWizardElev.exe|C:\Windows\system32\BitLockerWizardElev.exe|bitlockerwizardelev.exe:bitlockerwizardelev.exe:bitlockerwizardelev.exe|0000
+Image Editor.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Image Editor.lnk|image editor.lnk:image editor.lnk:image editor.lnk|0000
+implib.exe|d:\\bcb\CBuilder6\Bin\implib.exe|implib.exe:implib.exe:implib.exe|0000
+bdeadmin.exe|d:\\bcb\Borland Shared\BDE\bdeadmin.exe|bdeadmin.exe:bdeadmin.exe:bdeadmin.exe|0000
+VP Suite.exe|d:\\VP Suite 5.3\bin\VP Suite.exe|vp suite.exe:vp suite.exe:vp suite.exe|0000
+ntkrnlpa.exe|C:\Windows\system32\ntkrnlpa.exe|ntkrnlpa.exe:ntkrnlpa.exe:ntkrnlpa.exe|0000
+dbexplor.exe|d:\\bcb\CBuilder6\Bin\dbexplor.exe|dbexplor.exe:dbexplor.exe:dbexplor.exe|0000
+vmnat.exe|C:\Windows\system32\vmnat.exe|vmnat.exe:vmnat.exe:vmnat.exe|0000
+xxd.exe|d:\\vim\vim73\xxd.exe|xxd.exe:xxd.exe:xxd.exe|0000
+git-fast-import.exe|d:\\git\libexec\git-core\git-fast-import.exe|git-fast-import.exe:git-fast-import.exe:git-fast-import.exe|0000
+BdeUISrv.exe|C:\Windows\system32\BdeUISrv.exe|bdeuisrv.exe:bdeuisrv.exe:bdeuisrv.exe|0000
+xdcmake.exe|d:\\vs8\VC\bin\xdcmake.exe|xdcmake.exe:xdcmake.exe:xdcmake.exe|0000
+servertool.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\servertool.exe|servertool.exe:servertool.exe:servertool.exe|0000
+tnameserv.exe|d:\\VP Suite 5.3\jre\bin\tnameserv.exe|tnameserv.exe:tnameserv.exe:tnameserv.exe|0000
+resgen.exe|d:\\vs8\SmartDevices\SDK\SDKTools\resgen.exe|resgen.exe:resgen.exe:resgen.exe|0000
+git-mv.exe|d:\\git\libexec\git-core\git-mv.exe|git-mv.exe:git-mv.exe:git-mv.exe|0000
+QPUp.exe|d:\\Tencent\QQPlayer\QPUp.exe|qpup.exe:qpup.exe:qpup.exe|0000
+ktmutil.exe|C:\Windows\system32\ktmutil.exe|ktmutil.exe:ktmutil.exe:ktmutil.exe|0000
+Microsoft Office Word 2007.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office Word 2007.lnk|microsoft office word 2007.lnk:microsoft office word 2007.lnk:microsoft office word 2007.lnk|0000
+cl.exe|d:\\vs8\VC\ce\bin\x86_sh\cl.exe|cl.exe:cl.exe:cl.exe|0000
+启用 3D Vision.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\NVIDIA Corporation\3D Vision\启用 3D Vision.lnk|启用 3d vision.lnk:启用 3d vision.lnk:qiyong 3d vision.lnk|0000
+setspn.exe|C:\Windows\system32\setspn.exe|setspn.exe:setspn.exe:setspn.exe|0000
+bdemmcfg.exe|d:\\bcb\CBuilder6\MergeModules\bdemmcfg.exe|bdemmcfg.exe:bdemmcfg.exe:bdemmcfg.exe|0000
+adb.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\4.5.0\lib\android\bin\adb.exe|adb.exe:adb.exe:adb.exe|0000
+convert.exe|d:\\bcb\CBuilder6\Bin\convert.exe|convert.exe:convert.exe:convert.exe|0000
+copylocale.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\4.5.0\bin\copylocale.exe|copylocale.exe:copylocale.exe:copylocale.exe|0000
+mobsync.exe|C:\Windows\system32\mobsync.exe|mobsync.exe:mobsync.exe:mobsync.exe|0000
+md5sum.exe|d:\\git\bin\md5sum.exe|md5sum.exe:md5sum.exe:md5sum.exe|0000
+connect.exe|d:\\git\bin\connect.exe|connect.exe:connect.exe:connect.exe|0000
+TapiUnattend.exe|C:\Windows\system32\TapiUnattend.exe|tapiunattend.exe:tapiunattend.exe:tapiunattend.exe|0000
+perl.exe|d:\\git\bin\perl.exe|perl.exe:perl.exe:perl.exe|0000
+Internet Backgammon.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Games\Internet Backgammon.lnk|internet backgammon.lnk:internet backgammon.lnk:internet backgammon.lnk|0000
+gpupdate.exe|C:\Windows\system32\gpupdate.exe|gpupdate.exe:gpupdate.exe:gpupdate.exe|0000
+Linguist.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\PyQt GPL v4.8.5 for Python v2.5 (x86)\Linguist.lnk|linguist.lnk:linguist.lnk:linguist.lnk|0000
+pgomgr.exe|d:\\vs8\VC\bin\amd64\pgomgr.exe|pgomgr.exe:pgomgr.exe:pgomgr.exe|0000
+Mobility Center.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Mobility Center.lnk|mobility center.lnk:mobility center.lnk:mobility center.lnk|0000
+CX2.exe|d:\\VP Suite 5.3\bin\vp_windows\CX2.exe|cx2.exe:cx2.exe:cx2.exe|0000
+msg.exe|C:\Windows\system32\msg.exe|msg.exe:msg.exe:msg.exe|0000
+git-bundle.exe|d:\\git\libexec\git-core\git-bundle.exe|git-bundle.exe:git-bundle.exe:git-bundle.exe|0000
+nslookup.exe|C:\Windows\system32\nslookup.exe|nslookup.exe:nslookup.exe:nslookup.exe|0000
+Windows Setup API Programmer's Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\Windows Setup API Programmer's Reference.lnk|windows setup api programmer's reference.lnk:windows setup api programmer's reference.lnk:windows setup api programmer's reference.lnk|0000
+FiltReg.Exe|d:\\vs8\Common7\Tools\Bin\FiltReg.Exe|filtreg.exe:filtreg.exe:filtreg.exe|0000
+lpremove.exe|C:\Windows\system32\lpremove.exe|lpremove.exe:lpremove.exe:lpremove.exe|0000
+eventvwr.exe|C:\Windows\system32\eventvwr.exe|eventvwr.exe:eventvwr.exe:eventvwr.exe|0000
+Uninstall.exe|d:\\7-Zip\Uninstall.exe|uninstall.exe:uninstall.exe:uninstall.exe|0000
+Speech Recognition.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Accessibility\Speech Recognition.lnk|speech recognition.lnk:speech recognition.lnk:speech recognition.lnk|0000
+autofmt.exe|C:\Windows\system32\autofmt.exe|autofmt.exe:autofmt.exe:autofmt.exe|0000
+pgomgr.exe|d:\\vs8\VC\bin\ia64\pgomgr.exe|pgomgr.exe:pgomgr.exe:pgomgr.exe|0000
+PythonWin.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Python 2.5\PythonWin.lnk|pythonwin.lnk:pythonwin.lnk:pythonwin.lnk|0000
+javaw.exe|d:\\adobe\Adobe Flash Builder 4.5\jre\bin\javaw.exe|javaw.exe:javaw.exe:javaw.exe|0000
+VcBuildHelper.exe|d:\\vs8\VC\bin\ia64\VcBuildHelper.exe|vcbuildhelper.exe:vcbuildhelper.exe:vcbuildhelper.exe|0000
+upgrade.exe|d:\\vs8\SmartDevices\SDK\SQL Server\Mobile\v3.0\wce500\mipsiv_fp\upgrade.exe|upgrade.exe:upgrade.exe:upgrade.exe|0000
+License.exe|d:\\Sandboxie\License.exe|license.exe:license.exe:license.exe|0000
+卸载有道词典.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\有道\有道词典\卸载有道词典.lnk|卸载有道词典.lnk:卸载有道词典.lnk:xiezaiyoudaocidian.lnk:xiezaiyoudaocidian.lnk:xiezaiyoudaocidian.lnk:xiezaiyoudaocidian.lnk|0000
+ShapeCollector.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Tablet PC\ShapeCollector.lnk|shapecollector.lnk:shapecollector.lnk:shapecollector.lnk|0000
+FreeU21.exe|d:\\fg\FreeU21.exe|freeu21.exe:freeu21.exe:freeu21.exe|0000
+dwm.exe|C:\Windows\system32\dwm.exe|dwm.exe:dwm.exe:dwm.exe|0000
+Wordconv.exe|d:\\office\Office12\Wordconv.exe|wordconv.exe:wordconv.exe:wordconv.exe|0000
+ml64.exe|d:\\vs8\VC\bin\amd64\ml64.exe|ml64.exe:ml64.exe:ml64.exe|0000
+ias.exe|d:\\vs8\VC\bin\x86_ia64\ias.exe|ias.exe:ias.exe:ias.exe|0000
+WindowsInstaller-KB893803-v2-x86.exe|d:\\vs8\SDK\v2.0\BootStrapper\Packages\dotnetfx\WindowsInstaller-KB893803-v2-x86.exe|windowsinstaller-kb893803-v2-x86.exe:windowsinstaller-kb893803-v2-x86.exe:windowsinstaller-kb893803-v2-x86.exe|0000
+fcsh.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\3.6.0\bin\fcsh.exe|fcsh.exe:fcsh.exe:fcsh.exe|0000
+manage-bde.exe|C:\Windows\system32\manage-bde.exe|manage-bde.exe:manage-bde.exe:manage-bde.exe|0000
+startdbvavs.exe|d:\\VP Suite 5.3\dbva\dbvavs2010\startdbvavs.exe|startdbvavs.exe:startdbvavs.exe:startdbvavs.exe|0000
+MSTORDB.EXE|d:\\office\Office12\MSTORDB.EXE|mstordb.exe:mstordb.exe:mstordb.exe|0000
+lc.exe|d:\\vs8\SDK\v2.0\Bin\lc.exe|lc.exe:lc.exe:lc.exe|0000
+eric Homepage.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\PyQt GPL v4.8.5 for Python v2.5 (x86)\Links\eric Homepage.lnk|eric homepage.lnk:eric homepage.lnk:eric homepage.lnk|0000
+Resource Monitor.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Resource Monitor.lnk|resource monitor.lnk:resource monitor.lnk:resource monitor.lnk|0000
+EDITOR.EXE|d:\\office\Office12\EDITOR.EXE|editor.exe:editor.exe:editor.exe|0000
+mfpmp.exe|C:\Windows\system32\mfpmp.exe|mfpmp.exe:mfpmp.exe:mfpmp.exe|0000
+verclsid.exe|C:\Windows\system32\verclsid.exe|verclsid.exe:verclsid.exe:verclsid.exe|0000
+git-for-each-ref.exe|d:\\git\libexec\git-core\git-for-each-ref.exe|git-for-each-ref.exe:git-for-each-ref.exe:git-for-each-ref.exe|0000
+lib.exe|d:\\vs8\VC\bin\ia64\lib.exe|lib.exe:lib.exe:lib.exe|0000
+GameExplorer.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Games\GameExplorer.lnk|gameexplorer.lnk:gameexplorer.lnk:gameexplorer.lnk|0000
+rc.exe|d:\\vs8\VC\PlatformSDK\Bin\win64\IA64\rc.exe|rc.exe:rc.exe:rc.exe|0000
+MidlC.Exe|d:\\vs8\Common7\Tools\Bin\MidlC.Exe|midlc.exe:midlc.exe:midlc.exe|0000
+git-read-tree.exe|d:\\git\libexec\git-core\git-read-tree.exe|git-read-tree.exe:git-read-tree.exe:git-read-tree.exe|0000
+Bind.Exe|d:\\vs8\Common7\Tools\Bin\Bind.Exe|bind.exe:bind.exe:bind.exe|0000
+git-imap-send.exe|d:\\git\libexec\git-core\git-imap-send.exe|git-imap-send.exe:git-imap-send.exe:git-imap-send.exe|0000
+vmware-vmx-debug.exe|d:\\VMware\VMware Workstation\vmware-vmx-debug.exe|vmware-vmx-debug.exe:vmware-vmx-debug.exe:vmware-vmx-debug.exe|0000
+mkdir.exe|d:\\git\bin\mkdir.exe|mkdir.exe:mkdir.exe:mkdir.exe|0000
+Microsoft Visual Studio 2005.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Visual Studio 2005\Microsoft Visual Studio 2005.lnk|microsoft visual studio 2005.lnk:microsoft visual studio 2005.lnk:microsoft visual studio 2005.lnk|0000
+pktextract.exe|d:\\vs8\Common7\Tools\Bin\pktextract.exe|pktextract.exe:pktextract.exe:pktextract.exe|0000
+Microsoft Visual Studio 2005 Documentation.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Visual Studio 2005\Microsoft Visual Studio 2005 Documentation.lnk|microsoft visual studio 2005 documentation.lnk:microsoft visual studio 2005 documentation.lnk:microsoft visual studio 2005 documentation.lnk|0000
+git-mktree.exe|d:\\git\libexec\git-core\git-mktree.exe|git-mktree.exe:git-mktree.exe:git-mktree.exe|0000
+FlashBuilder.exe|d:\\adobe\Adobe Flash Builder 4.5\FlashBuilder.exe|flashbuilder.exe:flashbuilder.exe:flashbuilder.exe|0000
+sleep.exe|d:\\git\bin\sleep.exe|sleep.exe:sleep.exe:sleep.exe|0000
+run_bpva.exe|d:\\VP Suite 5.3\launcher\run_bpva.exe|run_bpva.exe:run_bpva.exe:run_bpva.exe|0000
+autochk.exe|C:\Windows\system32\autochk.exe|autochk.exe:autochk.exe:autochk.exe|0000
+git-remote-ftps.exe|d:\\git\libexec\git-core\git-remote-ftps.exe|git-remote-ftps.exe:git-remote-ftps.exe:git-remote-ftps.exe|0000
+unins000.exe|d:\\UltraISO\unins000.exe|unins000.exe:unins000.exe:unins000.exe|0000
+eDbgJit.exe|d:\\vs8\SmartDevices\Debugger\target\wce400\mipsiv\eDbgJit.exe|edbgjit.exe:edbgjit.exe:edbgjit.exe|0000
+Start.exe|d:\\Sandboxie\Start.exe|start.exe:start.exe:start.exe|0000
+fg713x.exe|d:\\fg\fg713x.exe|fg713x.exe:fg713x.exe:fg713x.exe|0000
+RapiConfig.exe|d:\\vs8\SmartDevices\SDK\SDKTools\RapiConfig.exe|rapiconfig.exe:rapiconfig.exe:rapiconfig.exe|0000
+WSManHTTPConfig.exe|C:\Windows\system32\WSManHTTPConfig.exe|wsmanhttpconfig.exe:wsmanhttpconfig.exe:wsmanhttpconfig.exe|0000
+fdb.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\3.6.0\bin\fdb.exe|fdb.exe:fdb.exe:fdb.exe|0000
+MSOHTMED.EXE|d:\\office\Office12\MSOHTMED.EXE|msohtmed.exe:msohtmed.exe:msohtmed.exe|0000
+pce.exe|d:\\bcb\CBuilder6\Bin\pce.exe|pce.exe:pce.exe:pce.exe|0000
+cv.exe|d:\\VP Suite 5.3\bin\vp_windows\cv.exe|cv.exe:cv.exe:cv.exe|0000
+7zG.exe|d:\\7-Zip\7zG.exe|7zg.exe:7zg.exe:7zg.exe|0000
+compc.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\4.5.0\bin\compc.exe|compc.exe:compc.exe:compc.exe|0000
+gpg.exe|d:\\git\bin\gpg.exe|gpg.exe:gpg.exe:gpg.exe|0000
+link.exe|d:\\vs8\VC\ce\bin\x86_sh\link.exe|link.exe:link.exe:link.exe|0000
+Help.lnk|C:\Users\maconel\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Maintenance\Help.lnk|help.lnk:help.lnk:help.lnk|0000
+pcwrun.exe|C:\Windows\system32\pcwrun.exe|pcwrun.exe:pcwrun.exe:pcwrun.exe|0000
+Windows Easy Transfer.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Windows Easy Transfer.lnk|windows easy transfer.lnk:windows easy transfer.lnk:windows easy transfer.lnk|0000
+choice.exe|C:\Windows\system32\choice.exe|choice.exe:choice.exe:choice.exe|0000
+Solitaire.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Games\Solitaire.lnk|solitaire.lnk:solitaire.lnk:solitaire.lnk|0000
+HTTPDownloadUI.exe|d:\\DriveTheLife\Bind\HTTPDownloadUI.exe|httpdownloadui.exe:httpdownloadui.exe:httpdownloadui.exe|0000
+SumatraPDF.exe|d:\\pdf\SumatraPDF.exe|sumatrapdf.exe:sumatrapdf.exe:sumatrapdf.exe|0000
+git-init.exe|d:\\git\libexec\git-core\git-init.exe|git-init.exe:git-init.exe:git-init.exe|0000
+Character Map.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Character Map.lnk|character map.lnk:character map.lnk:character map.lnk|0000
+cmstp.exe|C:\Windows\system32\cmstp.exe|cmstp.exe:cmstp.exe:cmstp.exe|0000
+WINWORD.EXE|d:\\office\Office12\WINWORD.EXE|winword.exe:winword.exe:winword.exe|0000
+dbd32.exe|d:\\bcb\Borland Shared\Database Desktop\dbd32.exe|dbd32.exe:dbd32.exe:dbd32.exe|0000
+ntoskrnl.exe|C:\Windows\system32\ntoskrnl.exe|ntoskrnl.exe:ntoskrnl.exe:ntoskrnl.exe|0000
+在沙盘中运行网页浏览器.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Sandboxie\在沙盘中运行网页浏览器.lnk|在沙盘中运行网页浏览器.lnk:在沙盘中运行网页浏览器.lnk:zaishapanzhongyunxingwangyeliulanqi.lnk:zaishapanzhongyunhangwangyeliulanqi.lnk:zaishapanzhongyunhangwangyeliulanqi.lnk:zaishapanzhongyunhengwangyeliulanqi.lnk:zaishapanzhongyunxingwangyeliulanqi.lnk:zaishapanzhongyunhangwangyeliulanqi.lnk:zaishapanzhongyunhangwangyeliulanqi.lnk:zaishapanzhongyunhengwangyeliulanqi.lnk:zaishapanzhongyunxingwangyeliulanqi.lnk:zaishapanzhongyunhangwangyeliulanqi.lnk:zaishapanzhongyunhangwangyeliulanqi.lnk:zaishapanzhongyunhengwangyeliulanqi.lnk:zaishapanzhongyunxingwangyeliulanqi.lnk:zaishapanzhongyunhangwangyeliulanqi.lnk:zaishapanzhongyunhangwangyeliulanqi.lnk:zaishapanzhongyunhengwangyeliulanqi.lnk|0000
+imgCustFinalization.exe|d:\\VMware\VMware Workstation\Resources\imgCustFinalization.exe|imgcustfinalization.exe:imgcustfinalization.exe:imgcustfinalization.exe|0000

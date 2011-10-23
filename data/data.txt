@@ -1,10 +1,10 @@
-notepad.exe|C:\Windows\system32\notepad.exe|notepad.exe:notepad.exe:notepad.exe|0001
+notepad.exe|C:\Windows\system32\notepad.exe|notepad.exe:notepad.exe:notepad.exe|0011
+calc.exe|C:\Windows\system32\calc.exe|calc.exe:calc.exe:calc.exe|0002
+git-update-ref.exe|d:\\git\libexec\git-core\git-update-ref.exe|git-update-ref.exe:git-update-ref.exe:git-update-ref.exe|0002
 notepad.exe|C:\Windows\notepad.exe|notepad.exe:notepad.exe:notepad.exe|0001
-calc.exe|C:\Windows\system32\calc.exe|calc.exe:calc.exe:calc.exe|0001
 scan.py|.\src\scan.py|scan.py|0000
 lrelease.exe|d:\\python25\Lib\site-packages\PyQt4\lrelease.exe|lrelease.exe:lrelease.exe:lrelease.exe|0000
 regsvr32.exe|C:\Windows\system32\regsvr32.exe|regsvr32.exe:regsvr32.exe:regsvr32.exe|0000
-git-update-ref.exe|d:\\git\libexec\git-core\git-update-ref.exe|git-update-ref.exe:git-update-ref.exe:git-update-ref.exe|0000
 InstallDaemon.exe|d:\\Youdao\Dict4\InstallDaemon.exe|installdaemon.exe:installdaemon.exe:installdaemon.exe|0000
 OpenGL Reference.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Borland C++Builder 6\Help\MS SDK Help Files\OpenGL Reference.lnk|opengl reference.lnk:opengl reference.lnk:opengl reference.lnk|0000
 uninst.exe|d:\\Tencent\QQPlayer\uninst.exe|uninst.exe:uninst.exe:uninst.exe|0000

@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file 'ui/main.ui'
 #
-# Created: Fri Oct 07 22:50:57 2011
+# Created: Sun Oct 23 17:38:03 2011
 #      by: PyQt4 UI code generator 4.8.5
 #
 # WARNING! All changes made in this file will be lost!
@@ -24,7 +24,7 @@ class Ui_mainForm(object):
         self.horizontalLayout = QtGui.QHBoxLayout()
         self.horizontalLayout.setSpacing(2)
         self.horizontalLayout.setObjectName(_fromUtf8("horizontalLayout"))
-        self.cmd_edit = QtGui.QLineEdit(mainForm)
+        self.cmd_edit = QKeyPressEventEdit(mainForm)
         self.cmd_edit.setAcceptDrops(False)
         self.cmd_edit.setFrame(True)
         self.cmd_edit.setObjectName(_fromUtf8("cmd_edit"))
@@ -48,9 +48,6 @@ class Ui_mainForm(object):
         self.result_listview = QtGui.QListView(mainForm)
         self.result_listview.setObjectName(_fromUtf8("result_listview"))
         self.verticalLayout.addWidget(self.result_listview)
-        self.action_delete = QtGui.QAction(mainForm)
-        self.action_delete.setText(QtGui.QApplication.translate("mainForm", "&Delete", None, QtGui.QApplication.UnicodeUTF8))
-        self.action_delete.setObjectName(_fromUtf8("action_delete"))
 
         self.retranslateUi(mainForm)
         QtCore.QMetaObject.connectSlotsByName(mainForm)
@@ -60,3 +57,4 @@ class Ui_mainForm(object):
     def retranslateUi(self, mainForm):
         pass
 
+from qkeypresseventedit import QKeyPressEventEdit

@@ -20,7 +20,7 @@
       <number>2</number>
      </property>
      <item>
-      <widget class="QLineEdit" name="cmd_edit">
+      <widget class="QKeyPressEventEdit" name="cmd_edit">
        <property name="acceptDrops">
         <bool>false</bool>
        </property>
@@ -76,6 +76,13 @@
    </item>
   </layout>
  </widget>
+ <customwidgets>
+  <customwidget>
+   <class>QKeyPressEventEdit</class>
+   <extends>QLineEdit</extends>
+   <header>qkeypresseventedit.h</header>
+  </customwidget>
+ </customwidgets>
  <tabstops>
   <tabstop>cmd_edit</tabstop>
   <tabstop>run_button</tabstop>

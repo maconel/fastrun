@@ -21,6 +21,7 @@ class MainForm(QtGui.QWidget):
 
         QtCore.QObject.connect(self.ui.run_button, QtCore.SIGNAL("clicked()"), self._on_run_button_clicked)
         QtCore.QObject.connect(self.ui.cmd_edit, QtCore.SIGNAL("textChanged(QString)"), self._on_cmd_edit_textchanged)
+        QtCore.QObject.connect(self.ui.cmd_edit, QtCore.SIGNAL('keyPressEvent(QKeyEvent)'), self._on_cmd_edit_keyPressEvent)
         QtCore.QObject.connect(self.ui.result_listview, QtCore.SIGNAL("doubleClicked(QModelIndex)"), self._on_result_listview_doubleclicked)
 
     def getcmd(self):
@@ -34,7 +35,10 @@ class MainForm(QtGui.QWidget):
             standardItem.setData(item)
             self._result_model.appendRow(standardItem)
         if len(itemlist) > 0:
-            self.ui.result_listview.selectionModel().select(self._result_model.index(0, 0), QtGui.QItemSelectionModel.Select)
+            #如果使用下面那种选中方式，会导致当按向下键时，listview会先选中第一个，好似下面那种方法的选中对listview无效似得。
+            keyEvent = QtGui.QKeyEvent(QtCore.QEvent.KeyPress, QtCore.Qt.Key_Down, QtCore.Qt.KeyboardModifiers())
+            self.ui.result_listview.keyPressEvent(keyEvent)
+            #self.ui.result_listview.selectionModel().select(self._result_model.index(1, 0), QtGui.QItemSelectionModel.Select)
 
     def getselectitems(self):
         return [self._result_model.itemFromIndex(i).data().toPyObject()
@@ -46,6 +50,15 @@ class MainForm(QtGui.QWidget):
 
     def messagebox_notfound(self):
         return QtGui.QMessageBox.Yes == QtGui.QMessageBox.question(self, u'提示', u'没找到，是否添加?', QtGui.QMessageBox.Yes, QtGui.QMessageBox.No)
+
+    def keyPressEvent(self, keyEvent):
+        super(MainForm, self).keyPressEvent(keyEvent)
+        if keyEvent.nativeVirtualKey() == 13:   #enter
+            self._on_run_button_clicked()
+
+    def show(self):
+        super(MainForm, self).show()
+        self.ui.cmd_edit.setFocus()
 
     def _on_run_button_clicked(self):
         self._event_handler.on_run()
@@ -61,6 +74,12 @@ class MainForm(QtGui.QWidget):
 
         self.ui.cmd_edit.selectAll()
         self.ui.cmd_edit.setFocus()
+
+    def _on_cmd_edit_keyPressEvent(self, keyEvent):
+        if keyEvent.nativeVirtualKey() == 38:   #up
+            self.ui.result_listview.keyPressEvent(keyEvent)
+        elif keyEvent.nativeVirtualKey() == 40: #down
+            self.ui.result_listview.keyPressEvent(keyEvent)
 
 
 class AddForm(QtGui.QWidget):

@@ -1,4 +1,5 @@
-notepad.exe|C:\Windows\system32\notepad.exe|notepad.exe:notepad.exe:notepad.exe|0011
+notepad.exe|C:\Windows\system32\notepad.exe|notepad.exe:notepad.exe:notepad.exe|0012
+Evernote.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Evernote\Evernote.lnk|evernote.lnk:evernote.lnk:evernote.lnk|0006
 calc.exe|C:\Windows\system32\calc.exe|calc.exe:calc.exe:calc.exe|0002
 git-update-ref.exe|d:\\git\libexec\git-core\git-update-ref.exe|git-update-ref.exe:git-update-ref.exe:git-update-ref.exe|0002
 notepad.exe|C:\Windows\notepad.exe|notepad.exe:notepad.exe:notepad.exe|0001
@@ -1330,7 +1331,6 @@ ReAgentc.exe|C:\Windows\system32\ReAgentc.exe|reagentc.exe:reagentc.exe:reagentc
 msvsmon.exe|d:\\vs8\Common7\IDE\Remote Debugger\x86\msvsmon.exe|msvsmon.exe:msvsmon.exe:msvsmon.exe|0000
 XDCMake.exe|d:\\vs8\VC\bin\ia64\XDCMake.exe|xdcmake.exe:xdcmake.exe:xdcmake.exe|0000
 digest.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\3.6.0\bin\digest.exe|digest.exe:digest.exe:digest.exe|0000
-Evernote.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Evernote\Evernote.lnk|evernote.lnk:evernote.lnk:evernote.lnk|0000
 NETSTAT.EXE|C:\Windows\system32\NETSTAT.EXE|netstat.exe:netstat.exe:netstat.exe|0000
 Print Management.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Print Management.lnk|print management.lnk:print management.lnk:print management.lnk|0000
 MSDN Library for Visual Studio 2005.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Developer Network\MSDN Library for Visual Studio 2005.lnk|msdn library for visual studio 2005.lnk:msdn library for visual studio 2005.lnk:msdn library for visual studio 2005.lnk|0000

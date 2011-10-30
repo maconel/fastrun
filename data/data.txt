@@ -1,8 +1,11 @@
 notepad.exe|C:\Windows\system32\notepad.exe|notepad.exe:notepad.exe:notepad.exe|0012
 Evernote.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Evernote\Evernote.lnk|evernote.lnk:evernote.lnk:evernote.lnk|0006
+MSDN Library for Visual Studio 2005.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Developer Network\MSDN Library for Visual Studio 2005.lnk|msdn library for visual studio 2005.lnk:msdn library for visual studio 2005.lnk:msdn library for visual studio 2005.lnk|0005
 calc.exe|C:\Windows\system32\calc.exe|calc.exe:calc.exe:calc.exe|0002
 git-update-ref.exe|d:\\git\libexec\git-core\git-update-ref.exe|git-update-ref.exe:git-update-ref.exe:git-update-ref.exe|0002
 notepad.exe|C:\Windows\notepad.exe|notepad.exe:notepad.exe:notepad.exe|0001
+bcb.exe|d:\\bcb\CBuilder6\Bin\bcb.exe|bcb.exe:bcb.exe:bcb.exe|0001
+spyxx.exe|d:\\vs8\Common7\Tools\spyxx.exe|spyxx.exe:spyxx.exe:spyxx.exe|0001
 scan.py|.\src\scan.py|scan.py|0000
 lrelease.exe|d:\\python25\Lib\site-packages\PyQt4\lrelease.exe|lrelease.exe:lrelease.exe:lrelease.exe|0000
 regsvr32.exe|C:\Windows\system32\regsvr32.exe|regsvr32.exe:regsvr32.exe:regsvr32.exe|0000
@@ -994,7 +997,6 @@ regedt32.exe|C:\Windows\system32\regedt32.exe|regedt32.exe:regedt32.exe:regedt32
 upgrade.exe|d:\\vs8\SmartDevices\SDK\SQL Server\Mobile\v3.0\wce500\mipsiv\upgrade.exe|upgrade.exe:upgrade.exe:upgrade.exe|0000
 git-peek-remote.exe|d:\\git\libexec\git-core\git-peek-remote.exe|git-peek-remote.exe:git-peek-remote.exe:git-peek-remote.exe|0000
 w32tm.exe|C:\Windows\system32\w32tm.exe|w32tm.exe:w32tm.exe:w32tm.exe|0000
-spyxx.exe|d:\\vs8\Common7\Tools\spyxx.exe|spyxx.exe:spyxx.exe:spyxx.exe|0000
 Create Recovery Disc.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Maintenance\Create Recovery Disc.lnk|create recovery disc.lnk:create recovery disc.lnk:create recovery disc.lnk|0000
 git-merge-recursive.exe|d:\\git\libexec\git-core\git-merge-recursive.exe|git-merge-recursive.exe:git-merge-recursive.exe:git-merge-recursive.exe|0000
 odbcte32.exe|d:\\vs8\VC\PlatformSDK\Bin\win64\IA64\odbcte32.exe|odbcte32.exe:odbcte32.exe:odbcte32.exe|0000
@@ -1085,7 +1087,6 @@ odbct32w.exe|d:\\vs8\VC\PlatformSDK\Bin\win64\AMD64\odbct32w.exe|odbct32w.exe:od
 SoundRecorder.exe|C:\Windows\system32\SoundRecorder.exe|soundrecorder.exe:soundrecorder.exe:soundrecorder.exe|0000
 verifier.exe|C:\Windows\system32\verifier.exe|verifier.exe:verifier.exe:verifier.exe|0000
 spreview.exe|C:\Windows\system32\spreview.exe|spreview.exe:spreview.exe:spreview.exe|0000
-bcb.exe|d:\\bcb\CBuilder6\Bin\bcb.exe|bcb.exe:bcb.exe:bcb.exe|0000
 启动迅雷精简版.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\迅雷软件\迅雷精简版\启动迅雷精简版.lnk|启动迅雷精简版.lnk:启动迅雷精简版.lnk:qidongxunleijingjianban.lnk:qidongxunleijingjianban.lnk:qidongxunleijingjianban.lnk:qidongxunleijingjianban.lnk|0000
 Adobe Flash Builder 4.5.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Flash Builder 4.5\Adobe Flash Builder 4.5.lnk|adobe flash builder 4.5.lnk:adobe flash builder 4.5.lnk:adobe flash builder 4.5.lnk|0000
 gpgkeys_hkp.exe|d:\\git\libexec\gnupg\gpgkeys_hkp.exe|gpgkeys_hkp.exe:gpgkeys_hkp.exe:gpgkeys_hkp.exe|0000
@@ -1333,7 +1334,6 @@ XDCMake.exe|d:\\vs8\VC\bin\ia64\XDCMake.exe|xdcmake.exe:xdcmake.exe:xdcmake.exe|
 digest.exe|d:\\adobe\Adobe Flash Builder 4.5\sdks\3.6.0\bin\digest.exe|digest.exe:digest.exe:digest.exe|0000
 NETSTAT.EXE|C:\Windows\system32\NETSTAT.EXE|netstat.exe:netstat.exe:netstat.exe|0000
 Print Management.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Print Management.lnk|print management.lnk:print management.lnk:print management.lnk|0000
-MSDN Library for Visual Studio 2005.lnk|c:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Developer Network\MSDN Library for Visual Studio 2005.lnk|msdn library for visual studio 2005.lnk:msdn library for visual studio 2005.lnk:msdn library for visual studio 2005.lnk|0000
 TlbImp.exe|d:\\vs8\SDK\v2.0\Bin\TlbImp.exe|tlbimp.exe:tlbimp.exe:tlbimp.exe|0000
 control.exe|C:\Windows\system32\control.exe|control.exe:control.exe:control.exe|0000
 cscope.exe|d:\\vim\vim73\cscope.exe|cscope.exe:cscope.exe:cscope.exe|0000

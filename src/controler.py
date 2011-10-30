@@ -47,7 +47,8 @@ class Controler(object):
         print item.path
         #os.spawnv(os.P_NOWAIT, item.path, ())
         #os.system('start /B "%s"' % item.path)
-        os.system('cmd /c "%s"' % item.path)
+        #os.system('cmd /c "%s"' % item.path)
+        os.system('start /B cmd /c "%s"' % item.path)
         self._storage.raise_priority(item)
 
     def on_run(self):
